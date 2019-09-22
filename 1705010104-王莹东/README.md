@@ -36,8 +36,8 @@
 ![avatar](images/2.png)
 
 
-##系统数据流图
+## 系统数据流图
 ![](images/3.png)
 
-##数据字典
+## 数据字典
 ![](images/4.png)
