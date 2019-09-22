@@ -1,0 +1,17 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "40C5F5F5-FFFF-4CCE-9C31EB597364AE8B"
+			RelativePath = "作业.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "作业.gui"/>
+		<FileInfo
+			ID = "EB07F4DD-C345-46B9-A81274B6EB0E26D9"
+			RelativePath = "取款.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "取款.gui"/>
+	</Files>
+</Catalogue>
