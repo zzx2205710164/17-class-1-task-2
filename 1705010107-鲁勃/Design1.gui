@@ -1,0 +1,160 @@
+<Screen
+	CID = "2003722556"
+	AppID = "2"
+	AppVer = "4.1.109.0"
+	DocID = ""
+	HasCanvas = "1"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "2003719131"
+			Type = "FrameWindow"
+			X = "125"
+			Y = "85"
+			Width = "400"
+			Height = "300"
+			Flags = "0"
+			WindowColour = "172,168,153,0,13"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Title = "存储系统-操作页面"
+			TitleBarHeight = "18"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "1"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "11"
+			Icon = "DefaultApp"/>
+		<Element
+			CID = "2003726838"
+			Type = "TextButton"
+			X = "200"
+			Y = "198"
+			Width = "109"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "存款"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "2003700529"
+			Type = "TextButton"
+			X = "351"
+			Y = "197"
+			Width = "110"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "取款"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "2003707021"
+			Type = "StaticText"
+			X = "174"
+			Y = "133"
+			Width = "305"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "请选择您所需要的操作"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "2003708486"
+			Type = "TextButton"
+			X = "202"
+			Y = "269"
+			Width = "109"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "查询余额"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "2003722466"
+			Type = "TextButton"
+			X = "354"
+			Y = "266"
+			Width = "109"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "退出"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "2003725864"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
