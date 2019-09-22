@@ -1,0 +1,31 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Miscellaneous">
+	<OpenFiles
+		CID = "1"
+		LastActive = "3">
+		<File
+			RootPath = "$Container"
+			RelativePathname = "login.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "main.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "40C5F5F5-FFFF-4CCE-9C31EB597364AE8B"
+			RootPath = "$Container"
+			RelativePathname = "作业.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "save.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "EB07F4DD-C345-46B9-A81274B6EB0E26D9"
+			RootPath = "$Container"
+			RelativePathname = "取款.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>
