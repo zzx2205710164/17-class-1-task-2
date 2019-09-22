@@ -13,12 +13,12 @@
 操作可行性：银行业务员并不具备软件维护能力，在数据库的维护应由专业人士定期维护。
 
 ### 系统流程图：
-![](https://gitee.com/wang_ya_xuan/17-class-1-task-2/raw/master/1705010114-%E7%8E%8B%E4%BA%9A%E8%BD%A9/%E7%B3%BB%E7%BB%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![](https://github.com/forrestrun7/17-class-1-task-2/blob/master/1705010114-%E7%8E%8B%E4%BA%9A%E8%BD%A9/%E7%B3%BB%E7%BB%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 ### 信息流图：
-![](https://gitee.com/wang_ya_xuan/17-class-1-task-2/raw/master/1705010114-%E7%8E%8B%E4%BA%9A%E8%BD%A9/%E4%BF%A1%E6%81%AF%E6%B5%81%E5%9B%BE.png)
+![](https://github.com/forrestrun7/17-class-1-task-2/blob/master/1705010114-%E7%8E%8B%E4%BA%9A%E8%BD%A9/%E4%BF%A1%E6%81%AF%E6%B5%81%E5%9B%BE.png)
 
 ### 项目原型
 地址：[https://free.modao.cc/app/oji8t0jaj9k0swu93ru2fc7nxeqdg](https://free.modao.cc/app/oji8t0jaj9k0swu93ru2fc7nxeqdg)
 
-![](https://gitee.com/wang_ya_xuan/17-class-1-task-2/raw/master/1705010114-%E7%8E%8B%E4%BA%9A%E8%BD%A9/%E9%A1%B9%E7%9B%AE%E5%8E%9F%E5%9E%8B.png)
+![](https://github.com/forrestrun7/17-class-1-task-2/blob/master/1705010114-%E7%8E%8B%E4%BA%9A%E8%BD%A9/%E9%A1%B9%E7%9B%AE%E5%8E%9F%E5%9E%8B.png)
