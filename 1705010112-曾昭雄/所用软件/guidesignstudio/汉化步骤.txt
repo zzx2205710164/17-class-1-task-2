@@ -1,0 +1,12 @@
+
+
+
+1.先安装：GUIDesignStudio_R41109_Setup.exe
+
+2.在安装好的程序里面，把汉化文件GUIDesignStudio.exe 覆盖原程序，即可
+
+
+
+不再跟新汉化版本 包内有汉化过程文件有需要可自行跟新 
+
+2013年12月28日  lainline  maomao123_1981@163.com

@@ -1,0 +1,4270 @@
+### Read unicode in C:\Program Files\GUI Design Studio Pro\chs\GUIDesignStudio.exe ###
+Right
+Left
+Style
+Direction
+Style
+Label
+None
+Bottom
+Top
+Data
+Style
+Title
+Fill
+.bmp
+.gif
+.jpg
+Folders
+Application
+\GUI Design Studio\
+Indicator
+Highlight
+Window
+Menu
+Desktop
+Files//
+Elements//
+Screen
+FILENAME
+Properties
+Target
+Template
+Screens
+Screen
+Elements
+Element
+Section
+Text#
+Alias
+Default
+Ignore
+Name
+Order
+Position
+Type
+First
+Start
+End
+Yes
+<%PROJECT_LABEL%>
+<%SCREEN_LABEL%>
+<%CLIENT_WIDTH%>
+<%CLIENT_HEIGHT%>
+<%TYPE%>
+<%LABEL%>
+<%INDEX%>
+<%WIDTH%>
+<%HEIGHT%>
+.backup
+WMS Sans Serif
+AAnnotations Panel
+Colour Swatch
+AControls Panel
+Screen
+ACsDataScreenElements archive failure
+Button
+Brown
+Olive Green
+Dark Green
+Dark Teal
+Dark Blue
+Grey-80%
+Dark Red
+Orange
+Dark Yellow
+Green
+Blue
+Blue-Grey
+Grey-60%
+Red
+Light Orange
+Sea Green
+Light Blue
+Violet
+Grey-40%
+Gold
+Yellow
+Bright Green
+Sky Blue
+Grey-20%
+Pale Yellow
+Pale Green 
+Pale Blue
+White
+Scroll Bars
+Active Title Bar
+Inactive Title Bar
+Menu Bar
+Window Background
+Window Frame
+Menu Text
+Window Text
+Active Title Bar Text
+Active Border
+Inactive Border
+Application Workspace
+Selection Highlight
+Highlight Text
+Button Face
+Button Shadow
+Disabled Text
+Button Text
+Inactive Title Bar Text
+Button Highlight
+Button Dark Shadow
+Button Light Shadow
+ToolTip Text
+ToolTip Background
+Hot Track
+Active Title Bar Gradient
+Inactive Title Bar Gradient
+.deleted
+Description
+File
+Folder
+Link
+Links
+Options
+Project
+Workspace
+Filename
+Title
+Author
+Organization
+URL
+Version
+Keywords
+<table><tr><td><icon handle=0x%X></td><td>%s</td></tr></table>
+</font></h3>
+<h3><font color=#174377>
+<p><i>Visible Condition:</i><br>
+<p><i>Enabled Condition:</i><br>
+open
+A{Bits}
+{Height}
+{Width}
+{Index}
+{Filename}
+Name
+BIcons Panel
+Modal
+Toggle Overlay
+Replace Top Window
+Replace Window
+Toggle Window
+Hide Window
+Show Window
+Modal Choice Popup
+Modal Popup
+(automatic)
+jMicrosoft Sans Serif
+Notes Panel
+Default
+Auto
+Yes
+Variable
+Name
+Value
+XP Green
+Windows XP
+.bmp
+.gif
+.jpg
+Projects
+Recent Project List
+Project%d
+CProject Panel
+_Icons
+_Images
+.txt
+any file
+Samples\Welcome\Welcome.gdp
+Screen
+Failed to load file: %s
+CStoryboard Panel
+Tile
+Stretch
+Align
+Navigation
+Bitmap
+Filename
+Placement
+Navigation
+Modal
+Templates\
+g(no category)
+ALPHA
+gEnglish - US
+ghttp://www.carettasoftware.com/it/libraries.html
+Libraries from Caretta Software and the Community
+Microsoft Sans Serif
+.jpg
+http://www.carettasoftware.com/it/templates.html
+Templates from Caretta Software and the Community
+Popup
+Separator
+Application Button
+Style
+Navigation
+Cancel
+Mirror
+Title
+Type
+Item
+Data
+State
+Style
+Navigation
+Calendar
+Rows
+.short
+.long
+.selected
+Icons\Miscellaneous\ArrowLargeRight.ico
+Icons\Miscellaneous\ArrowLargeLeft.ico
+Customise Button
+Style
+Navigation
+Mirror
+Margin
+Checked
+Unchecked
+Data
+State
+Style
+Navigation
+Text
+State
+Data
+State
+Style
+Navigation
+Mirror
+Value
+.all
+.checked
+.checks
+.index
+.count
+Data
+State
+Style
+Navigation
+Text
+Mirror
+Transparent
+Navigation
+Screen
+Filename
+Component
+Override
+Background
+Type
+Navigation
+Flat
+Style
+Navigation
+Count
+Style
+Columns
+Rows
+Real
+Integer
+Text
+Data
+State
+Style
+Navigation
+Text
+Data
+State
+Style
+Navigation
+Text
+Mirror
+XHelp Button
+Restore Button
+Maximise Button
+Minimise Button
+Close Button
+Icon
+(BLANK)
+State
+Style
+Navigation
+Cancel
+Close
+Title
+Mirror
+Buttons
+Icon
+State
+Style
+Text
+Smooth
+State
+Style
+Range
+Progress
+Style
+Numbers
+Data
+State
+Style
+Both
+Data
+State
+Style
+Pointer
+State
+State
+Style
+Navigation
+Text
+State
+Style
+Navigation
+Mirror
+Text
+Icon
+Filename
+Button Options
+Button Command
+State
+Style
+Navigation
+Text
+Mirror
+Command
+Options
+State
+Style
+Navigation
+Text
+Mirror
+Command
+Options
+Style
+Navigation
+Fill
+Text
+Data
+State
+Style
+Navigation
+Mirror
+Value
+Style
+Navigation
+Mirror
+Item
+Style
+Navigation
+Mirror
+Title
+Type
+Item
+Style
+Mirror
+Text
+Style
+Navigation
+Mirror
+Type
+Item
+Hotkey
+Data
+State
+Style
+Navigation
+Text
+State
+Style
+Navigation
+Rectangle
+Text
+Fill
+Border
+Tab
+State
+Style
+Navigation
+Mirror
+Type
+Text
+Navigation
+Navigation
+Navigation
+Navigation
+Scroll Down
+Scroll Up
+Style
+Navigation
+Mirror
+XOptions Button
+Style
+Navigation
+Text
+Mirror
+Navigation
+Single
+Style
+Navigation
+Fill
+Border
+Text
+Accept
+Cancel
+Close
+02.Rulers.01.Horz.02.Centre
+02.Rulers.02.Vert.02.Centre
+XNulla sollicitudin, dolor nec adipiscingullamcorper, eros ligula blandit lacus, at molestie dui nulla sed pede. Aliquam in dui ut turpis mollisiaculis. Etiam nonummy, nibh ac ultricies tempus, lectus arcu iaculis quam, a laoreet nisl neque facilisissapien.
+Integer vestibulum semper sem. In fringilla sem at nisl. Praesent lacus sem, ullamcorper vitae, eleifend a, elementum ut, ipsum. Nulla vehicula, sapien eget suscipit ultricies, maurisdolor vehicula elit, sit amet porta odio nisi in sapien.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin pretiumvenenatis velit. Nulla aliquam aliquet purus. Maecenas dapibus urna sed purus. Duis iaculis.
+Quisque mauris diam, varius sed, nonummy sit amet, vehicula ac, felis. Suspendisse vel lorem. Lorem ipsumdolor sit amet, consectetuer adipiscing elit. Aliquam velit pede, hendrerit in, viverra nec, tincidunt vitaeleo.
+Cras adipiscing tristique orci. Aliquam euismod, nisl nec nonummy malesuada, lacus lectus lacinia ipsum, tincidunt cursus est augue suscipit arcu. Vivamus magna est, vestibulum eu, imperdiet quis, tempor eu, eros.
+Vestibulum ultrices nunc eu erat pretium iaculis. Mauris sem enim, interdum sed, posuere at, lobortis in, sem. Morbi diamtellus, sollicitudin varius, iaculis in, malesuada ullamcorper, nunc.Morbi quis lacus non diam sodales pretium.
+Integer luctus, ipsum nonvehicula molestie, purus neque gravida pede, sit amet accumsan nuncarcu ac nunc. Maecenas ac urna vel massa sagittis elementum. Classaptent taciti sociosqu ad litora torquent per conubia nostra, perinceptos hymenaeos.
+Quisque interdum, lectus non aliquet rutrum, risus nislpulvinar ligula, eget suscipit tellus elit at odio.
+Integer mollis molestienisi. Sed vel nunc quis sapien posuere porta.
+Curabitur diam massa, laciniacondimentum, blandit non, porta et, risus.
+State
+Style
+Navigation
+Fill
+Text
+Style
+Mirror
+State
+Style
+Text
+Active
+Mirror
+Descending
+Ascending
+State
+Style
+Navigation
+Table
+Mirror
+Columns
+Heading
+Width
+Data
+Row
+Cell
+State
+Style
+Navigation
+Text
+Margin
+Style
+Style
+Navigation
+State
+Style
+Navigation
+Text
+Depth
+Style
+Navigation
+Mirror
+Item
+Toolbar
+State
+Style
+Navigation
+Style
+Navigation
+Style
+State
+Style
+Navigation
+Icon
+Tree
+Mirror
+Icons
+Text
+State
+Style
+Range
+Progress
+Style
+Numbers
+Data
+State
+Style
+Data
+State
+Style
+Pointer
+State
+State
+Style
+Navigation
+Text
+State
+Style
+Navigation
+Text
+Rounded
+Style
+Navigation
+Text
+Depth
+Shape
+Style
+Navigation
+Style
+Navigation
+Fill
+Medium
+Small
+Round
+Square
+Style
+Navigation
+Text
+Box
+Style
+Navigation
+Text
+Shape
+Fill
+PGUI Design Studio
+Recent File List
+File%d
+Caretta Software
+THIS
+VERSION IS NOT FOR DISTRIBUTION!
+http://www.carettasoftware.com/it/gds10_about_cs.html
+http://www.carettasoftware.com
+Professional
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).
+This product includes software developed by CollabNet (http://www.Collab.Net/).
+Screen
+Failed to save file:
+Failed to build data tree for saving
+*.bmp
+Style
+.bmp
+.gif
+.jpg
+Export
+;componentsource;element5;share-it!;
+;licensed;registered;
+PAID-NC
+TEMP
+DEFAULT
+TRIAL
+Windows Classic
+Windows XP Classic
+Windows XP
+Windows Vista
+.zip
+.jpg
+Screens
+Features
+Tutorials
+Scanning for files...
+Building cross reference tables...
+Generating documentation...
+Generating code...
+Failed to initialise the code generator!
+No code generator selected!
+JPG
+Activity Bar
+Alignment
+Very Large
+Normal
+Very Small
+Microsoft Sans Serif
+Startup
+Design
+Simulation
+Name
+Spelling
+Language
+Compatibility
+Icon Express
+Microsoft Sans Serif
+English (US)
+Horizontal Centre
+Vertical Centre
+Left Right Edge
+Top Bottom Edge
+Group Align %s
+Same Size %s
+Width
+Height
+Span Size %s
+Evenly Space %s
+Horizontally
+Vertically
+Move Element
+Move %u Elements
+Resize Element
+Resize %u Elements
+Set Screen Size to %ld x %ld
+Fit Screen to Elements
+Add Element
+QAdd %u Connections
+Add Connection
+Add %u Elements
+Delete %u Connections
+Delete Connection
+Delete %u Elements
+Delete Element
+Edit Properties
+Paint Properties
+Override Properties
+Edit Connection Properties
+Paint Connection Properties
+Re-order Element
+Re-order Elements
+Make Connection
+Clear Representative Element
+Set Representative Element
+Use Default Representative Element
+Restore Component
+Restore Component Item
+QSwap Element Positions
+QGroup Elements
+Ungroup Elements
+QCreate Selection Group
+Add to Selection Group
+Remove from Selection Group
+Accept
+Back
+Cancel
+Close
+Navigation
+Name
+Condition
+Exit
+Forward
+Title
+Message
+Name
+Value
+Navigation
+Exit
+Accept
+Cancel
+Close
+Back
+Forward
+Modal
+ZNon-Browser Mode
+Close Mode
+Forward
+Back
+Menu Capture
+.htm
+Failed to run command:
+Failed to run command:
+$Directory$
+Projects
+Project
+Folder
+File
+Options
+Name
+Root
+Pathname
+http://www.guidesignstudio.com
+GUI Design Studio
+W(Display Message)
+Navigate Forward
+Navigate Back
+Navigation:ModelessSwitchTop
+Navigation:ModelessSwitch
+Navigation:ModelessToggle
+Navigation:ModelessHide
+Navigation:ModelessShow
+Navigation:ModalSelector
+Navigation:Modal
+Navigation
+Click
+Middle Click
+Right Click
+Double Click
+Middle Double Click
+Right Double Click
+Mouse Over
+Mouse Enter
+Mouse Leave
+W*.dll
+These plug-ins failed to load properly:
+These files do not appear to be valid plug-ins:
+These plug-ins are not licensed:
+These plug-ins need a different version to run:
+WInternal error
+Memory allocation failure
+Unknown variable: %s
+Unknown function: %s
+Unknown operator: %s
+Wrong number of function parameters: %s
+Comma , outside function parameter list
+Value expected
+Unexpected end of expression
+Unexpected part: "%s"
+Empty expression
+Parentesis ) missing
+Syntax error
+Syntax error in part: "%s"
+Success
+Undefined Error
+%d, expected %d
+AND
+LOG
+MAX
+MIN
+INTEGER
+ENDS
+STARTS
+JOIN
+CONTAINS
+LENGTH
+Layout
+Documentation
+Element
+Type
+Width
+Height
+Name
+Filename
+Navigation
+Modal
+Style
+Navigation
+Close
+Back
+Forward
+Modal
+Connection
+Type
+Layer
+Trigger
+Screen
+Connections
+Elements
+Groups
+Notes
+Type
+Width
+Height
+Description
+X$Absolute
+$Application
+$Project
+$Container
+acronym
+big
+code
+font
+input
+label
+select
+small
+span
+strong
+Files
+PROPERTIES
+Group
+Elements
+Elements
+Item%02d
+Navigation
+Modal
+Overlays
+Grid
+Canvas
+Note
+Name
+Yes
+</body>
+style="margin-top: 0; margin-bottom: 5mm;"
+<p style="margin: 0 0 2.53mm 0;">
+Yes
+gMy Computer
+edit
+CsDataIconReference archive failure
+CsDataFilenameLink archive failure
+ZMore Colors...
+Automatic
+<tr><td width=70 bgcolor=buttonface>%s</td><td width=130 bgcolor=window>%s</td></tr>
+</table></td></tr></table>
+<br><font color=darkblue>Mouse Cursor</font><table border=1>
+</table>
+<td><font color=darkblue>Window Owner</font><table border=1>
+</table></td>
+Has Tooltip
+Styles
+Control ID
+Handle
+Title
+Class name
+<tr><td><font color=darkblue>Window</font><table border=1>
+<table>
+[WM_PPTOOLTIP_VIRTUAL_KEY_CODE
+\shell\open\command
+Unknown Error (%d) occurred.
+Pale blue
+Pale green 
+Light yellow
+Light grey
+Bright green
+Grey - 50
+Light blue
+Sea green
+Light orange
+Grey - 40
+Blue-grey
+Dark yellow
+Dark red
+Dark grey
+Dark blue
+Dark Olive Green
+Software\Microsoft\Plus!\Themes\Current
+italic
+normal
+lighter
+bold
+right
+center
+left
+bottom
+top
+middle
+capitalize
+lowercase
+uppercase
+none
+double
+solid
+.cpp-comment {color:green; font-style:italic}
+small {font-size:75%}
+big {font-size:125%}
+sup {font-size:65%; vertical-align:top}
+sub {font-size:65%; vertical-align:bottom}
+a:hover {text-decoration:underline; color:blue}
+code {color:#990000; font-family:Arial}
+pre {font-size: 9pt; font-family:"Courier"; background-color:#fbedbb}
+h6 {font-size: 65%; color:#626262; font-family:Verdana; font-weight:normal}
+h5 {font-size: 9pt; color:#ff9900; font-family:Verdana; font-weight:bold}
+h4 {font-size: 10pt; color:black; font-family:Verdana; font-weight:bold}
+h3 {font-size: 12pt; color:#ff9900; font-family:Arial; font-weight:bold}
+h2 {font-size: 13pt; color:#ff9900; font-family:Verdana; font-weight:bold}
+h1 {font-size: 14pt; color:black; font-family:Verdana; font-weight:bold}
+p {font-size: 10pt; color:black; font-family:Verdana; font-weight:bold}
+body {font-size: 10pt; color:black; font-family:Verdana}
+line-through
+underline
+medium
+thick
+thin
+/table
+table
+speed
+height
+width
+style
+mask
+file
+handle
+index
+noise
+transparent
+padding
+margin
+border-style
+size
+border-width
+border-color
+vertical-align
+text-decoration
+background-color
+color
+text-transform
+text-align
+font-weight
+font-style
+font-family
+font-size
+align
+bgcolor
+border
+background
+cellspacing
+cellpadding
+&copy;
+link
+pre
+body
+string
+icon
+bmp
+justify
+strikeout
+indent
+window
+scrollbar
+menu
+highlight
+yellow
+white
+violet
+red
+purple
+orange
+olive
+navy
+magenta
+green
+gray
+gold
+cyan
+brown
+blue
+black
+a:link
+class
+weight
+face
+<body>
+bZipArchive library Copyright 2000 - 2006 Tadeusz Dracz
+dUnknown error
+Zlib library error (version error)
+Zlib library error (buffer error)
+Not enough memory
+Zlib library error (data error)
+Zlib library error (stream error)
+Zlib Library error (end of stream)
+The central directory was not found in the archive (or you were trying to open not the last disk of a multi-disk archive)
+Cannot create the file for the specified platform
+Error while renaming a file
+Error while removing a file
+During testing found the directory with the size greater than 0
+Incorrect password set for the file being decrypted
+The filename of the file being added to the archive is too long
+Limit of the maximum volumes reached
+The device selected for the disk spanning archive is non removable
+Action aborted safely
+Action aborted
+Disk change aborted
+No disk-spanning callback object set
+Crc mismatched
+Damaged or not a zip file
+Not super-user
+No such file or directory
+Interrupted system call
+I/O error
+No such device or address
+Bad file number
+Not enough space
+Permission denied
+Bad address
+File exists
+Cross-device link
+No such device
+Not a directory
+Is a directory
+Invalid argument
+File table overflow
+Too many open files
+File too large
+No space left on device
+Illegal seek
+Read-only file system
+cZipArchive Mapping File
+Text#
+Document#
+CDATA Section End
+CDATA Section Start
+DTD End
+DTD Start
+Tag End
+Double Quote
+Single Quote
+Processor Instruction Start
+Processor Instruction End
+Empty Element End
+Element Open Start
+Element Close Start
+Document Type Start
+Assignment Operator
+LINE %d: More data expected
+LINE %d: Expected a token
+LINE %d: Unexpected %s ("%s")
+Unknown Token
+LINE %d: Element tag mismatch '%s', expected '%s'
+Failed to open memory buffer for reading
+Failed to read file: 
+Failed to allocate memory for file: 
+Failed to open file: 
+No root node set
+Failed to open string for reading
+All Files
+DISPLAY
+software
+STATIC
+BUTTON
+SCROLLBAR
+MS Shell Dlg
+MSH_SCROLL_LINES_MSG
+windows
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+Software\Microsoft\Windows\CurrentVersion\Policies\Network
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+Control Panel\Desktop\ResourceLocale
+system
+Software\
+hRichEdit Text and Objects
+Rich Text Format
+Link Source Descriptor
+Object Descriptor
+Link Source
+Embed Source
+Embedded Object
+Native
+Visible
+%s-Bar%d
+%s-Summary
+Docking
+Floating
+Bars
+Bar#%d
+windows
+commdlg_help
+r%s\shell\open\%s
+%s\shell\print\%s
+%s\shell\printto\%s
+command
+[open("%1")]
+[print("%1")]
+[print("
+[open("
+%2\protocol\StdFileEditing\verb\0
+&Edit
+%2\protocol\StdFileEditing\server
+CLSID\%1\Verb\0
+&Edit,0,2
+CLSID\%1\Verb\1
+&Open,0,2
+CLSID\%1\Printable
+Embedding %lu
+windows
+E(null)
+.com
+.bat
+.exe
+Both
+Free
+VS_VERSION_INFO
+Comments
+User Interface Design and Prototyping Tool
+Caretta Software Ltd
+GUI Design Studio
+Copyright (C) 2003-2009 Caretta Software Ltd
+GUI Design Studio
+Translation
+&Edit
+&Undo
+Ctrl+Z
+&Redo
+Ctrl+Y
+Cu&t
+Ctrl+X
+&Copy
+Ctrl+C
+&Paste
+Ctrl+V
+&View
+&Toolbar
+&Help
+&Contents
+&Index
+&What's This?
+Shift+F1
+Keyboard &Shortcuts
+&Mouse Controls
+&Tutorials
+Tips and Tric&ks
+Web &Resources
+&License
+&Enter Key...
+&Buy Online
+&About GUI Design Studio...
+&File
+&New
+Ctrl+N
+&Open...
+Ctrl+O
+&Close
+&Update
+Ctrl+S
+Save Copy &As...
+&Print...
+Ctrl+P
+Print Pre&view
+P&rint Setup...
+Recent File
+E&xit
+&Edit
+&Undo
+Ctrl+Z
+&Redo
+Ctrl+Y
+Cu&t
+Ctrl+X
+&Copy
+Ctrl+C
+&Paste
+Ctrl+V
+&View
+&Toolbar
+&Status Bar
+&Window
+&New Window
+&Cascade
+&Tile
+&Arrange Icons
+&Help
+&Contents
+&Index
+&What's This?
+Shift+F1
+Keyboard &Shortcuts
+&Mouse Controls
+&Tutorials
+Tips and Tric&ks
+Web &Resources
+&License
+&Enter Key...
+&Buy Online
+&About GUI Design Studio...
+&File
+&New
+Ctrl+N
+&Open...
+Ctrl+O
+New Project...
+Open Project...
+Close Project
+Create &Distribution File...
+Create Te&mplate...
+&Generate Documentation...
+Genera&te Code...
+Pack Project for S&haring...
+P&rint Setup...
+Recent &Files
+Recent File
+Recent Projects
+Recent Project
+Preferen&ces...
+E&xit
+&View
+&Toolbar
+&Status Bar
+&Design Bar
+Design Bar &Position
+Dock &Left
+Dock &Right
+&Float
+&Project
+Add Project Lin&k...
+Add &Folder Link...
+&Remove Link
+&New Folder...
+New De&sign...
+New &Icon...
+&Edit Icon...
+D&uplicate Design...
+&Paste Image to File...
+Insert from &Template...
+Ren&ame File/Folder
+&Delete File/Folder
+De&lete Icon File
+Set as Custom &Elements Folder
+Set &Main Project Design To:
+Clear Main Project Design
+Project &Options...
+Enable Move and Rename...
+&Help
+&Contents
+&Index
+&What's This?
+Shift+F1
+Keyboard &Shortcuts
+&Mouse Controls
+&Tutorials
+Tips and Tric&ks
+Further &Help
+Web &Resources
+&License
+&Enter Key...
+&Buy Online
+&About GUI Design Studio...
+&File
+&Open...
+Ctrl+O
+Open Project...
+Close Project
+P&rint Setup...
+Recent &Files
+Recent File
+Recent Projects
+Recent Project
+Preferen&ces...
+E&xit
+&View
+&Toolbar
+&Status Bar
+&Design Bar
+Design Bar &Position
+Dock &Left
+Dock &Right
+&Float
+&Help
+&What's This?
+Shift+F1
+Web &Resources
+&About GUI Design Viewer...
+Hidden Commands
+Add Image File
+Add Icon File
+Refresh Files
+Refresh Icon Folders
+Refresh Icons
+History Back
+History Forward
+Simulator Stop
+Simulator Close Mode
+Design Bar Tab 1
+Design Bar Tab 2
+Design Bar Tab 3
+Design Bar Tab 4
+Design Bar Tab 5
+Design Bar Tab 6
+Design Bar Tab 7
+Design Bar Tab 8
+Design Bar Tab 9
+Design Bar Tab 10
+Documentation
+Doc Bold
+Doc Italic
+Doc Underline
+Doc Heading
+Doc Numbering
+Doc Bullets
+Doc Increase Indent
+Doc Decrease Indent
+Doc Spell Check
+Element Doc Bold
+Element Doc Italic
+Element Doc Underline
+Element Doc Heading
+Element Doc Numbering
+Element Doc Bullets
+Element Doc Increase Indent
+Element Doc Decrease Indent
+Element Doc Spell Check
+TX Text Test Dialog
+&File
+&New
+Ctrl+N
+&Open...
+Ctrl+O
+&Close
+&Save
+Ctrl+S
+Save &As...
+Save A&ll
+Ctrl+Shift+S
+Create &Distribution File...
+Create Te&mplate...
+&Generate Documentation...
+Genera&te Code...
+Pack Project for S&haring...
+&Export...
+New Project...
+Open Project...
+Close Project
+&Print...
+Ctrl+P
+Print Pre&view
+P&rint Setup...
+Recent &Files
+Recent File
+Recent Projects
+Recent Project
+Preferences...
+E&xit
+&Edit
+&Undo
+Ctrl+Z
+&Redo
+Ctrl+Y
+Cu&t
+Ctrl+X
+&Copy
+Ctrl+C
+&Duplicate
+Ctrl+D
+&Paste
+Ctrl+V
+D&elete
+Delete
+Select A&ll
+Ctrl+A
+Copy Design &Image
+Ctrl+Shift+C
+Pr&operties...
+Alt+Enter
+&View
+&Toolbar
+&Status Bar
+&Design Bar
+Design Bar &Position
+Dock &Left
+Dock &Right
+&Float
+&Zoom...
+Zoom to &100%
+Zoom &In
+Zoom &Out
+&Fit Elements to View
+Numpad /
+&Canvas
+P&rototype Information
+Ctrl+F8
+Navigation O&verlays
+High &Quality Display
+&Project
+Add Project Lin&k...
+Add &Folder Link...
+&Remove Link
+&New Folder...
+New De&sign...
+New &Icon...
+&Edit Icon...
+D&uplicate Design...
+&Paste Image to File...
+Insert from &Template...
+Ren&ame File/Folder
+&Delete File/Folder
+De&lete Icon File
+Set as Custom &Elements Folder
+Set &Main Project Design To:
+Clear Main Project Design
+Project &Options...
+Enable Move and Rename...
+&Design
+&Screen Canvas Size...
+&Fit Screen Canvas to Elements
+Set Representati&ve Element
+&Clear Representative Element
+Use &Default Representative Element
+Go To Connection &Target
+Ctrl+T
+&Go To Connection Source
+Ctrl+R
+Add &Bitmap...
+Add &Icon...
+Add Co&mponent Design...
+Ma&ke Connection
+F4 / Shift+F4
+&Refresh
+Refresh &All
+Ctrl+F5
+&Layout
+&Align
+&Left
+Ctrl+Left Arrow
+&Horizontal Centre
+Ctrl+6
+&Right
+Ctrl+Right Arrow
+Left to Right &Edges
+&Top
+Ctrl+Up Arrow
+&Vertical Centre
+Ctrl+5
+&Bottom
+Ctrl+Down Arrow
+Top to Bottom E&dges
+Ctrl+4
+Gro&up Align
+&Left
+Ctrl+Shift+Left Arrow
+&Horizontal Centre
+Ctrl+Shift+6
+&Right
+Ctrl+Shift+Right Arrow
+Left to Right &Edges
+&Top
+Ctrl+Shift+Up Arrow
+&Vertical Centre
+Ctrl+Shift+5
+&Bottom
+Ctrl+Shift+Down Arrow
+Top to Bottom E&dges
+Ctrl+Shift+4
+&Space Evenly
+&Horizontally
+Ctrl+7
+&Vertically
+Ctrl+8
+&Make Same Size
+&Width
+Ctrl+9
+&Height
+Ctrl+0
+&Both
+&Span Width
+Sp&an Height
+&Layer
+Send to Back
+Bring to &Front
+Ba&ck One
+For&ward One
+Send to Back of &All
+S&wap Element Positions
+Ctrl+W
+Snap to &Edges
+&Run
+&Run Prototype
+Run &Prototype from Main Design
+Ctrl+F9
+Prototype &Options...
+&Window
+&New Window
+Clo&se
+Close &All
+Close &Others
+&Cascade
+Tile &Horizontally
+Tile &Vertically
+Arrange &Icons
+&Help
+&Contents
+&Index
+&What's This?
+Shift+F1
+Keyboard &Shortcuts
+&Mouse Controls
+&Tutorials
+Tips and Tric&ks
+Further &Help
+Web &Resources
+&License
+&Enter Key...
+&Buy Online
+&About GUI Design Studio...
+&File
+&Open...
+Ctrl+O
+&Close
+&Export...
+Open Project...
+Close Project
+&Print...
+Ctrl+P
+Print Pre&view
+P&rint Setup...
+Recent &Files
+Recent File
+Recent Projects
+Recent Project
+Preferences...
+E&xit
+&View
+&Toolbar
+&Status Bar
+&Design Bar
+Design Bar &Position
+Dock &Left
+Dock &Right
+&Float
+&Zoom...
+Zoom to &100%
+Zoom &In
+Zoom &Out
+&Canvas
+Navigation O&verlays
+&Simulator
+Run Simulator
+Run &Simulator on Main Design
+Ctrl+F9
+Simulator &Options...
+&Window
+&New Window
+&Cascade
+Tile &Horizontally
+Tile &Vertically
+&Arrange Icons
+&Help
+&What's This?
+Shift+F1
+Web &Resources
+&About GUI Design Viewer...
+Screen Editor
+ELEMENT_CMD_START
+Open Component Desi&gn
+Ctrl+Shift+O
+Restore Component
+Restore Component Item
+Go To Connection Target
+Alt+T
+Go To Connection Source
+Alt+R
+ELEMENT_CMD_END
+Group Elements
+Ctrl+G
+Ungroup Elements
+Ctrl+Shift+G
+Create Selection Group
+Add to Selection Group
+Remove from Selection Group
+Cu&t
+Ctrl+X
+&Copy
+Ctrl+C
+&Duplicate
+Ctrl+D
+&Paste
+Ctrl+V
+D&elete
+Delete
+&Align
+&Left
+Ctrl+Left Arrow
+&Horizontal Centre
+Ctrl+6
+&Right
+Ctrl+Right Arrow
+Left to Right &Edges
+&Top
+Ctrl+Up Arrow
+&Vertical Centre
+Ctrl+5
+&Bottom
+Ctrl+Down Arrow
+Top to Bottom E&dges
+Ctrl+4
+Gro&up Align
+&Left
+Ctrl+Shift+Left Arrow
+&Horizontal Centre
+Ctrl+Shift+6
+&Right
+Ctrl+Shift+Right Arrow
+Left to Right &Edges
+&Top
+Ctrl+Shift+Up Arrow
+&Vertical Centre
+Ctrl+Shift+5
+&Bottom
+Ctrl+Shift+Down Arrow
+Top to Bottom E&dges
+Ctrl+Shift+4
+Space Evenl&y
+&Horizontally
+Ctrl+7
+&Vertically
+Ctrl+8
+Make Same Si&ze
+&Width
+Ctrl+9
+&Height
+Ctrl+0
+&Both
+&Span Width
+Sp&an Height
+&Layer
+Send to Back
+Bring to &Front
+Ba&ck One
+For&ward One
+Send to Back of &All
+&Screen Canvas Size...
+&Fit Screen Canvas to Elements
+Set Representati&ve Element
+Clear &Representative Element
+Add &Bitmap...
+Add &Icon...
+Add Co&mponent Screen...
+Add Eleme&nt
+Pr&operties...
+Alt+Enter
+Simulator
+&Back
+Alt+Left
+&Forward
+Alt+Right
+&Annotation Tool Tips
+Apply &Data Set
+Copy &Image
+Ctrl+Shift+I
+&Export Image...
+Ctrl+Shift+E
+&Close Mode
+E&xit
+Shift+Esc
+Full Simulator
+&Back
+Alt+Left
+&Forward
+Alt+Right
+Full &Screen
+Browser Mode
+&Annotation Tool Tips
+Apply &Data Set
+Copy &Image
+Ctrl+Shift+I
+&Export Image...
+Ctrl+Shift+E
+&Close Mode
+E&xit
+Shift+Esc
+Viewer
+ELEMENT_CMD_START
+Open Component Desi&gn
+Ctrl+Shift+O
+ELEMENT_CMD_END
+File
+Create &Folder...
+&Create Design...
+D&uplicate Design...
+&Paste Image to File...
+Insert from &Template...
+&Rename
+&Delete
+Set as Custom &Elements Folder
+Set as &Main Project Design
+&Open Folder in Explorer
+About GUI Design Studio
+MS Sans Serif
+GUI Design Studio
+Version
+Copyright (C) 2003-2010 Caretta Software Ltd
+All rights reserved.
+Licensed to:
+Hardware ID:
+Trial Version
+Select Scenario
+MS Sans Serif
+Select
+Cancel
+Connection Properties
+MS Sans Serif
+Line &Colour
+Line &Width
+&Event Trigger
+Navigation &Type
+&Apply
+Cancel
+Enter Text
+MS Sans Serif
+Title
+MS Sans Serif
+Close
+Enter New Icon Details
+MS Sans Serif
+&Name
+&Size
+&Colours
+Cancel
+New Project
+MS Sans Serif
+&Name:
+&Based on:
+&Location
+&Add links to library projects:
+(you can add or remove these later from the Project panel)
+Cancel
+Find Libraries Online
+Preferences
+MS Sans Serif
+Startup
+&Open most recently used project
+Visual &Style
+Colour Schemes
+Use alternative colour scheme when &designing
+Use alternative colour scheme when running &prototype
+Default Font
+S&cale
+&Icon Editor
+Magnetic Edge Snapping
+Snapping &Threshold (pixels):
+Mouse Scroll Wheel (if present)
+#C--------&Zoom
+Zoom (Scroll Vertically with Ctrl key)
+Scroll
+&Vertically (Zoom with Ctrl key)
+Right to Left Languages
+&Mirror elements by default for right to left layout
+Spell Checker
+La&nguage
+&Underline misspelled words while typing 
+Compatibility
+Disable File Dialog e&xtensions (if you experience Open/Save problems)
+Disable Su&bversion (SVN) support (if you don't use a version 1.6 client)
+Cancel
+Prototype Options
+MS Sans Serif
+Screen Resolution
+Emulate different screen &resolution:
+Display
+&Show Annotation Tool Tips
+Prototype Menu
+Prototype menu &transparency
+Which scenario should run at a Condition Box?
+Let the &User choose from a list
+The &Normal (first) scenario always
+The first &Alternative (second) scenario always
+The ne&xt scenario (cycle sequentially)
+A Rando&m scenario
+Cancel
+Screen Canvas Size
+MS Sans Serif
+&Width:
+&Height:
+Display design screen &canvas
+Set as &default
+Cancel
+MS Sans Serif
+Set Zoom
+MS Sans Serif
+Cancel
+View &Scale
+Position
+MS Sans Serif
+&Width
+&Height
+Fixed W&idth
+Fixed H&eight
+Fixed Aspect &Ratio
+Set to Original Size
+Placement
+MS Sans Serif
+&Placement
+&Vertical Alignment
+&Horizontal Alignment
+Image Area
+MS Sans Serif
+Clip &Left
+Clip &Right
+Clip &Top
+Clip &Bottom
+Border
+MS Sans Serif
+S&tyle
+&Width
+&Depth
+&Colour
+&Highlight
+&Shadow
+Fill
+MS Sans Serif
+S&tyle
+&Colour
+&Gradient Colour
+Button
+MS Sans Serif
+&Label
+Text &Colour
+D&efault Button
+Di&sabled
+Button &Depth
+Check Box
+MS Sans Serif
+&Label
+&3-State
+Chec&ked
+&Text Left
+Di&sabled
+Text &Colour
+&Box Alignment
+Title Bar
+MS Sans Serif
+&Title
+Ic&on
+&Margin
+pixels
+Bar &Height
+pixels
+C&entre Text
+&Close Button
+Hel&p Button
+Mi&nimise Button
+&Restore Button
+Ma&ximise Button
+Window
+MS Sans Serif
+S&unken Window
+&Document Window
+&Active Window
+&Mirror for Right to Left
+Border &Size
+pixels
+Window &Colour
+S&often Title Bar Colours
+Edges
+MS Sans Serif
+&Left
+&Top
+&Right
+&Bottom
+State
+MS Sans Serif
+Di&sabled
+Scroll Bar
+MS Sans Serif
+&Range
+&Page Size
+&Slider Position
+&Disabled
+Sq&uare Buttons
+Button Si&ze
+Text
+MS Sans Serif
+&Text
+&Colour
+&Disabled
+&Vertical Alignment
+&Horizontal Alignment
+Background
+MS Sans Serif
+&Style
+&Colour
+Edit Box
+MS Sans Serif
+&Text
+Align&ment
+&Read Only
+&Disabled
+T&ype
+Edit Box
+MS Sans Serif
+&Text
+&Disabled
+&Alignment
+&Read Only
+Scroll Bars
+MS Sans Serif
+&Horizontal Scroll Bar
+&Vertical Scroll Bar
+&Mirror for Right to Left
+&Wrap words onto next line
+Horizontal &Offset
+First Visible &Line
+Combo Box
+MS Sans Serif
+&Text
+Alignme&nt
+&Editable content
+&Custom styling
+&Flat Style
+&Disabled
+&Mirror for Right to Left
+Data
+MS Sans Serif
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+&First Item
+S&elected
+Style
+MS Sans Serif
+&Horizontal Scroll Bar
+&Vertical Scroll Bar
+Mirror for &Right to Left
+&Wrap words
+&Disabled
+&Flat Style
+Horizontal &Offset
+Horizontal &Margin
+&Item Height
+Hori&zontal Alignment
+Ver&tical Alignment
+A&utomatic Height
+Max &Visible Items
+Data
+MS Sans Serif
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+&First Item
+S&elected
+Radio Button
+MS Sans Serif
+&Label
+&Selected
+&Text Left
+Di&sabled
+Text &Colour
+&Box Alignment
+Layout
+MS Sans Serif
+Button Bar
+&None
+&Right
+&Bottom
+Si&ze
+(pixels)
+Grid
+&Columns
+R&ows
+&Spacing
+Margins
+MS Sans Serif
+&Left
+&Top
+&Right
+&Bottom
+Grid
+MS Sans Serif
+&Columns
+C&ount
+&Every
+&Spacing
+&Rows
+Co&unt
+E&very
+Spaci&ng
+Text
+MS Sans Serif
+&Text
+&Colour
+&Placement
+.)Am
+&Horizontal Alignment
+&Ignore text for position and size 
+Di&sabled
+Style
+MS Sans Serif
+&Style
+Bar Si&ze
+Aspect &Ratio
+&Inner Border
+&Background Colour
+Bar &Colour
+Progress
+MS Sans Serif
+Full &Range
+&Progress
+Tab
+MS Sans Serif
+&Label
+Text &Colour
+&Selected
+&Reversed
+&Disabled
+Style
+MS Sans Serif
+&Background
+Background &Colour
+&Vertical Alignment
+&Horizontal Alignment
+Maintain size when component changes
+Style
+MS Sans Serif
+Border &Margin
+Border &Width
+Border &Colour
+&Fill Colour
+&Solid
+Sq&uare
+Style
+MS Sans Serif
+Line &Width
+Line &Colour
+Text
+MS Sans Serif
+&Title
+Text Style
+MS Sans Serif
+&Title Text
+A&nnotation Text
+&Vert Alignment
+&Horiz Alignment
+Box Style
+MS Sans Serif
+&Border
+&Colour
+&Width
+&Solid
+&Fill Colour
+Shad&ow
+&Depth
+Label
+MS Sans Serif
+&Label
+&Colour
+Text
+MS Sans Serif
+&Text
+Align&ment
+A&ctive
+&Mirror for Right to Left
+Style
+MS Sans Serif
+&Flat Style
+&Pressed
+Style
+MS Sans Serif
+&Flat Style
+Text
+MS Sans Serif
+&Status Message:
+&Mirror for Right to Left
+Text &Colour
+Bac&kground Colour
+Message
+MS Sans Serif
+&Title
+&Message
+MS Sans Serif
+&Insert
+&Replace
+&Delete
+Move &Up
+Move Do&wn
+Style
+MS Sans Serif
+Line &Colour
+Line &Width
+Type
+MS Sans Serif
+Navigation &Type
+Alignment
+MS Sans Serif
+Target Align&ment
+Align &To
+Items
+MS Sans Serif
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+&Left Margin
+&Mirror for Right to Left
+Items
+MS Sans Serif
+&Hotkey
+Disa&bled
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+&Left Margin
+&Right Margin
+&Mirror for Right to Left
+Style
+MS Sans Serif
+&Flat Style
+Show
+MS Sans Serif
+&Horizontal Lines
+&Vertical Lines
+&Cell Borders
+&Fill Cells
+&Guide Lines
+(Simulation invisible)
+Grid
+MS Sans Serif
+&Columns
+R&ows
+Column &Spacing
+(pixels)
+Ro&w Spacing
+(pixels)
+Slider
+MS Sans Serif
+&Range
+Slider P&osition
+Selection &Start
+Selection &End
+&Disabled
+&Tick Marks
+Sele&ction Range
+Re&verse Range
+&Point
+Style
+MS Sans Serif
+Tab &Locations
+&Mirror for Right to Left
+Tab Si&zes
+&Full Width
+&Left Margin
+&Right Margin
+Enable &Selection In Simulator
+Items
+MS Sans Serif
+Disa&bled
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+S&elected
+Style
+MS Sans Serif
+Tab &Locations
+Tab Si&zes
+&Full Height
+&Top Margin
+&Bottom Margin
+Enable &Selection In Simulator
+Create Distribution File
+MS Sans Serif
+Fil&e:
+Include
+The whole &project:
+Designs in the selected &folder only:
+The current &design file only:
+NOTE: Referenced design and image files will be included automatically
+Options
+Include &linked projects
+Include all &open design files
+&Automatically run the prototype when opened in the Viewer
+&Close the Viewer when the prototype completes
+Create
+Cancel
+Distribution File Created
+MS Sans Serif
+Close
+Open Containing &Folder
+Distribution file: %s
+has been created successfully!
+Generate Documentation
+MS Sans Serif
+Output For&mat
+&Options...
+Output &Language
+Output Folder
+Add date-&stamp suffix
+Add &time-stamp suffix
+Remo&ve spaces in name
+Include
+The whole &project:
+Designs in the selected &folder only:
+The current &design file only:
+Include referenced &component designs
+Include lin&ked projects
+So&rt Designs By:
+Content
+&Generate full documentation
+Generate &update documentation only
+Modified &After
+Full
+Update
+Modified &Before
+Full
+Update
+(last full documentation message)
+(last update documentation message)
+Sho&w component design notes in containing designs 
+Please provide a before or after date and time, or both to select a range
+Generate
+Cancel
+Set to last doc...
+MS Shell Dlg
+&Setup...
+&Print...
+&Close
+Pre&v Page
+&Next Page
+Zoom &In
+Zoom &Out
+Data
+MS Sans Serif
+S&elected
+&Bold
+Icon
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+< Move &Out
+Move I&n >
+Style
+MS Sans Serif
+Has &border
+Has b&uttons
+Has li&nes
+Has lines at &root
+&Horizontal scroll bar
+&Vertical scroll bar
+&Wrap words
+&Disabled
+&Icons
+Icon &Margin
+Item H&eight
+&Mirror for right to left
+Ruler
+MS Sans Serif
+Range &Start
+Range &End
+&Numbers
+&Decimal Places
+&Boundary Start
+B&oundary End
+Major &Tick Marks
+&Medium Divisions
+Small Di&visions
+Style
+MS Sans Serif
+&Flat Style
+&Bold Text
+&Italic Text
+In&vert Text
+Boun&dary Colour
+Bac&kground Colour
+&Text Colour
+Tick &Marks Colour
+Text
+MS Sans Serif
+&Text
+&Colour
+&Vertical Alignment
+&Horizontal Alignment
+Style
+MS Sans Serif
+&Fill
+&Style
+&Colour
+&Border
+S&tyle
+C&olour
+&Width
+Simulated Screen Size
+MS Sans Serif
+&Width:
+&Height:
+Cancel
+About GUI Design Viewer
+MS Sans Serif
+GUI Design Viewer
+Version
+Copyright (C) 2005-2010 Caretta Software Ltd
+All rights reserved.
+Tab Panel
+MS Sans Serif
+Tab &Orientation:
+Web Page
+MS Sans Serif
+&Background Colour
+Border &Colour
+Border &Width
+Page &Height
+Heading
+MS Sans Serif
+&Heading
+&Style
+Sort &Indicator
+Alig&nment
+&Margin
+&Background
+Border &Colour
+&Text Colour
+Colours
+MS Sans Serif
+&Background
+Bo&rder
+&Grid Line
+Default &Odd Row
+Default &Even Row
+Default Cell &Text
+&Header Background
+Hea&der Border
+Header Te&xt
+&Sorted Column
+Sorted Opa&city (%)
+Style
+MS Sans Serif
+Hea&der Style
+Header &Space
+H&eader Height
+&Minimum Row Height
+Fixed C&olumn Style
+Fixed Col&umns
+Columns
+MS Sans Serif
+Column &Width:
+Margin:
+&Header:
+Alignment:
+&Cells:
+&Odd Row Colour
+&Even Row Colour
+Cell &Text Colour
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+Data
+MS Sans Serif
+&Insert Row
+&Delete Row
+Move &Up
+Move Do&wn
+Sort &Col:
+&Remove Sort
+&Selected
+&Paste from Clipboard
+I&mport...
+E&xport...
+Options
+MS Sans Serif
+&Flat
+&Transparent
+&Border
+Hori&zontal Scroll Bar
+Vertica&l Scroll Bar
+&Mirror for Right to Left
+Full Ro&w Selection
+B&old Header Text
+&Horizontal Lines
+E&xtended
+&Vertical Lines
+Exte&nded
+Extend &Rows
+Extend &Columns
+&Extend Column Headers
+Wrap Header Wor&ds
+Wra&p Words
+Var&iable Height Rows
+Style
+MS Sans Serif
+Hea&der Style
+Header &Space
+H&eader Height
+&Minimum Row Height
+Fixed C&olumn Style
+Fixed Col&umns
+&Flat
+&Transparent
+&Border
+&Horizontal Lines
+&Vertical Lines
+Exte&nded
+Extent &Columns
+Extend &Rows
+Full Ro&w Selection
+Creating Distribution File...
+MS Sans Serif
+Folder:
+File:
+&Cancel
+Font
+MS Sans Serif
+&Quick Pick
+&Size
+&Bold
+&Italic
+Simulator Options
+MS Sans Serif
+Screen Resolution
+Simulate different screen &resolution:
+Starting Point
+Start simulation from Main Project Design (if available)
+Which scenario should run at a Condition Box?
+Let the &User choose from a list
+The &Normal (first) scenario always
+The first &Alternative (second) scenario always
+The ne&xt scenario (cycle sequentially)
+A Rando&m scenario
+Cancel
+Placeholder
+MS Sans Serif
+&Label
+&Background
+Line &Colour
+Outer Border &Size
+Colours
+MS Sans Serif
+&Text
+&Disabled Text
+Ba&ckground
+Di&sabled Background
+&Border
+Items
+MS Sans Serif
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+Style
+MS Sans Serif
+Items
+&Vertical
+&Horizontal
+&Colour
+&Mirror for Right to Left
+Separator
+&Text
+&Left Space
+&Right Space
+C&olour
+Tab
+MS Sans Serif
+&Label
+&Tab Shape
+Attach &Side
+&Corner Style
+&H Alignment
+&V Alignment
+Corner Si&ze
+Style
+MS Sans Serif
+Fill &Style
+Line &Width
+&Closed Outline
+&Fill Colour
+&Line Colour
+&Text Colour
+Tab
+MS Sans Serif
+&Label
+&Tab Shape
+Attach &Side
+&Corner Style
+&H Spacing
+&V Spacing
+Corner Si&ze
+Colours
+MS Sans Serif
+&Background Colour
+&Grid Line Colour
+&Sorted Column Colour
+Opa&city (%)
+Default &Odd Row Colour
+Default &Even Row Colour
+Default Cell &Text Colour
+&Header Background Colour
+Hea&der Border Colour
+Header Te&xt Colour
+Button
+MS Sans Serif
+&Label
+Button &Shape
+&Fill Colour
+Line &Colour
+&Text Colour
+&H Alignment
+&V Alignment
+Button &Depth
+Line &Width
+Style
+MS Sans Serif
+Header
+Box
+Line &Width
+Fill &Style
+Line &Colour
+&Fill Colour
+&Gradient Colour
+Shape
+MS Sans Serif
+&Presets
+Corner Shape
+Corner Size
+&Top Left
+Top &Right
+Bottom &Left
+&Bottom Right
+Panel
+MS Sans Serif
+Header &Text
+Text &Colour
+Text &Margin
+Hea&der Height
+Sho&w Header
+&Separator Line
+&Horizontal Alignment
+&Vertical Alignment
+Data
+MS Sans Serif
+&Insert Row
+&Delete Row
+Move &Up
+Move Do&wn
+Sort &Col:
+&Remove Sort
+&Selected
+Documentation Generated
+MS Sans Serif
+&Close
+Open &Folder
+has been created successfully!
+&Open
+Preferences
+MS Sans Serif
+Startup
+&Open most recently used project
+&Look and Feel
+Colour Schemes
+Use alternative colour scheme when &designing
+Use alternative colour scheme when running &simulator
+Default Font
+S&cale
+Right to Left Languages
+&Mirror elements by default for right to left layout
+Magnetic Edge Snapping
+Snapping &Threshold (pixels):
+Mouse Scroll Wheel (if present)
+#C--------&Zoom
+Zoom (Scroll Vertically with Ctrl key)
+Scroll
+&Vertically (Zoom with Ctrl key)
+&Icon Editor
+Cancel
+Documentation Generation
+MS Sans Serif
+&Stop
+{PROGRESS}
+Documentation Generated
+MS Sans Serif
+&Accept
+Open &Folder
+%s documentation
+has been created successfully!
+&View
+&Reject
+Preferences
+MS Sans Serif
+&Look and Feel
+Colour Schemes
+Use alternative colour scheme when &designing
+Use alternative colour scheme when running &simulator
+Default Font
+S&cale
+Mouse Scroll Wheel (if present)
+#C--------&Zoom
+Zoom (Scroll Vertically with Ctrl key)
+Scroll
+&Vertically (Zoom with Ctrl key)
+Cancel
+Compatibility
+Disable File Dialog e&xtensions
+(if you experience file Open problems)
+Style
+MS Sans Serif
+Margi&n
+&Fill Toolbar
+&Drop-Down Customise Button
+&Mirror for Right to Left
+Text
+MS Sans Serif
+&Text
+Group
+MS Sans Serif
+&Text
+Has &Options Dialog
+&Mirror for Right to Left
+Mirror
+MS Sans Serif
+&Mirror for Right to Left
+Style
+MS Sans Serif
+&Left Margin
+&Right Margin
+&Mirror for Right to Left
+Items
+MS Sans Serif
+&Context Colour
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+S&elected
+Conte&xt Active
+Items
+MS Sans Serif
+&Context Colour
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+S&elected
+Active Contexts
+A&ll Contexts Active
+Style
+MS Sans Serif
+&Left Margin
+&Right Margin
+&Mirror for Right to Left
+All Conte&xts Active
+Enable &Selection In Simulator
+Items
+MS Sans Serif
+Disa&bled
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+Style
+MS Sans Serif
+Panel &Title:
+Resize &Bar
+&Left Margin
+&Right Margin
+&Mirror for Right to Left
+Heading
+MS Sans Serif
+&Mirror for Right to Left
+Text
+Button
+MS Sans Serif
+Text Line &1
+Text Line &2
+&Disabled
+&Mirror for Right to Left
+Has Drop-Down &Options
+&Split Button
+Menu Items
+MS Sans Serif
+Disa&bled
+Split &Popup
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+Side Items
+MS Sans Serif
+&Has Pin Icon
+&Insert
+&Set
+&Delete
+Move &Up
+Move Do&wn
+Style
+MS Sans Serif
+Side &Title:
+Menu &Width
+&Left Margin
+&Right Margin
+&Mirror for Right to Left
+MS Sans Serif
+&Variable Name
+Alpha-numeric and underscore (_) only. Start with alpha.
+&Enabled Condition
+Visible &Condition
+Variables
+MS Sans Serif
+Set
+&Insert
+&Delete
+Generate Code (Alpha)
+MS Sans Serif
+&Code Target
+&Options...
+Project &Label
+Output Folde&r
+Add date-&stamp sub-folder
+Add
+&time-stamp suffix to sub-folder
+&Backup Files to
+Include
+The whole &project:
+Designs in the selected &folder only:
+The current &design file only:
+The selected &element only:
+Generate
+Cancel
+Generate Code
+MS Sans Serif
+&Code Target
+&Options...
+Output Folde&r
+Add date-&stamp suffix
+Add &time-stamp suffix
+Include
+The whole &project:
+Designs in the selected &folder only:
+The current &design file only:
+The selected &element only:
+Content
+&Generate code for all included design files
+Generate code for &updated design files only:
+Modified &After
+Full
+Update
+Modified &Before
+Full
+Update
+(last full code message)
+(last update code message)
+Please provide a before or after date and time, or both to select a range
+Generate
+Cancel
+Set to last doc...
+Code Generated
+MS Sans Serif
+&Close
+Open &Folder
+Code has been created successfully!
+Description
+MS Sans Serif
+A&uthor
+&Organization
+&Website URL
+&Version
+&Keywords
+(comma separated)
+Project &Description:
+Visual Style
+MS Sans Serif
+Use the &visual style from the preference settings
+Use this &Project visual style
+Design Viewer and Editor:
+Visual &Style
+&Colour Scheme
+Default &Typeface
+Default &Font Scale
+dpi
+Sa&me as Prototype
+<--  S&wap  Styles -->
+Same as &Design
+MS Sans Serif
+Browser Bar
+Show &Bar
+Background Colour
+&Fill Style
+Colour &1
+Colour &2
+Background Text
+&Text
+&Display start design name
+&Colour
+&Placement
+Enable File and Folder Move, Copy  and Rename
+MS Sans Serif
+Projects created in earlier versions of GUI Design Studio can be updated to enable file and folder move, copy and rename operations from the Project file tree.
+Before enabling this feature on the current project, please select  from the following options to verify that it is safe to proceed:
+I am the only person working on this project and this is the master copy.
+I share this project with others. My copy is the latest version and everyone else will synchonise to this copy.
+I share this project with others but we might not be fully synchronised yet and my copy may not contain the latest versions of all files.
+Enable Feature
+Cancel
+(Get everyone fully synchronised first before enabling this feature then re-synchronise everyone else to this copy, including the new .gcat file.)
+File
+MS Sans Serif
+File path name:
+MS Sans Serif
+Name:
+&Condition:
+&Insert
+&Replace
+&Delete
+Move &Up
+Move Do&wn
+Variables
+MS Sans Serif
+Data Set:
+Use as initial &prototype values
+&New...
+D&uplicate...
+&Rename...
+D&elete
+&Variable:
+Va&lue:
+&Set
+&Delete
+MS Sans Serif
+&Variable Name
+Alpha-numeric and underscore (_) only.
+Start with alpha.
+Select Icon
+MS Sans Serif
+Recent Icons:
+Cancel
+MS Sans Serif
+Di&sabled
+Mi&nimum Value
+Ma&ximum Value
+&Step Size
+Create Template
+MS Sans Serif
+&Name
+&Category
+NOTE: If not provided, a screenhot will be automatically generated
+Include
+The whole &project:
+Designs in the selected &folder only:
+The current &design file only:
+&Exclude referenced files
+Create
+Cancel
+Create Template
+MS Sans Serif
+Fil&e:
+NOTE: If not provided, a screenhot will be generated
+Include
+The whole &project:
+Designs in the selected &folder only:
+The current &design file only:
+Create
+Cancel
+New Project
+MS Sans Serif
+&Name:
+&Location
+&Add links to sample projects:
+(you can add or remove these later from the Project panel)
+Cancel
+New Project
+MS Sans Serif
+&Name:
+&Location
+&Add links to library projects:
+(you can add or remove these later from the Project panel)
+Cancel
+&Based on:
+Select Template
+MS Sans Serif
+Cancel
+&New Category...
+Delete &Category
+&Import...
+&Delete
+Find Templates Online
+Preferences
+MS Sans Serif
+Startup
+&Open most recently used project
+Visual &Style
+Colour Schemes
+Use alternative colour scheme when &designing
+Use alternative colour scheme when running &prototype
+Default Font
+S&cale
+Right to Left Languages
+&Mirror elements by default for right to left layout
+Magnetic Edge Snapping
+Snapping &Threshold (pixels):
+Mouse Scroll Wheel (if present)
+#C--------&Zoom
+Zoom (Scroll Vertically with Ctrl key)
+Scroll
+&Vertically (Zoom with Ctrl key)
+&Icon Editor
+Cancel
+Spell Checker
+La&nguage
+&Underline misspelled words while typing 
+Colours
+MS Sans Serif
+Fill
+Border
+Text
+&Main Control
+Title &Box
+Week &Numbers
+Week Day N&ames
+Week&end Names
+Week &Days
+&Trailing Days
+&Selected Days
+Sele&cted Trailing
+Today &Highlight
+Calendar
+MS Sans Serif
+Start &Month:
+Selected &Date:
+Days
+&Week Starts On
+Week&end Starts On
+Weekend &Length
+Day &Names Length
+Calendar &Rows
+Calendar &Columns
+&Highlight Today
+Show &Today
+Show Week Num&bers
+Show Wee&ks Line
+&Underline Days
+&Show Trailing Days
+Sh&ow Between Days
+Style
+MS Sans Serif
+&Border Size
+&Title Border Size
+Title H&eight
+Horizontal &Month Spacing
+Vertical M&onth Spacing
+Scroll to &Previous Icon:
+Icon
+Scroll to &Next Icon:
+Icon
+&Cell Border Size
+Cell &Width
+Cell &Height
+Horizontal Cell &Spacing
+Vertical Cell Spacin&g
+&Vertical Alignment
+Hori&zontal Alignment
+Help Topic Editor
+MS Sans Serif
+&Title
+&Description
+&Swap...
+&Alias for
+&Links
+Topi&c...
+Co&mmand...
+&Other...
+&Remove
+Cancel
+Context ID
+&Files...
+Select Topic
+MS Sans Serif
+Cancel
+Select New Link Type
+MS Sans Serif
+Cancel
+File Reference
+MS Sans Serif
+&Description
+&File Name
+&Icon
+Cancel
+Command Link
+MS Sans Serif
+&Description
+Command &File
+&New...
+&Arguments
+Cancel
+Help Link
+MS Sans Serif
+&Description
+Help &File
+&New...
+&Topic ID
+&Keyword
+&Context ID
+Cancel
+Help Topics
+MS Sans Serif
+Delete Topic
+Edit Topic...
+New Topic...
+Command Link
+MS Sans Serif
+&Description
+&Command Line
+&File...
+&Arguments
+&Icon
+Cancel
+Files
+MS Sans Serif
+&New...
+&Edit...
+Close
+Uncheck files do disable/hide them in the popup help
+New
+MS Shell Dlg
+&New 
+Cancel
+&Help
+MS Shell Dlg
+Printing
+Document :
+Page :
+Printer :
+Port :
+Cancel
+MS Shell Dlg
+&Print...
+&Next Page
+Pre&v Page
+Zoom &In
+Zoom &Out
+&Close
+MS Shell Dlg
+Version 
+non-commercial use
+OLE initialization failed.  Make sure that the OLE libraries are the correct version.
+#F8--------%Are
+#F10--------<Are
+#C4--------{Unable
+#C8--------%Are
+#C10--------<Are
+Sorry, no help available.
+This file already exists.
+Replace existing file?
+This folder already exists.
+Replace existing contents?
+There is nothing to generate within the project or the update range you have selected!
+Unable to create document: %s
+If this file is currently in use, please close the document and hit Retry, otherwise Cancel.
+The file you are saving to has modified versions open:
+Continuing will close those files and lose any changes made.
+Unable to run this design. It may contain an automatic navigation that causes the prototype to stop immediately.
+There is nothing that can be used to generate code within the project or range that you have selected!
+Are you sure you want to delete '%s'?
+Are you sure you want to delete folder '%s' and all of its contents?
+Are you sure you want to delete '%s'?
+This cannot be undone.
+#C1--------&Template
+#C4---------Save
+Template file created successfully:
+Template:  %s
+Category:  %s
+This template already exists.
+Replace existing template?
+The following %1 will be created:
+Are you sure you want to continue?
+Save modified design '%s' before duplicating?
+GUI Design Studio
+GUI Design Viewer
+Project
+Project
+Projects (*.gd
+Design
+Design
+GUI Design
+#F1--------Design
+GUI Design Studio Prototype~
+Project Distribution
+Project Distribution
+GUI Design Distributions (*.gdd)
+Design
+Design
+GUI Design
+(Custom Size)
+All Sizes
+All Colour Depths
+Loading Component: %s
+(none)
+#C3--------!Expires
+#C4--------"Expires
+LICENSED ---0You have %u day remaining from your %u day trial1You have %u days
+remaining from your %u day trial
+Expires end of:  %s (%u day left)
+Expires end of:  %s (%u days left)
+Your key expired on %s
+(no message provided)
+Evaluation Copy5produced with an
+evaluation copy of
+GUI Design Studio
+Hardware ID:
+License Key:
+Set '%1' to '%2'
+auto
+%1!d! new file%2 found
+%1!d! file%2 removed
+No new files found
+Icon
+file
+%d files
+Recently Used
+Today: %s
+Label
+Text
+Saving all...
+All saved!
+#C2--------"The
+The whole &project:  %s
+Designs in the selected &folder only:  %s
+The current &design file only:  %s
+The selected &element only:  %s
+&Output File
+&Output Folder
+No previous full documentation has been generated.
+No previous update documentation has been generated.
+Full documentation was last generated on %1 at %2
+Update documentation was last generated on %1 at %2
+System
+Palette
+System
+More Colours...
+Scroll Bars
+Desktop
+Active Title Bar
+Inactive Title Bar
+Menu Bar
+Window Background
+Window Frame
+Menu Text
+Window Text
+Active Title Bar Text
+Active Border
+Inactive Border
+Application Workspace
+Selection Highlight
+Selection Text
+3-D Face
+3-D Shadow
+Disabled Text
+Button Text
+Inactive Title Bar Text
+3-D Bright Highlight
+3-D Dark Shadow
+3-D Highlight
+Tool Tip Text
+Tool Tip Background
+Scroll Bars Dither
+Hot Track
+Active Title Bar Gradient
+Inactive Title Bar Gradient
+Box Gradient Light
+Box Gradient Dark
+Box Legend
+Progress Bar
+Group Text
+Default Button Light
+Default Button Dark
+Ribbon Window
+Ribbon Window Border
+Ribbon Text
+Ribbon Disabled Text
+Ribbon Selection
+Ribbon Transform Red
+Ribbon Transform Green
+Ribbon Transform Blue
+Ribbon Workspace
+Monochrome (1-bit)
+4 Colours (2-bit)
+16 Colours (4-bit)
+256 Colours (8-bit)
+64K Colours (16-bit)
+True Colour (24-bit)
+True Colour with Alpha (32-bit)
+EXIT
+Close and Cancel
+Close and Accept
+Close
+Back
+Forward
+Set Data
+Conditional Content
+Project
+Elements
+Icons
+Notes
+Standard
+Outline Charcoal
+Outline Blue
+Outline Green
+Outline Red
+XP Blue
+XP Green
+Vista Default
+Vista Blue
+Vista Green
+Vista Orange
+Vista Red
+&Full Width
+&Full Height
+Set Data
+Conditions
+All Files (*.*)
+GUI Design Projects (*.gdp)
+GUI Design Files (*.gui)
+#F1--------bmp)|*.bmp|GIF
+All Graphic Files
+*.bmp;*.gif;*.jpg;*.jpeg;*.png
+Bitmap Files (*.bmp)
+*.bmp
+GIF Files (*.gif)
+*.gif
+JPEG Files (*.jpg;*.jpeg)
+*.jpg;*.jpeg
+PNG Files (*.png)
+Bitmap File (*.bmp)
+*.bmp
+GIF File (*.gif)
+*.gif
+JPEG File (*.jpg)
+*.jpg
+PNG File (*.png)
+Icon Files (*.ico)
+#F1--------(*.png)|*.png|Enhanced
+Bitmap File (*.bmp)
+*.bmp
+GIF File (*.gif)
+*.gif
+JPEG File (*.jpg)
+*.jpg
+PNG File (*.png)
+Enhanced Metafile (*.emf)
+GUI Design Distributions (*.gdd)
+All GUI Design Project Files (*.gdp;*.gdd)
+GUI Design Projects (*.gdp)
+GUI Design Distributions (*.gdd)
+GUI Design Templates (*.gdt)
+Packed Projects (*.zip)
+*.zip
+All Graphic Files
+*.bmp;*.gif;*.ico;*.jpg;*.jpeg;*.png
+Bitmap Files (*.bmp)
+*.bmp
+GIF Files (*.gif)
+*.gif
+Icon Files (*.ico)
+JPEG Files (*.jpg;*.jpeg)
+*.jpg;*.jpeg
+PNG Files (*.png)
+Image Properties
+Rectangle Properties
+Text Button Properties
+Check Box Properties
+Radio Button Properties
+Frame Window Properties
+Control Bar Properties
+Vertical Spinner Properties
+Horizontal Spinner Properties
+Vertical Slider Properties
+Horizontal Slider Properties
+Vertical Scroll Bar Properties
+Horizontal Scroll Bar Properties
+Scroll Bar Blank Properties
+Text Properties
+Edit Box Properties
+Combo Box Properties
+List Box Properties
+Check List Box Properties
+Design Grid Properties
+#C--------"Horizontal
+Vertical Progress Bar Properties
+Horizontal Progress Bar Properties
+Vertical Tab Properties
+Horizontal Tab Properties
+Component Properties
+Annotation Target Properties
+Annotation Target Properties
+Icon Properties
+Status Bar Properties
+Toolbar Gripper Properties
+Toolbar Spacer Properties
+Toolbar Button Properties
+Status Bar Indicator Properties
+Annotation Properties
+Message Box Properties
+Condition Box Properties
+Anchor Properties
+Menu Bar Properties
+#C--------#Toolbar
+Popup Menu Properties
+Toolbar Drop-Down Button Properties
+Vertical Tab Bar Properties
+Horizontal Tab Bar Properties
+Tree Properties
+Check Tree Properties
+Vertical Ruler Properties
+Horizontal Ruler Properties
+Divider Properties
+#C--------"Rounded
+Rectangle Shape Properties
+Rounded Rectangle Shape Properties
+Circular Shape Properties
+Elliptical Shape Properties
+Tab Panel Properties
+Group Box Properties
+Table Properties
+Web Page Properties
+Table Heading Properties
+Image Placeholder Properties
+Text Link List Properties
+Web Tab Properties
+Web Tab Bar Properties
+Web Button Properties
+Web Panel Properties
+Activity Panel Properties
+Web Page Part Properties
+Caption Toolbar Properties
+Ribbon Bar Properties
+Ribbon Bar Panel Properties
+Ribbon Bar Group Properties
+#C--------!Application
+Menu Panel Properties
+Application Menu Panel Properties
+Ribbon Bar Button Properties
+Ribbon Bar Drop-Down Button Properties
+Ribbon Bar Gallery Box Properties
+Ribbon Bar Icon Buttton Properties
+Menu Panel Heading Properties
+Ribbon Bar Button Group Properties
+Set Data Properties
+Project Options
+Conditional Panel Properties
+Calendar Properties
+Buttons
+Frames and Dividers
+Grids
+Lists, Trees and Tables
+Shapes
+Windows and Dialogs
+Toolbars and Menus
+Indicators and Rulers
+Text and Edit Boxes
+Design Grids
+Options
+Tabs
+Web
+Ribbon Bar
+Rectangle
+Filled Rectangle
+Solid Border
+Filled Bordered Rectangle
+Sunken Border
+Raised Border
+Etched Border
+Embossed Border
+Group Box Rectangle
+Group Box
+Button
+Check Box
+Unchecked Box
+Checked Box
+Indeterminate Box
+Radio Button
+Unselected Radio Button
+Selected Radio Button
+Vertical Tab
+Horizontal Tab
+Vertical Tab Bar
+Horizontal Tab Bar
+Vertical Tab - Selected
+Horizontal Tab - Selected
+Frame Window
+Mini Frame Window
+Dialog
+Mini Frame Dialog
+Application
+Minimised Window
+Maximised Application
+Document
+Web Page
+Tab Panel
+Control Bar
+Top Control Bar
+Bottom Control Bar
+Left Control Bar
+Right Control Bar
+Status Bar
+Status Indicator
+Docked Toolbar
+Toolbar Gripper - Horizontal
+Toolbar Spacer - Horizontal
+Toolbar Button
+Menu Bar
+Popup Menu
+Toolbar Button Drop-Down
+Toolbar Gripper - Vertical
+Toolbar Spacer - Vertical
+Vertical Spinner
+Horizontal Spinner
+Vertical Slider
+Horizontal Slider
+Vertical Scroll Bar
+Horizontal Scroll Bar
+Scroll Bar Blank
+Vertical Ruler
+Left Vertical Ruler
+Right Vertical Ruler
+Horizontal Ruler
+Top Horizontal Ruler
+Bottom Horizontal Ruler
+Window Resize Gripper
+Small Window Resize Gripper
+Text - Left Aligned
+Edit Box - Left Aligned
+Combo Box
+List Box
+Check List Box
+Tree
+Check Tree
+Combo Box Drop List
+Edit Box - Right Aligned
+Multiple Line Edit Box
+Text - Right Aligned
+#C1--------!Multiple
+#C2--------"Multiple
+Text - Centred
+Multiple Line Text - Left Aligned
+Multiple Line Text - Right Aligned
+Multiple Line Text - Centred
+Table
+Design Grid
+Design
+Icon
+#C1--------"Dialog
+#C2--------#Dialog
+Margins Design Grid
+Dialog Design Grid - Right Buttons
+Dialog Design Grid - Bottom Buttons
+Table Design Grid
+Visible Grid
+Heading
+#C1--------(Left)"Small
+Window Resize Gripper 
+Left)"Small Window Resize Gripper (Left)
+Web Table
+Web Calendar
+Vertical Progress Bar
+Horizontal Progress Bar
+Horizontal Divider
+Vertical Divider
+Caption Toolbar
+Ribbon Bar
+Ribbon Bar Panel
+Ribbon Bar Group
+Menu Panel
+Application Menu Panel
+Ribbon Bar Button Group
+Ribbon Bar Button With Spacer
+Ribbon Bar Button
+Ribbon Bar Drop-Down Button
+Ribbon Bar Gallery Box
+Menu Panel Heading
+Rectangular Text Shape
+Rounded Rectangle Text Shape
+Circular Text Shape
+Elliptical Text Shape
+Text Shape
+Ribbon Bar Icon Button (Small)
+Ribbon Bar Icon Button (Large)
+Calendar
+Image Placeholder
+Heading Level 1 Text 
+Heading Level 2 Text 
+Heading Level 3 Text 
+Greeked Text (Short)
+Greeked Text (Long)
+Text Link List
+Web Tab
+Web Tab Bar
+Web Button
+Web Panel
+Web Page Part
+Small Dot Target
+Large Dot Target
+Small Square Target
+Large Square Target
+Large Hollow Dot Target
+Elliptical Target
+Rectangular Target
+Sequenced Dot Target
+Sequenced Square Target
+Annotation Target
+Left Curly
+Right Curly
+Up Curly
+Down Curly
+Annotation Curly
+Exit Box
+Cancel Box
+Accept Box
+Message Box
+Condition Box
+Navigation Overlay
+Window Placeholder
+Window Position Anchor
+Close Box
+Back Box
+Forward Box
+Set Data
+Conditional Panel
+Outer Margins
+Inner Margins
+Export As
+Enter Folder Name
+Enter Design Document Name
+Save Clipboard Image As
+Margins
+Tab Margins
+Choose Distribution File
+Title Font
+Annotation Font
+Header
+Box
+Choose Output File
+Code Generation
+Enter Data Set Name
+Choose Template File
+Choose Screenshot
+Creating Distribution File...
+Creating Template File...
+Enter Template Category Name
+Save Packed Project As
+Creating Packed Project File...
+Failed to create new project:
+#F1--------open
+#F3--------me
+#F6--------!Failed
+#F10--------!Failed
+#C6--------!Failed
+#C10--------!Failed
+Failed to open project:
+Please exlude the following characters from project names:
+Project %1 already exists.
+Please enter a new name or select an alternative location.
+Failed to save currently open project file:
+Continue closing anyway?
+Failed to create the design image on the Clipboard.
+Unknown or unsupported image format:%s
+Please choose a format from the "Save as type" list only.
+Failed to save the image file:
+Failed to create the design image.
+Probably due to insufficient memory.
+%s already exists.
+Please choose another name.
+Folder '%s' already exists.
+Please choose another name.
+Failed to create new document:
+#C1--------+Failed
+#C2--------.Failed
+Failed to create new folder:
+Failed to get the image from the clipboard.
+Failed to save the clipboard image to file:
+#F1--------.-Failed
+#F3--------"Failed
+#C1---------Failed
+#C3--------"Failed
+Failed to create new icon.
+Failed to duplicate document:
+From: %s
+To: %s
+Please enter or browse for a valid file name to save to.
+Failed to create distribution file
+Failed to generate documentation
+#C1--------!Failed
+Failed to generate code
+Failed to save the file catalogue
+A data set named '%s' already exists.
+Please choose a different name.
+Please enter a valid name
+&Undo: %1
+Ctrl+Z
+&Redo: %1
+Ctrl+Y
+&Tutorials
+Tips and Tric&ks
+#C--------(Set
+Web &Resources
+Set &Main Project Design To: %s
+Ctrl+F10
+Further &Help
+#C1--------'Sorry,
+#C3--------(Please
+#C4--------.Please
+#C5--------(Please
+Help
+Sorry, no help available for this item.
+See Also:
+Please enter a title for this help topic
+Please enter a description for this help topic
+Please enter a description for this file
+#C1--------)Please
+#C2---------Please
+The context help file (%1) was created for a newer version of this application. Consequently, some or all of its contents may not be accessible.
+Please replace the file with the correct version as supplied with the application and restart.
+Please enter a number between %ld and %ld
+Please enter a number between %.3lf and %.3lf
+Select %s File
+#C--------&Help
+All Files (*.*)
+Help Files (*.hlp;*.chm)
+WinHelp Files (*.hlp)
+HtmlHelp Files (*.chm)
+All Files (*.*)
+WinHelp Files (*.hlp)
+HtmlHelp Files (*.chm)
+Link to another popup topic
+Link to an external WinHelp file referenced by context identifier
+Link to an external WinHelp file referenced by keyword
+Link to an external application
+Link to an external HTML Help file referenced by context identifier
+Link to an external HTML Help file referenced by topic identifier
+Link to an external HTML Help file referenced by keyword
+Link to an external application, document or web page
+WinHelp Link
+HtmlHelp Link
+#C--------'Sets
+Sets the canvas size of the screen
+Size
+#C2---------Add
+Fits the screen canvas to the bounds of all the elements
+Fit to Elements
+Add a bitmap element to the design
+Add Bitmap
+Align the left edges of the selected items with the primary selected item
+Align Left (Ctrl+Left Arrow)
+Align the right edges of the selected items with the primary selected item
+Align Right (Ctrl+Right Arrow)
+Align the top edges of the selected items with the primary selected item
+Align Top (Ctrl+Up Arrow)
+Align the bottom edges of the selected items with the primary selected item
+Align Bottom (Ctrl+Down Arrow)
+Align the best top or bottom edges of the selected items with the bottom or top edges of the primary selected item
+Align Top to Bottom Edges
+Align the best left or right edges of the selected items with the right or left edges of the primary selected item
+Align Left to Right Edges
+Align the horizontal centres of the selected items with the primary selected item
+Align Horizontal Centres (Ctrl+6)
+Align the vertical centres of the selected items with the primary selected item
+Align Vertical Centres (Ctrl+5)
+Delete the selection
+Delete
+Evenly space the selected items horizontally
+Space Horizontally (Ctrl+7)
+Evenly space the selected items Vertically
+Space Vertically (Ctrl+8)
+Make selected items the same width as the primary selected item
+Same Width (Ctrl+9)
+Make selected items the same height as the primary selected item
+Same Height (Ctrl+0)
+#C1--------\Make
+#C2--------^Make
+Make the primary selection the same width as the span of the other selected items
+Span Width
+Make the primary selection the same height as the span of the other selected items
+Span Height
+#C--------[Make
+Make selected items the same size (width and height) as the primary selected item
+Same Size
+#C1--------'Set
+#C4--------%Open
+#C5--------$Close
+#C7--------&Add
+#C8--------$Remove
+Set the zoom level of the view
+Set Zoom
+Set the zoom level of the view to normal 100%
+Zoom 100% (Numpad *)
+Create a new project
+New Project
+Open an existing project
+Open Project
+Close the open project
+Close Project
+Add a link to another project or library
+Add Project Link
+Add a link to a folder
+Add Folder Link
+Remove the selected link
+Remove Link
+#C1--------\Dock
+#C2--------^Dock
+Dock the Activity Bar to the left side of the application main window
+Dock Activity Bar Left
+Dock the Activity Bar to the right side of the application main window
+Dock Activity Bar Right
+Float the Activity Bar on top of the application main window
+Float Activity Bar
+#C--------/Edit
+Show or hide the Design Bar
+Edit the properties of the selection
+Properties
+#C1--------=Change
+Change user preferences for application operation
+Preferences
+Enables or disables snapping of design element edges
+Edge Snapping
+#C3--------<Bring
+#C4--------=Send
+Add another design component to the design
+Add Component
+Send item to back, behind other items with the same parent
+Send to Back
+Bring item to the front, covering other items
+Bring to Front
+Send item back one, behind the previous ordered item
+Back One
+Bring item forward one, covering the ordered item above
+Forward One
+Send item to the very back, behind all items regardless of parent
+Send to Back of All
+#C1-------->Show
+#C2--------;Show
+Show or hide the design screen canvas and border
+Toggle Canvas
+Show or hide the design annotations
+Toggle Annotations (F8)
+#F2--------Shift
+Make a connection between annotation or storyboard elements (use the Shift key to make the command sticky)
+Make Connection Mode (F4 / Shift+F4 to make sticky)
+Export the active document to an external format
+Export
+Copies the entire design to the clipboard as a bitmap image
+Copy Design Image
+#C1--------*Add
+#C2--------&Add
+Add an icon element to the design
+Add Icon
+Add a link to a folder
+Add Folder Link
+#C1--------<Create
+#C6--------,Open
+#C7--------^Deletes
+Create a new folder in the current project folder
+New Folder
+Create a new design document in the current project folder
+New Design
+Paste an image from the clipboard into a new file
+Paste Image to File
+Deletes the selected file or folder to the Recycle Bin (where it may be recovered)
+Delete File/Folder
+Create a new icon in the current folder
+New Icon
+Open the selected icon for editing
+Edit Icon
+Deletes the selected icon file to the Recycle Bin (where it may be recovered)
+Delete Icon File
+Saves all the open files
+Save All (Ctrl+Shift+S)
+#C--------@Run
+Run the prototype from the current GUI design
+Run Prototype (F9)
+Refreshes the current design by reloading any referenced files
+Refresh Design (F5)
+Refreshes all open documents by reloading any referenced files
+Refresh All (Ctrl+F5)
+Zoom in to the view to see more detail (use Alt + Right button drag for interactive zoom)
+Zoom In (Numpad +)
+Zoom out of the view to see more of the document (use Alt + Right button drag for interactive zoom)
+Zoom Out (Numpad -)
+Show or hide the storyboard navigation overlays
+Toggle Navigation Overlays
+Makes the selected element the one that represents the design (on a Storyboard)
+Set Representative Element (F10)
+Clears the setting of the element that represents the design (on a Storyboard)
+Clear Representative Element
+Insert Clipboard contents
+Paste
+Change the way the Prototype runs
+Prototype Options
+#C--------)Create
+Create a new design document
+New (Ctrl+N)
+Opens a web browser to allow you to buy licenses over the Internet
+Buy Online
+Enter a license key to unlock this copy of the software
+Enter License Key
+#C2--------?Opens
+Opens the Mouse Controls Help topic
+Mouse Controls Help
+Opens the Keyboard Shortcuts Help topic
+Keyboard Shortcuts Help
+#C1--------)Refreshes
+#C4--------\Create
+Refreshes the current icons
+Refresh Icons
+Refreshes the current project file tree
+Refresh Files
+Refreshes the current icon folders after external changes
+Refresh Icon Folders
+Create a copy of the selected design document in the current project folder
+Duplicate Design
+Duplicate the selection and put it on the Clipboard
+Duplicate (Ctrl+D)
+Creates a single project file for distribution to other people for viewing
+Create Distribution File
+#C4--------[Run
+Sets the main, representative design for this project for prototyping purposes
+Set Main Project Design
+Clears the main, representative design setting for this project
+Clear Main Project Design
+Open the design file for the selected component
+Open Component (Ctrl+Shift+O)
+Run the Prototype project from the main GUI design
+Run Prototype from Main Design (Ctrl+F9)
+Go to the previous screen
+Back
+#F2--------the
+#F4--------_Restore
+#F5--------$Normal
+#F6--------[Mode
+#F7--------$Toggles
+#C1--------!Stop
+#C4--------_Restore
+#C5--------$Normal
+#C6--------[Mode
+#C7--------$Toggles
+Go to the next screen
+Forward
+Stop the prototype
+Stop Prototype
+Close the current mode in the Prototype
+Close Mode
+Restore the selected component to its original state
+Restore Component
+Restore the selected component sub-item or element to its original state
+Restore Component Item
+Normal selection mode
+Selection Mode
+Mode to select items within components to override properties
+Component Item Selection Mode
+Toggles Full Screen mode
+Full Screen
+#C1--------!Toggles
+Toggles 
+Toggles Browser mode
+Browser Mode
+Generates project documentation according to the chosen type and options
+Generate Documentation
+#C2--------<Make
+#C4--------,Make
+#C5--------<Make
+#C6--------:Make
+#C7--------=Increase
+#C8--------=Decrease
+Make selected text bold or remove bold formatting
+Bold
+Make selected text italic or remove italic formatting
+Italic
+Make selected text underlined or remove underline formatting
+Underline
+Make the current paragraph a heading
+Heading
+Make the current paragraph part of a numbered list
+Make the current paragraph part of a bulleted list
+Increase indentation on the current paragraph
+Increase Indent
+Decrease indentation on the current paragraph
+Decrease Indent
+Check spelling
+Spell Check
+#C2--------<Make
+#C4--------,Make
+#C5--------<Make
+#C6--------:Make
+#C7--------=Increase
+#C8--------=Decrease
+Make selected text bold or remove bold formatting
+Bold
+Make selected text italic or remove italic formatting
+Italic
+Make selected text underlined or remove underline formatting
+Underline
+Make the current paragraph a heading
+Heading
+Make the current paragraph part of a numbered list
+Make the current paragraph part of a bulleted list
+Increase indentation on the current paragraph
+Increase Indent
+Decrease indentation on the current paragraph
+Decrease Indent
+Check spelling
+Spell Check
+Show Annotation Tool Tips for elements that have documentation
+Annotation Tool Tips
+Use a default representative element if no other element has been explicitly set
+Default Representative Element
+#F1--------key
+#F4--------:Remove
+#C3--------:Remove
+Click on elements and connections to paint properties from the selected item (use the Shift key to make the command sticky)
+Paint Properties Mode (hold Shift key to make sticky)
+Create a new selection group from the selected elements
+Add the selected elements to an existing selection group
+Remove the selected elements from their selection group(s)
+Default Navigation Type
+Swap the positions of two selected elements
+Swap Positions (Ctrl+W)
+Centre the selected (or all) elements within the view and scale to fit if necessary
+Fit Elements in View (Numpad /)
+Make the target of the selected connection visible
+Go To Target (Ctrl+T)
+Make the source of the selected connection visible
+Go To Source (Ctrl+R)
+Generates code according to the chosen language and options
+Generate Code
+#C--------?Change
+Change options associated with the open project
+Project Options
+Opens the selected folder or the folder containing the selected file in Windows Explorer
+Rename the selected item
+Rename
+Enable file and folder move and rename features in projects created with earlier versions of the software
+Opens the selected folder or the folder containing the selected file in Windows Explorer
+Open Folder
+Sets the main, representative design for this project for prototyping purposes
+Set As Main Design
+#C--------,Apply
+Apply data values from the selected data set
+#C2-------->Inserts
+Specifies that the folder and all sub-folders contain custom element components to copy rather than link to
+Inserts design items from a template file
+Insert from Template
+Creates a template design for inserting into other projects or creating new projects
+Create Template
+#C1--------"Closes
+#C2--------+Closes
+Closes the window/nClose
+Closes all open windows/nClose All
+Closes all other open windows/nClose Others
+Align the horizontal and vertical centres of the selected items with the primary selected item
+Align Centres (Ctrl+4)
+#F1--------as
+#C--------|Align
+Align the horizontal and vertical centre of the selected items as a group with the primary selected item
+Group Align Centres (Ctrl+Shift+4)
+Align the left edge of the selected items as a group with the primary selected item
+Group Align Left (Ctrl+Shift+Left Arrow)
+Align the horizontal centre of the selected items as a group with the primary selected item
+Group Align
+Horizontal Centre (Ctrl+Shift+6)
+Align the right edge of the selected items as a group with the primary selected item
+Group Align Right (Ctrl+Shift+Right Arrow)
+Align the best left or right edge of the selected items as a group with the primary selected item
+Group Align Left to Right Edges
+Align the top edge of the selected items as a group with the primary selected item
+Group Align Top (Ctrl+Shift+Up Arrow)
+Align the bottom edge of the selected items as a group with the primary selected item
+Group Align Bottom (Ctrl+Shift+Down Arrow)
+Align the vertical centre of the selected items as a group with the primary selected item
+Group Align Vertical Centre (Ctrl+Shift+5)
+Align the best top or bottom edge of the selected items as a group with the primary selected item
+Group Align Top to Bottom Edges
+#C2--------@Export
+#C3--------_Creates
+#C4--------_Show
+Copies the current prototype state to the clipboard as a bitmap image
+Copy Image
+Export the current prototype state to an image file
+Export Image
+Creates a copy of the project in a ZIP file that may be sent to others for sharing
+Pack Project
+Show or hide the prototype variable and state condition markers
+Toggle Prototype Info (Ctrl+F8)
+Smoother lines but lower performance
+High Quality
+Group selected elements so that they move as one
+Group
+Revove selected elements from groups so they move independently
+Ungroup
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+Open this project
+#C--------!Start
+Start of element context commands
+#C2--------/End
+End of element context commands
+Start of element selection group context commands
+End of element selection group context commands
+#C--------,Open
+Open tutorial on how to use this application
+Open tip or trick on how to use this application
+Access Internet resources
+Open a further help topic
+READ
+MODIFIED
+Licensed to: %s  
+  UNLICENSED TRIAL: 1 day remaining  
+  UNLICENSED TRIAL: %d days remaining  
+  LIMITED LICENSE: 1 day remaining  
+  LIMITED LICENSE: %d days remaining  
+  - - - - LICENSE EXPIRED - - - -  
+  - - - NOT FOR DISTRIBUTION - - -  
+Licensed
+GUI Design Studio
+#C--------%Select
+For Help, press F1
+Select an object on which to get Help
+%1 in %2
+#C--------'Open
+Create a new document
+New
+Open an existing document
+Open (Ctrl+O)
+#C1--------&Save
+#C3--------&Change
+#C5--------(Print
+Close the active document
+Close
+Save the active document
+Save (Ctrl+S)
+Save the active document with a new name
+Save As
+Change the printing options
+Page Setup
+Change the printer and printing options
+Print Setup
+Print the active document
+Print (Ctrl+P)
+#C1--------/Update
+#C2--------<Save
+Display full pages
+Print Preview
+Update the container to show any changes
+Update
+Save a copy of the active document with a new name
+Save Copy
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Erase the selection
+Erase
+#F1--------Erase
+#F2--------:Cut
+#C1--------<Copy
+#C2--------:Cut
+Erase everything
+Erase All
+Copy the selection and put it on the Clipboard
+Copy (Ctrl+C)
+Cut the selection and put it on the Clipboard
+Cut (Ctrl+X)
+#C--------(Insert
+Find the specified text
+Find
+Insert Clipboard contents
+Paste (Ctrl+V)
+#F3--------"Undo
+#F4--------/Redo
+#C2--------%Select
+#C3--------"Undo
+#C4--------/Redo
+Repeat the last action
+Repeat
+Replace specific text with different text
+Replace
+Select the entire document
+Select All
+Undo the last action
+Undo (Ctrl+Z)
+Redo the previously undone action
+Redo (Ctrl+Y)
+#C3--------/Arrange
+#C6--------(Split
+Open another window for the active document
+New Window
+Arrange icons at the bottom of the window
+Arrange Icons
+Arrange windows so they overlap
+Cascade Windows
+Arrange windows horizontally as non-overlapping tiles
+Tile Horizontally
+Arrange windows vertically as non-overlapping tiles
+Tile Vertically
+Split the active window into panes
+Split
+#C1--------?Display
+Display program information, version number and copyright
+About
+Quit the application; prompts to save documents
+Exit
+#C2--------!Opens
+#C3--------/Display
+#C5---------Display
+Opens Help Index
+Help Index
+Opens Help Contents
+Help Contents
+Display instructions about how to use help
+Help
+Display help for clicked on buttons, menus and windows
+What's This? (Shift+F1)
+Display help for current task or command
+Help
+#C1--------(Switch
+Switch to the next window pane
+Next Pane
+Switch back to the previous window pane
+Previous Pane
+CAP
+#C1--------'Show
+#C2---------Show
+Show or hide the toolbar
+Toggle Toolbar
+Show or hide the status bar
+Toggle Status Bar
+Change the window size
+Change the window position
+Reduce the window to an icon
+#C1--------"Switch
+#C2--------&Switch
+Enlarge the window to full size
+Switch to the next document window
+Switch to the previous document window
+Close the active window and prompts to save the documents
+#C--------!Restore
+Restore the window to normal size
+Activate Task List
+Activate this window
+Open
+Save As
+All Files (*.*)
+Untitled
+#C--------'Close
+Save Copy As
+Close print preview mode
+Cancel Preview
+an unnamed file
+&Hide
+#C1--------'An
+No error message is available.
+An unsupported operation was attempted.
+A required resource was unavailable.
+Out of memory.
+#C--------$An
+An unknown error has occurred.
+An invalid argument was encountered.
+on %1
+&One Page
+&Two Page
+Page %u
+Page %u
+Pages %u-%u
+prn
+Printer Files (*.prn)
+*.prn
+All Files (*.*)
+Print to File
+to %1
+&Update %1
+E&xit && Return to %1
+Linked %s
+Unknown Type
+Invalid filename.
+Failed to open document.
+Failed to save document.
+Save changes to %1?
+Failed to create empty document.
+The file is too large to open.
+Could not start print job.
+Failed to launch help.
+Internal application error.
+#C1--------)Insufficient
+Command failed.
+Insufficient memory to perform operation.
+System registry entries have been removed and the INI file (if any) was deleted.
+Not all of the system registry entries (or INI file) were removed.
+This program requires the file %s, which was not found on this system.
+This program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+Please enter an integer.
+#C1--------*Please
+#C2--------(Please
+#C3--------(Please
+Please enter a number.
+Please enter an integer between %1 and %2.
+Please enter a number between %1 and %2.
+Please enter no more than %1 characters.
+#C1--------*Please
+Please select a button.
+Please enter an integer between 0 and 255.
+Please enter a positive integer.
+Please enter a date and/or time.
+Please enter a currency.
+Please enter a GUID.
+Please enter a time.
+Please enter a date.
+Unexpected file format.
+Cannot find this file.
+Please verify that the correct path and file name are given.
+#F2---------only
+#F4--------.An
+#C3--------.An
+#C4--------.An
+Destination disk drive is full.
+Unable to read from %1, it is opened by someone else.
+Unable to write to %1, it is read-only or opened by someone else.
+An unexpected error occurred while reading %1.
+An unexpected error occurred while writing %1.
+Continue running script?
+Dispatch exception: %1
+The file is not supported by a Document Object server.
+Unable to register document.
+The document may already be open.
+#C2--------;Failed
+#C3--------?Failed
+Update %1 before proceeding?
+Save of OLE embedded object in OLE container failed.
+Failed to register. ActiveX features may not work properly.
+Failed to update the system registry.
+Please try using REGEDIT.
+#C--------#Unable
+Unable to read write-only property.
+Unable to write read-only property.
+Unable to load mail system support.
+#C--------!Send
+Mail system DLL is invalid.
+Send Mail failed to send message.
+#C---------An
+No error occurred.
+An unknown error occurred while accessing %1.
+%1 was not found.
+%1 contains an invalid path.
+%1 could not be opened because there are too many open files.
+#C1--------.An
+Access to %1 was denied.
+An invalid file handle was associated with %1.
+%1 could not be removed because it is the current directory.
+%1 could not be created because the directory is full.
+Seek failed on %1
+A hardware I/O error was reported while accessing %1.
+A sharing violation occurred while accessing %1.
+A locking violation occurred while accessing %1.
+#C--------.An
+Disk full while accessing %1.
+An attempt was made to access %1 past its end.
+#F1--------.-An
+#F2--------/An
+#F3--------.An
+#C1---------An
+#C2--------/An
+#C3--------.An
+No error occurred.
+An unknown error occurred while accessing %1.
+An attempt was made to write to the reading %1.
+An attempt was made to access %1 past its end.
+An attempt was made to read from the writing %1.
+%1 has a bad format.
+%1 contained an unexpected object.
+%1 contains an incorrect schema.
+pixels
+Uncheck
+Check
+Mixed
+iNViSiBLE TEAM
+FULL
+### UNI END ###

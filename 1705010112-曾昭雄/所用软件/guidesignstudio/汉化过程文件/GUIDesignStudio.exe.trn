@@ -1,0 +1,12296 @@
+### TRANSLATE ENGLISH C:\Program Files\GUI Design Studio Pro\GUIDesignStudio.exe TO CHINESE ###
+#--------1
+Right
+Right
+#--------2
+Left
+Left
+#--------3
+Style
+Style
+#--------4
+Direction
+Direction
+#--------5
+Style
+Style
+#--------6
+Label
+Label
+#--------7
+None
+None
+#--------8
+Bottom
+Bottom
+#--------9
+Top
+Top
+#--------10
+Data
+Data
+#--------11
+Style
+Style
+#--------12
+Title
+Title
+#--------13
+Fill
+Fill
+#--------14
+.bmp
+.bmp
+#--------15
+.gif
+.gif
+#--------16
+.jpg
+.jpg
+#--------17
+Folders
+Folders
+#--------18
+Application
+Application
+#--------19
+\GUI Design Studio\
+\GUI Design Studio\
+#--------20
+Indicator
+Indicator
+#--------21
+Highlight
+Highlight
+#--------22
+Window
+Window
+#--------23
+Menu
+Menu
+#--------24
+Desktop
+Desktop
+#--------25
+Files//
+Files//
+#--------26
+Elements//
+Elements//
+#--------27
+Screen
+Screen
+#--------28
+FILENAME
+FILENAME
+#--------29
+Properties
+Properties
+#--------30
+Target
+Target
+#--------31
+Template
+Template
+#--------32
+Screens
+Screens
+#--------33
+Screen
+Screen
+#--------34
+Elements
+Elements
+#--------35
+Element
+Element
+#--------36
+Section
+Section
+#--------37
+Text#
+Text#
+#--------38
+Alias
+Alias
+#--------39
+Default
+Default
+#--------40
+Ignore
+Ignore
+#--------41
+Name
+Name
+#--------42
+Order
+Order
+#--------43
+Position
+位置
+#--------44
+Type
+Type
+#--------45
+First
+First
+#--------46
+Start
+Start
+#--------47
+End
+End
+#--------48
+Yes
+Yes
+#--------49
+<%PROJECT_LABEL%>
+<%PROJECT_LABEL%>
+#--------50
+<%SCREEN_LABEL%>
+<%SCREEN_LABEL%>
+#--------51
+<%CLIENT_WIDTH%>
+<%CLIENT_WIDTH%>
+#--------52
+<%CLIENT_HEIGHT%>
+<%CLIENT_HEIGHT%>
+#--------53
+<%TYPE%>
+<%TYPE%>
+#--------54
+<%LABEL%>
+<%LABEL%>
+#--------55
+<%INDEX%>
+<%INDEX%>
+#--------56
+<%WIDTH%>
+<%WIDTH%>
+#--------57
+<%HEIGHT%>
+<%HEIGHT%>
+#--------58
+.backup
+.backup
+#--------59
+WMS Sans Serif
+WMS Sans Serif
+#--------60
+AAnnotations Panel
+A注释面板
+#--------61
+Colour Swatch
+颜色色板
+#--------62
+AControls Panel
+A控制面板
+#--------63
+Screen
+Screen
+#--------64
+ACsDataScreenElements archive failure
+ACsDataScreenElements archive failure
+#--------65
+Button
+Button
+#--------66
+Brown
+Brown
+#--------67
+Olive Green
+Olive Green
+#--------68
+Dark Green
+Dark Green
+#--------69
+Dark Teal
+Dark Teal
+#--------70
+Dark Blue
+Dark Blue
+#--------71
+Grey-80%
+Grey-80%
+#--------72
+Dark Red
+Dark Red
+#--------73
+Orange
+Orange
+#--------74
+Dark Yellow
+Dark Yellow
+#--------75
+Green
+Green
+#--------76
+Blue
+Blue
+#--------77
+Blue-Grey
+Blue-Grey
+#--------78
+Grey-60%
+Grey-60%
+#--------79
+Red
+Red
+#--------80
+Light Orange
+Light Orange
+#--------81
+Sea Green
+Sea Green
+#--------82
+Light Blue
+Light Blue
+#--------83
+Violet
+Violet
+#--------84
+Grey-40%
+Grey-40%
+#--------85
+Gold
+Gold
+#--------86
+Yellow
+Yellow
+#--------87
+Bright Green
+Bright Green
+#--------88
+Sky Blue
+Sky Blue
+#--------89
+Grey-20%
+Grey-20%
+#--------90
+Pale Yellow
+Pale Yellow
+#--------91
+Pale Green 
+Pale Green 
+#--------92
+Pale Blue
+Pale Blue
+#--------93
+White
+White
+#--------94
+Scroll Bars
+滚动条
+#--------95
+Active Title Bar
+活动的标题栏
+#--------96
+Inactive Title Bar
+非活动标题栏
+#--------97
+Menu Bar
+菜单栏
+#--------98
+Window Background
+窗口背景
+#--------99
+Window Frame
+窗口框架
+#--------100
+Menu Text
+菜单文本
+#--------101
+Window Text
+窗口文本
+#--------102
+Active Title Bar Text
+活动的标题栏文本
+#--------103
+Active Border
+活动边框
+#--------104
+Inactive Border
+非活动边框
+#--------105
+Application Workspace
+应用程序工作区
+#--------106
+Selection Highlight
+高亮选择
+#--------107
+Highlight Text
+高亮文本
+#--------108
+Button Face
+按钮表面
+#--------109
+Button Shadow
+按钮阴影
+#--------110
+Disabled Text
+禁用文本
+#--------111
+Button Text
+按钮文本
+#--------112
+Inactive Title Bar Text
+非活动标题栏文本
+#--------113
+Button Highlight
+按钮高亮
+#--------114
+Button Dark Shadow
+按钮黑阴影
+#--------115
+Button Light Shadow
+按钮亮阴影
+#--------116
+ToolTip Text
+提示文本
+#--------117
+ToolTip Background
+提示背景
+#--------118
+Hot Track
+热点追踪
+#--------119
+Active Title Bar Gradient
+活动标题栏渐变
+#--------120
+Inactive Title Bar Gradient
+非活动标题栏渐变
+#--------121
+.deleted
+.deleted
+#--------122
+Description
+Description
+#--------123
+File
+File
+#--------124
+Folder
+Folder
+#--------125
+Link
+Link
+#--------126
+Links
+Links
+#--------127
+Options
+Options
+#--------128
+Project
+Project
+#--------129
+Workspace
+Workspace
+#--------130
+Filename
+Filename
+#--------131
+Title
+Title
+#--------132
+Author
+Author
+#--------133
+Organization
+Organization
+#--------134
+URL
+URL
+#--------135
+Version
+Version
+#--------136
+Keywords
+Keywords
+#--------137
+<table><tr><td><icon handle=0x%X></td><td>%s</td></tr></table>
+<table><tr><td><icon handle=0x%X></td><td>%s</td></tr></table>
+#--------138
+</font></h3>
+</font></h3>
+#--------139
+<h3><font color=#174377>
+<h3><font color=#174377>
+#--------140
+<p><i>Visible Condition:</i><br>
+<p><i>Visible Condition:</i><br>
+#--------141
+<p><i>Enabled Condition:</i><br>
+<p><i>Enabled Condition:</i><br>
+#--------142
+open
+open
+#--------143
+A{Bits}
+A{Bits}
+#--------144
+{Height}
+{Height}
+#--------145
+{Width}
+{Width}
+#--------146
+{Index}
+{Index}
+#--------147
+{Filename}
+{Filename}
+#--------148
+Name
+Name
+#--------149
+BIcons Panel
+B图标面板
+#--------150
+Modal
+Modal
+#--------151
+Toggle Overlay
+切换覆盖
+#--------152
+Replace Top Window
+更换顶部窗口
+#--------153
+Replace Window
+更换窗口
+#--------154
+Toggle Window
+切换窗口
+#--------155
+Hide Window
+隐藏窗口
+#--------156
+Show Window
+显示窗口
+#--------157
+Modal Choice Popup
+弹出模式选择
+#--------158
+Modal Popup
+弹出模式
+#--------159
+(automatic)
+(automatic)
+#--------160
+jMicrosoft Sans Serif
+jMicrosoft Sans Serif
+#--------161
+Notes Panel
+注释面板
+#--------162
+Default
+Default
+#--------163
+Auto
+Auto
+#--------164
+Yes
+Yes
+#--------165
+Variable
+Variable
+#--------166
+Name
+Name
+#--------167
+Value
+Value
+#--------168
+XP Green
+XP Green
+#--------169
+Windows XP
+Windows XP
+#--------170
+.bmp
+.bmp
+#--------171
+.gif
+.gif
+#--------172
+.jpg
+.jpg
+#--------173
+Projects
+Projects
+#--------174
+Recent Project List
+最近工程列表
+#--------175
+Project%d
+Project%d
+#--------176
+CProject Panel
+CProject Panel
+#--------177
+_Icons
+_Icons
+#--------178
+_Images
+_Images
+#--------179
+.txt
+.txt
+#--------180
+any file
+任何文件
+#--------181
+Samples\Welcome\Welcome.gdp
+Samples\Welcome\Welcome.gdp
+#--------182
+Screen
+Screen
+#--------183
+Failed to load file: %s
+无法加载文件： %s
+#--------184
+CStoryboard Panel
+CStoryboard Panel
+#--------185
+Tile
+Tile
+#--------186
+Stretch
+Stretch
+#--------187
+Align
+Align
+#--------188
+Navigation
+Navigation
+#--------189
+Bitmap
+Bitmap
+#--------190
+Filename
+Filename
+#--------191
+Placement
+Placement
+#--------192
+Navigation
+Navigation
+#--------193
+Modal
+Modal
+#--------194
+Templates\
+Templates\
+#--------195
+g(no category)
+g(no category)
+#--------196
+ALPHA
+ALPHA
+#--------197
+gEnglish - US
+gEnglish - US
+#--------198
+ghttp://www.carettasoftware.com/it/libraries.html
+ghttp://www.carettasoftware.com/it/libraries.html
+#--------199
+Libraries from Caretta Software and the Community
+库从Caretta 软件
+#--------200
+Microsoft Sans Serif
+Microsoft Sans Serif
+#--------201
+.jpg
+.jpg
+#--------202
+http://www.carettasoftware.com/it/templates.html
+http://www.carettasoftware.com/it/templates.html
+#--------203
+Templates from Caretta Software and the Community
+模板从Caretta 软件
+#--------204
+Popup
+Popup
+#--------205
+Separator
+Separator
+#--------206
+Application Button
+Application Button
+#--------207
+Style
+Style
+#--------208
+Navigation
+Navigation
+#--------209
+Cancel
+Cancel
+#--------210
+Mirror
+Mirror
+#--------211
+Title
+Title
+#--------212
+Type
+Type
+#--------213
+Item
+Item
+#--------214
+Data
+Data
+#--------215
+State
+State
+#--------216
+Style
+Style
+#--------217
+Navigation
+Navigation
+#--------218
+Calendar
+Calendar
+#--------219
+Rows
+Rows
+#--------220
+.short
+.short
+#--------221
+.long
+.long
+#--------222
+.selected
+.selected
+#--------223
+Icons\Miscellaneous\ArrowLargeRight.ico
+Icons\Miscellaneous\ArrowLargeRight.ico
+#--------224
+Icons\Miscellaneous\ArrowLargeLeft.ico
+Icons\Miscellaneous\ArrowLargeLeft.ico
+#--------225
+Customise Button
+Customise Button
+#--------226
+Style
+Style
+#--------227
+Navigation
+Navigation
+#--------228
+Mirror
+Mirror
+#--------229
+Margin
+Margin
+#--------230
+Checked
+Checked
+#--------231
+Unchecked
+Unchecked
+#--------232
+Data
+Data
+#--------233
+State
+State
+#--------234
+Style
+Style
+#--------235
+Navigation
+Navigation
+#--------236
+Text
+Text
+#--------237
+State
+State
+#--------238
+Data
+Data
+#--------239
+State
+State
+#--------240
+Style
+Style
+#--------241
+Navigation
+Navigation
+#--------242
+Mirror
+Mirror
+#--------243
+Value
+Value
+#--------244
+.all
+.all
+#--------245
+.checked
+.checked
+#--------246
+.checks
+.checks
+#--------247
+.index
+.index
+#--------248
+.count
+.count
+#--------249
+Data
+Data
+#--------250
+State
+State
+#--------251
+Style
+Style
+#--------252
+Navigation
+Navigation
+#--------253
+Text
+Text
+#--------254
+Mirror
+Mirror
+#--------255
+Transparent
+Transparent
+#--------256
+Navigation
+Navigation
+#--------257
+Screen
+Screen
+#--------258
+Filename
+Filename
+#--------259
+Component
+Component
+#--------260
+Override
+Override
+#--------261
+Background
+Background
+#--------262
+Type
+Type
+#--------263
+Navigation
+Navigation
+#--------264
+Flat
+Flat
+#--------265
+Style
+Style
+#--------266
+Navigation
+Navigation
+#--------267
+Count
+Count
+#--------268
+Style
+Style
+#--------269
+Columns
+Columns
+#--------270
+Rows
+Rows
+#--------271
+Real
+Real
+#--------272
+Integer
+Integer
+#--------273
+Text
+Text
+#--------274
+Data
+Data
+#--------275
+State
+State
+#--------276
+Style
+Style
+#--------277
+Navigation
+Navigation
+#--------278
+Text
+Text
+#--------279
+Data
+Data
+#--------280
+State
+State
+#--------281
+Style
+Style
+#--------282
+Navigation
+Navigation
+#--------283
+Text
+Text
+#--------284
+Mirror
+Mirror
+#--------285
+XHelp Button
+XHelp Button
+#--------286
+Restore Button
+Restore Button
+#--------287
+Maximise Button
+Maximise Button
+#--------288
+Minimise Button
+Minimise Button
+#--------289
+Close Button
+Close Button
+#--------290
+Icon
+Icon
+#--------291
+(BLANK)
+(BLANK)
+#--------292
+State
+State
+#--------293
+Style
+Style
+#--------294
+Navigation
+Navigation
+#--------295
+Cancel
+Cancel
+#--------296
+Close
+Close
+#--------297
+Title
+Title
+#--------298
+Mirror
+Mirror
+#--------299
+Buttons
+Buttons
+#--------300
+Icon
+Icon
+#--------301
+State
+State
+#--------302
+Style
+Style
+#--------303
+Text
+Text
+#--------304
+Smooth
+Smooth
+#--------305
+State
+State
+#--------306
+Style
+Style
+#--------307
+Range
+Range
+#--------308
+Progress
+Progress
+#--------309
+Style
+Style
+#--------310
+Numbers
+Numbers
+#--------311
+Data
+Data
+#--------312
+State
+State
+#--------313
+Style
+Style
+#--------314
+Both
+Both
+#--------315
+Data
+Data
+#--------316
+State
+State
+#--------317
+Style
+Style
+#--------318
+Pointer
+Pointer
+#--------319
+State
+State
+#--------320
+State
+State
+#--------321
+Style
+Style
+#--------322
+Navigation
+Navigation
+#--------323
+Text
+Text
+#--------324
+State
+State
+#--------325
+Style
+Style
+#--------326
+Navigation
+Navigation
+#--------327
+Mirror
+Mirror
+#--------328
+Text
+Text
+#--------329
+Icon
+Icon
+#--------330
+Filename
+Filename
+#--------331
+Button Options
+Button Options
+#--------332
+Button Command
+Button Command
+#--------333
+State
+State
+#--------334
+Style
+Style
+#--------335
+Navigation
+Navigation
+#--------336
+Text
+Text
+#--------337
+Mirror
+Mirror
+#--------338
+Command
+Command
+#--------339
+Options
+Options
+#--------340
+State
+State
+#--------341
+Style
+Style
+#--------342
+Navigation
+Navigation
+#--------343
+Text
+Text
+#--------344
+Mirror
+Mirror
+#--------345
+Command
+Command
+#--------346
+Options
+Options
+#--------347
+Style
+Style
+#--------348
+Navigation
+Navigation
+#--------349
+Fill
+Fill
+#--------350
+Text
+Text
+#--------351
+Data
+Data
+#--------352
+State
+State
+#--------353
+Style
+Style
+#--------354
+Navigation
+Navigation
+#--------355
+Mirror
+Mirror
+#--------356
+Value
+Value
+#--------357
+Style
+Style
+#--------358
+Navigation
+Navigation
+#--------359
+Mirror
+Mirror
+#--------360
+Item
+Item
+#--------361
+Style
+Style
+#--------362
+Navigation
+Navigation
+#--------363
+Mirror
+Mirror
+#--------364
+Title
+Title
+#--------365
+Type
+Type
+#--------366
+Item
+Item
+#--------367
+Style
+Style
+#--------368
+Mirror
+Mirror
+#--------369
+Text
+Text
+#--------370
+Style
+Style
+#--------371
+Navigation
+Navigation
+#--------372
+Mirror
+Mirror
+#--------373
+Type
+Type
+#--------374
+Item
+Item
+#--------375
+Hotkey
+Hotkey
+#--------376
+Data
+Data
+#--------377
+State
+State
+#--------378
+Style
+Style
+#--------379
+Navigation
+Navigation
+#--------380
+Text
+Text
+#--------381
+State
+State
+#--------382
+Style
+Style
+#--------383
+Navigation
+Navigation
+#--------384
+Rectangle
+Rectangle
+#--------385
+Text
+Text
+#--------386
+Fill
+Fill
+#--------387
+Border
+Border
+#--------388
+Tab
+Tab
+#--------389
+State
+State
+#--------390
+Style
+Style
+#--------391
+Navigation
+Navigation
+#--------392
+Mirror
+Mirror
+#--------393
+Type
+Type
+#--------394
+Text
+Text
+#--------395
+Navigation
+Navigation
+#--------396
+Navigation
+Navigation
+#--------397
+Navigation
+Navigation
+#--------398
+Navigation
+Navigation
+#--------399
+Scroll Down
+Scroll Down
+#--------400
+Scroll Up
+Scroll Up
+#--------401
+Style
+Style
+#--------402
+Navigation
+Navigation
+#--------403
+Mirror
+Mirror
+#--------404
+XOptions Button
+XOptions Button
+#--------405
+Style
+Style
+#--------406
+Navigation
+Navigation
+#--------407
+Text
+Text
+#--------408
+Mirror
+Mirror
+#--------409
+Navigation
+Navigation
+#--------410
+Single
+Single
+#--------411
+Style
+Style
+#--------412
+Navigation
+Navigation
+#--------413
+Fill
+Fill
+#--------414
+Border
+Border
+#--------415
+Text
+Text
+#--------416
+Accept
+Accept
+#--------417
+Cancel
+Cancel
+#--------418
+Close
+Close
+#--------419
+02.Rulers.01.Horz.02.Centre
+02.Rulers.01.Horz.02.Centre
+#--------420
+02.Rulers.02.Vert.02.Centre
+02.Rulers.02.Vert.02.Centre
+#--------421
+XNulla sollicitudin, dolor nec adipiscingullamcorper, eros ligula blandit lacus, at molestie dui nulla sed pede. Aliquam in dui ut turpis mollisiaculis. Etiam nonummy, nibh ac ultricies tempus, lectus arcu iaculis quam, a laoreet nisl neque facilisissapien.
+XNulla sollicitudin, dolor nec adipiscingullamcorper, eros ligula blandit lacus, at molestie dui nulla sed pede. Aliquam in dui ut turpis mollisiaculis. Etiam nonummy, nibh ac ultricies tempus, lectus arcu iaculis quam, a laoreet nisl neque facilisissapien.
+#--------422
+Integer vestibulum semper sem. In fringilla sem at nisl. Praesent lacus sem, ullamcorper vitae, eleifend a, elementum ut, ipsum. Nulla vehicula, sapien eget suscipit ultricies, maurisdolor vehicula elit, sit amet porta odio nisi in sapien.
+Integer vestibulum semper sem. In fringilla sem at nisl. Praesent lacus sem, ullamcorper vitae, eleifend a, elementum ut, ipsum. Nulla vehicula, sapien eget suscipit ultricies, maurisdolor vehicula elit, sit amet porta odio nisi in sapien.
+#--------423
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin pretiumvenenatis velit. Nulla aliquam aliquet purus. Maecenas dapibus urna sed purus. Duis iaculis.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin pretiumvenenatis velit. Nulla aliquam aliquet purus. Maecenas dapibus urna sed purus. Duis iaculis.
+#--------424
+Quisque mauris diam, varius sed, nonummy sit amet, vehicula ac, felis. Suspendisse vel lorem. Lorem ipsumdolor sit amet, consectetuer adipiscing elit. Aliquam velit pede, hendrerit in, viverra nec, tincidunt vitaeleo.
+Quisque mauris diam, varius sed, nonummy sit amet, vehicula ac, felis. Suspendisse vel lorem. Lorem ipsumdolor sit amet, consectetuer adipiscing elit. Aliquam velit pede, hendrerit in, viverra nec, tincidunt vitaeleo.
+#--------425
+Cras adipiscing tristique orci. Aliquam euismod, nisl nec nonummy malesuada, lacus lectus lacinia ipsum, tincidunt cursus est augue suscipit arcu. Vivamus magna est, vestibulum eu, imperdiet quis, tempor eu, eros.
+Cras adipiscing tristique orci. Aliquam euismod, nisl nec nonummy malesuada, lacus lectus lacinia ipsum, tincidunt cursus est augue suscipit arcu. Vivamus magna est, vestibulum eu, imperdiet quis, tempor eu, eros.
+#--------426
+Vestibulum ultrices nunc eu erat pretium iaculis. Mauris sem enim, interdum sed, posuere at, lobortis in, sem. Morbi diamtellus, sollicitudin varius, iaculis in, malesuada ullamcorper, nunc.Morbi quis lacus non diam sodales pretium.
+Vestibulum ultrices nunc eu erat pretium iaculis. Mauris sem enim, interdum sed, posuere at, lobortis in, sem. Morbi diamtellus, sollicitudin varius, iaculis in, malesuada ullamcorper, nunc.Morbi quis lacus non diam sodales pretium.
+#--------427
+Integer luctus, ipsum nonvehicula molestie, purus neque gravida pede, sit amet accumsan nuncarcu ac nunc. Maecenas ac urna vel massa sagittis elementum. Classaptent taciti sociosqu ad litora torquent per conubia nostra, perinceptos hymenaeos.
+Integer luctus, ipsum nonvehicula molestie, purus neque gravida pede, sit amet accumsan nuncarcu ac nunc. Maecenas ac urna vel massa sagittis elementum. Classaptent taciti sociosqu ad litora torquent per conubia nostra, perinceptos hymenaeos.
+#--------428
+Quisque interdum, lectus non aliquet rutrum, risus nislpulvinar ligula, eget suscipit tellus elit at odio.
+Quisque interdum, lectus non aliquet rutrum, risus nislpulvinar ligula, eget suscipit tellus elit at odio.
+#--------429
+Integer mollis molestienisi. Sed vel nunc quis sapien posuere porta.
+Integer mollis molestienisi. Sed vel nunc quis sapien posuere porta.
+#--------430
+Curabitur diam massa, laciniacondimentum, blandit non, porta et, risus.
+Curabitur diam massa, laciniacondimentum, blandit non, porta et, risus.
+#--------431
+State
+State
+#--------432
+Style
+Style
+#--------433
+Navigation
+Navigation
+#--------434
+Fill
+Fill
+#--------435
+Text
+Text
+#--------436
+Style
+Style
+#--------437
+Mirror
+Mirror
+#--------438
+State
+State
+#--------439
+Style
+Style
+#--------440
+Text
+Text
+#--------441
+Active
+Active
+#--------442
+Mirror
+Mirror
+#--------443
+Descending
+Descending
+#--------444
+Ascending
+Ascending
+#--------445
+State
+State
+#--------446
+Style
+Style
+#--------447
+Navigation
+Navigation
+#--------448
+Table
+Table
+#--------449
+Mirror
+Mirror
+#--------450
+Columns
+Columns
+#--------451
+Heading
+Heading
+#--------452
+Width
+Width
+#--------453
+Data
+Data
+#--------454
+Row
+Row
+#--------455
+Cell
+Cell
+#--------456
+State
+State
+#--------457
+Style
+Style
+#--------458
+Navigation
+Navigation
+#--------459
+Text
+Text
+#--------460
+Margin
+Margin
+#--------461
+Style
+Style
+#--------462
+Style
+Style
+#--------463
+Navigation
+Navigation
+#--------464
+State
+State
+#--------465
+Style
+Style
+#--------466
+Navigation
+Navigation
+#--------467
+Text
+Text
+#--------468
+Depth
+Depth
+#--------469
+Style
+Style
+#--------470
+Navigation
+Navigation
+#--------471
+Mirror
+Mirror
+#--------472
+Item
+Item
+#--------473
+Toolbar
+Toolbar
+#--------474
+State
+State
+#--------475
+Style
+Style
+#--------476
+Navigation
+Navigation
+#--------477
+Style
+Style
+#--------478
+Navigation
+Navigation
+#--------479
+Style
+Style
+#--------480
+State
+State
+#--------481
+Style
+Style
+#--------482
+Navigation
+Navigation
+#--------483
+Icon
+Icon
+#--------484
+Tree
+Tree
+#--------485
+Mirror
+Mirror
+#--------486
+Icons
+Icons
+#--------487
+Text
+Text
+#--------488
+State
+State
+#--------489
+Style
+Style
+#--------490
+Range
+Range
+#--------491
+Progress
+Progress
+#--------492
+Style
+Style
+#--------493
+Numbers
+Numbers
+#--------494
+Data
+Data
+#--------495
+State
+State
+#--------496
+Style
+Style
+#--------497
+Data
+Data
+#--------498
+State
+State
+#--------499
+Style
+Style
+#--------500
+Pointer
+Pointer
+#--------501
+State
+State
+#--------502
+State
+State
+#--------503
+Style
+Style
+#--------504
+Navigation
+Navigation
+#--------505
+Text
+Text
+#--------506
+State
+State
+#--------507
+Style
+Style
+#--------508
+Navigation
+Navigation
+#--------509
+Text
+Text
+#--------510
+Rounded
+Rounded
+#--------511
+Style
+Style
+#--------512
+Navigation
+Navigation
+#--------513
+Text
+Text
+#--------514
+Depth
+Depth
+#--------515
+Shape
+Shape
+#--------516
+Style
+Style
+#--------517
+Navigation
+Navigation
+#--------518
+Style
+Style
+#--------519
+Navigation
+Navigation
+#--------520
+Fill
+Fill
+#--------521
+Medium
+Medium
+#--------522
+Small
+Small
+#--------523
+Round
+Round
+#--------524
+Square
+Square
+#--------525
+Style
+Style
+#--------526
+Navigation
+Navigation
+#--------527
+Text
+Text
+#--------528
+Box
+Box
+#--------529
+Style
+Style
+#--------530
+Navigation
+Navigation
+#--------531
+Text
+Text
+#--------532
+Shape
+Shape
+#--------533
+Fill
+Fill
+#--------534
+PGUI Design Studio
+PGUI Design Studio
+#--------535
+Recent File List
+最近文件列表
+#--------536
+File%d
+File%d
+#--------537
+Caretta Software
+Caretta 软件
+#--------538
+THIS
+THIS
+#--------539
+VERSION IS NOT FOR DISTRIBUTION!
+VERSION IS NOT FOR DISTRIBUTION!
+#--------540
+http://www.carettasoftware.com/it/gds10_about_cs.html
+http://www.carettasoftware.com/it/gds10_about_cs.html
+#--------541
+http://www.carettasoftware.com
+http://www.carettasoftware.com
+#--------542
+Professional
+Professional
+#--------543
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).
+本产品包含由 OpenSSL 工具包 (http://www.openssl.org/) 中使用 OpenSSL 项目开发的软件.
+#--------544
+This product includes software developed by CollabNet (http://www.Collab.Net/).
+本产品包含由 CollabNet (http://www.Collab.Net/) 开发的软件.
+#--------545
+Screen
+Screen
+#--------546
+Failed to save file:
+无法保存文件:
+#--------547
+Failed to build data tree for saving
+构建数据树保存失败
+#--------548
+*.bmp
+*.bmp
+#--------549
+Style
+Style
+#--------550
+.bmp
+.bmp
+#--------551
+.gif
+.gif
+#--------552
+.jpg
+.jpg
+#--------553
+Export
+Export
+#--------554
+;componentsource;element5;share-it!;
+;componentsource;element5;share-it!;
+#--------555
+;licensed;registered;
+;licensed;registered;
+#--------556
+PAID-NC
+PAID-NC
+#--------557
+TEMP
+TEMP
+#--------558
+DEFAULT
+DEFAULT
+#--------559
+TRIAL
+TRIAL
+#--------560
+Windows Classic
+Windows Classic
+#--------561
+Windows XP Classic
+Windows XP Classic
+#--------562
+Windows XP
+Windows XP
+#--------563
+Windows Vista
+Windows Vista
+#--------564
+.zip
+.zip
+#--------565
+.jpg
+.jpg
+#--------566
+Screens
+Screens
+#--------567
+Features
+Features
+#--------568
+Tutorials
+Tutorials
+#--------569
+Scanning for files...
+扫描文件...
+#--------570
+Building cross reference tables...
+建立交叉引用表...
+#--------571
+Generating documentation...
+正在生成的文件...
+#--------572
+Generating code...
+生成的代码...
+#--------573
+Failed to initialise the code generator!
+无法初始化代码生成器！
+#--------574
+No code generator selected!
+没有选定的代码生成器！
+#--------575
+JPG
+JPG
+#--------576
+Activity Bar
+活动栏
+#--------577
+Alignment
+Alignment
+#--------578
+Very Large
+非常大
+#--------579
+Normal
+Normal
+#--------580
+Very Small
+非常小
+#--------581
+Microsoft Sans Serif
+Microsoft Sans Serif
+#--------582
+Startup
+Startup
+#--------583
+Design
+Design
+#--------584
+Simulation
+Simulation
+#--------585
+Name
+Name
+#--------586
+Spelling
+Spelling
+#--------587
+Language
+Language
+#--------588
+Compatibility
+Compatibility
+#--------589
+Icon Express
+Icon Express
+#--------590
+Microsoft Sans Serif
+Microsoft Sans Serif
+#--------591
+English (US)
+English (US)
+#--------592
+Horizontal Centre
+水平中心
+#--------593
+Vertical Centre
+垂直中心
+#--------594
+Left Right Edge
+左右边缘
+#--------595
+Top Bottom Edge
+顶部底部边缘
+#--------596
+Group Align %s
+组对齐 %s
+#--------597
+Same Size %s
+相同大小 %s
+#--------598
+Width
+Width
+#--------599
+Height
+Height
+#--------600
+Span Size %s
+跨度大小 %s
+#--------601
+Evenly Space %s
+均匀间隔 %s
+#--------602
+Horizontally
+Horizontally
+#--------603
+Vertically
+Vertically
+#--------604
+Move Element
+移动控件
+#--------605
+Move %u Elements
+%U 移动控件
+#--------606
+Resize Element
+调整控件
+#--------607
+Resize %u Elements
+调整 %u 大小
+#--------608
+Set Screen Size to %ld x %ld
+将屏幕大小设置为 %ld x %ld
+#--------609
+Fit Screen to Elements
+控件适合屏幕
+#--------610
+Add Element
+添加控件
+#--------611
+QAdd %u Connections
+Q添加  %u 连接
+#--------612
+Add Connection
+添加连接
+#--------613
+Add %u Elements
+添加 %u 控件
+#--------614
+Delete %u Connections
+删除 %u 连接
+#--------615
+Delete Connection
+删除连接
+#--------616
+Delete %u Elements
+删除 %u 控件
+#--------617
+Delete Element
+删除控件
+#--------618
+Edit Properties
+编辑框属性
+#--------619
+Paint Properties
+属性刷
+#--------620
+Override Properties
+重写属性
+#--------621
+Edit Connection Properties
+编辑连接属性
+#--------622
+Paint Connection Properties
+描绘连接属性
+#--------623
+Re-order Element
+重新排序控件
+#--------624
+Re-order Elements
+重新排序控件
+#--------625
+Make Connection
+建立连接
+#--------626
+Clear Representative Element
+清除代表控件
+#--------627
+Set Representative Element
+设置代表控件
+#--------628
+Use Default Representative Element
+使用默认值代表控件
+#--------629
+Restore Component
+保存组件
+#--------630
+Restore Component Item
+保存组件组
+#--------631
+QSwap Element Positions
+Q交换元件的位置
+#--------632
+QGroup Elements
+Q组合控件
+#--------633
+Ungroup Elements
+拆解控件
+#--------634
+QCreate Selection Group
+Q创建选择组
+#--------635
+Add to Selection Group
+添加到所选组
+#--------636
+Remove from Selection Group
+从选择组中删除
+#--------637
+Accept
+Accept
+#--------638
+Back
+Back
+#--------639
+Cancel
+Cancel
+#--------640
+Close
+Close
+#--------641
+Navigation
+Navigation
+#--------642
+Name
+Name
+#--------643
+Condition
+Condition
+#--------644
+Exit
+Exit
+#--------645
+Forward
+Forward
+#--------646
+Title
+Title
+#--------647
+Message
+Message
+#--------648
+Name
+Name
+#--------649
+Value
+Value
+#--------650
+Navigation
+Navigation
+#--------651
+Exit
+Exit
+#--------652
+Accept
+Accept
+#--------653
+Cancel
+Cancel
+#--------654
+Close
+Close
+#--------655
+Back
+Back
+#--------656
+Forward
+Forward
+#--------657
+Modal
+Modal
+#--------658
+ZNon-Browser Mode
+Z非浏览模式
+#--------659
+Close Mode
+关闭模式
+#--------660
+Forward
+Forward
+#--------661
+Back
+Back
+#--------662
+Menu Capture
+菜单捕获
+#--------663
+.htm
+.htm
+#--------664
+Failed to run command:
+无法运行命令:
+#--------665
+Failed to run command:
+无法运行命令:
+#--------666
+$Directory$
+$Directory$
+#--------667
+Projects
+Projects
+#--------668
+Project
+Project
+#--------669
+Folder
+Folder
+#--------670
+File
+File
+#--------671
+Options
+Options
+#--------672
+Name
+Name
+#--------673
+Root
+Root
+#--------674
+Pathname
+Pathname
+#--------675
+http://www.guidesignstudio.com
+http://www.guidesignstudio.com
+#--------676
+GUI Design Studio
+GUI Design Studio
+#--------677
+W(Display Message)
+W(显示信息)
+#--------678
+Navigate Forward
+向前浏览
+#--------679
+Navigate Back
+向后浏览
+#--------680
+Navigation:ModelessSwitchTop
+Navigation:ModelessSwitchTop
+#--------681
+Navigation:ModelessSwitch
+Navigation:ModelessSwitch
+#--------682
+Navigation:ModelessToggle
+Navigation:ModelessToggle
+#--------683
+Navigation:ModelessHide
+Navigation:ModelessHide
+#--------684
+Navigation:ModelessShow
+Navigation:ModelessShow
+#--------685
+Navigation:ModalSelector
+Navigation:ModalSelector
+#--------686
+Navigation:Modal
+Navigation:Modal
+#--------687
+Navigation
+Navigation
+#--------688
+Click
+Click
+#--------689
+Middle Click
+中间点击
+#--------690
+Right Click
+右键单击
+#--------691
+Double Click
+双击
+#--------692
+Middle Double Click
+中间双击
+#--------693
+Right Double Click
+右键双击
+#--------694
+Mouse Over
+鼠标悬停
+#--------695
+Mouse Enter
+鼠标输入
+#--------696
+Mouse Leave
+鼠标离开
+#--------697
+W*.dll
+W*.dll
+#--------698
+These plug-ins failed to load properly:
+这些插件程序未能正确加载:
+#--------699
+These files do not appear to be valid plug-ins:
+这些文件不是有效的插件:
+#--------700
+These plug-ins are not licensed:
+这些插件未许可:
+#--------701
+These plug-ins need a different version to run:
+这些插件需要不同版本:
+#--------702
+WInternal error
+W内部错误
+#--------703
+Memory allocation failure
+内存分配失败
+#--------704
+Unknown variable: %s
+未知的变量： %s
+#--------705
+Unknown function: %s
+未知的函数: %s
+#--------706
+Unknown operator: %s
+未知的运算符： %s
+#--------707
+Wrong number of function parameters: %s
+错误的函数参数的数目： %s
+#--------708
+Comma , outside function parameter list
+逗号,外面函数的参数列表
+#--------709
+Value expected
+预期值
+#--------710
+Unexpected end of expression
+表达式意外的结束
+#--------711
+Unexpected part: "%s"
+意外部件："%s"
+#--------712
+Empty expression
+空表达式
+#--------713
+Parentesis ) missing
+Parentesis ) missing
+#--------714
+Syntax error
+语法错误
+#--------715
+Syntax error in part: "%s"
+部分中的语法错误:"%s"
+#--------716
+Success
+Success
+#--------717
+Undefined Error
+未定义错误
+#--------718
+%d, expected %d
+%d, 期满  %d
+#--------719
+AND
+AND
+#--------720
+LOG
+LOG
+#--------721
+MAX
+MAX
+#--------722
+MIN
+MIN
+#--------723
+INTEGER
+INTEGER
+#--------724
+ENDS
+ENDS
+#--------725
+STARTS
+STARTS
+#--------726
+JOIN
+JOIN
+#--------727
+CONTAINS
+CONTAINS
+#--------728
+LENGTH
+LENGTH
+#--------729
+Layout
+Layout
+#--------730
+Documentation
+Documentation
+#--------731
+Element
+Element
+#--------732
+Type
+Type
+#--------733
+Width
+Width
+#--------734
+Height
+Height
+#--------735
+Name
+Name
+#--------736
+Filename
+Filename
+#--------737
+Navigation
+Navigation
+#--------738
+Modal
+Modal
+#--------739
+Style
+Style
+#--------740
+Navigation
+Navigation
+#--------741
+Close
+Close
+#--------742
+Back
+Back
+#--------743
+Forward
+Forward
+#--------744
+Modal
+Modal
+#--------745
+Connection
+Connection
+#--------746
+Type
+Type
+#--------747
+Layer
+Layer
+#--------748
+Trigger
+Trigger
+#--------749
+Screen
+Screen
+#--------750
+Connections
+Connections
+#--------751
+Elements
+Elements
+#--------752
+Groups
+Groups
+#--------753
+Notes
+Notes
+#--------754
+Type
+Type
+#--------755
+Width
+Width
+#--------756
+Height
+Height
+#--------757
+Description
+Description
+#--------758
+X$Absolute
+X$Absolute
+#--------759
+$Application
+$Application
+#--------760
+$Project
+$Project
+#--------761
+$Container
+$Container
+#--------762
+acronym
+acronym
+#--------763
+big
+big
+#--------764
+code
+code
+#--------765
+font
+font
+#--------766
+input
+input
+#--------767
+label
+label
+#--------768
+select
+select
+#--------769
+small
+small
+#--------770
+span
+span
+#--------771
+strong
+strong
+#--------772
+Files
+Files
+#--------773
+PROPERTIES
+PROPERTIES
+#--------774
+Group
+Group
+#--------775
+Elements
+Elements
+#--------776
+Elements
+Elements
+#--------777
+Item%02d
+Item%02d
+#--------778
+Navigation
+Navigation
+#--------779
+Modal
+Modal
+#--------780
+Overlays
+Overlays
+#--------781
+Grid
+Grid
+#--------782
+Canvas
+Canvas
+#--------783
+Note
+Note
+#--------784
+Name
+Name
+#--------785
+Yes
+Yes
+#--------786
+</body>
+</body>
+#--------787
+style="margin-top: 0; margin-bottom: 5mm;"
+style="margin-top: 0; margin-bottom: 5mm;"
+#--------788
+<p style="margin: 0 0 2.53mm 0;">
+<p style="margin: 0 0 2.53mm 0;">
+#--------789
+Yes
+Yes
+#--------790
+gMy Computer
+gMy Computer
+#--------791
+edit
+edit
+#--------792
+CsDataIconReference archive failure
+CsDataIconReference archive failure
+#--------793
+CsDataFilenameLink archive failure
+CsDataFilenameLink archive failure
+#--------794
+ZMore Colors...
+Z更多颜色
+#--------795
+Automatic
+Automatic
+#--------796
+<tr><td width=70 bgcolor=buttonface>%s</td><td width=130 bgcolor=window>%s</td></tr>
+<tr><td width=70 bgcolor=buttonface>%s</td><td width=130 bgcolor=window>%s</td></tr>
+#--------797
+</table></td></tr></table>
+</table></td></tr></table>
+#--------798
+<br><font color=darkblue>Mouse Cursor</font><table border=1>
+<br><font color=darkblue>Mouse Cursor</font><table border=1>
+#--------799
+</table>
+</table>
+#--------800
+<td><font color=darkblue>Window Owner</font><table border=1>
+<td><font color=darkblue>Window Owner</font><table border=1>
+#--------801
+</table></td>
+</table></td>
+#--------802
+Has Tooltip
+有工具提示
+#--------803
+Styles
+Styles
+#--------804
+Control ID
+控件ID
+#--------805
+Handle
+Handle
+#--------806
+Title
+Title
+#--------807
+Class name
+类名
+#--------808
+<tr><td><font color=darkblue>Window</font><table border=1>
+<tr><td><font color=darkblue>Window</font><table border=1>
+#--------809
+<table>
+<table>
+#--------810
+[WM_PPTOOLTIP_VIRTUAL_KEY_CODE
+[WM_PPTOOLTIP_VIRTUAL_KEY_CODE
+#--------811
+\shell\open\command
+\shell\open\command
+#--------812
+Unknown Error (%d) occurred.
+发生未知的错误 (%d).
+#--------813
+Pale blue
+Pale blue
+#--------814
+Pale green 
+Pale green 
+#--------815
+Light yellow
+Light yellow
+#--------816
+Light grey
+Light grey
+#--------817
+Bright green
+Bright green
+#--------818
+Grey - 50
+Grey - 50
+#--------819
+Light blue
+Light blue
+#--------820
+Sea green
+Sea green
+#--------821
+Light orange
+Light orange
+#--------822
+Grey - 40
+Grey - 40
+#--------823
+Blue-grey
+Blue-grey
+#--------824
+Dark yellow
+Dark yellow
+#--------825
+Dark red
+Dark red
+#--------826
+Dark grey
+Dark grey
+#--------827
+Dark blue
+Dark blue
+#--------828
+Dark Olive Green
+Dark Olive Green
+#--------829
+Software\Microsoft\Plus!\Themes\Current
+Software\Microsoft\Plus!\Themes\Current
+#--------830
+italic
+italic
+#--------831
+normal
+normal
+#--------832
+lighter
+lighter
+#--------833
+bold
+bold
+#--------834
+right
+right
+#--------835
+center
+center
+#--------836
+left
+left
+#--------837
+bottom
+bottom
+#--------838
+top
+top
+#--------839
+middle
+middle
+#--------840
+capitalize
+capitalize
+#--------841
+lowercase
+lowercase
+#--------842
+uppercase
+uppercase
+#--------843
+none
+none
+#--------844
+double
+double
+#--------845
+solid
+solid
+#--------846
+.cpp-comment {color:green; font-style:italic}
+.cpp-comment {color:green; font-style:italic}
+#--------847
+small {font-size:75%}
+small {font-size:75%}
+#--------848
+big {font-size:125%}
+big {font-size:125%}
+#--------849
+sup {font-size:65%; vertical-align:top}
+sup {font-size:65%; vertical-align:top}
+#--------850
+sub {font-size:65%; vertical-align:bottom}
+sub {font-size:65%; vertical-align:bottom}
+#--------851
+a:hover {text-decoration:underline; color:blue}
+a:hover {text-decoration:underline; color:blue}
+#--------852
+code {color:#990000; font-family:Arial}
+code {color:#990000; font-family:Arial}
+#--------853
+pre {font-size: 9pt; font-family:"Courier"; background-color:#fbedbb}
+pre {font-size: 9pt; font-family:"Courier"; background-color:#fbedbb}
+#--------854
+h6 {font-size: 65%; color:#626262; font-family:Verdana; font-weight:normal}
+h6 {font-size: 65%; color:#626262; font-family:Verdana; font-weight:normal}
+#--------855
+h5 {font-size: 9pt; color:#ff9900; font-family:Verdana; font-weight:bold}
+h5 {font-size: 9pt; color:#ff9900; font-family:Verdana; font-weight:bold}
+#--------856
+h4 {font-size: 10pt; color:black; font-family:Verdana; font-weight:bold}
+h4 {font-size: 10pt; color:black; font-family:Verdana; font-weight:bold}
+#--------857
+h3 {font-size: 12pt; color:#ff9900; font-family:Arial; font-weight:bold}
+h3 {font-size: 12pt; color:#ff9900; font-family:Arial; font-weight:bold}
+#--------858
+h2 {font-size: 13pt; color:#ff9900; font-family:Verdana; font-weight:bold}
+h2 {font-size: 13pt; color:#ff9900; font-family:Verdana; font-weight:bold}
+#--------859
+h1 {font-size: 14pt; color:black; font-family:Verdana; font-weight:bold}
+h1 {font-size: 14pt; color:black; font-family:Verdana; font-weight:bold}
+#--------860
+p {font-size: 10pt; color:black; font-family:Verdana; font-weight:bold}
+p {font-size: 10pt; color:black; font-family:Verdana; font-weight:bold}
+#--------861
+body {font-size: 10pt; color:black; font-family:Verdana}
+body {font-size: 10pt; color:black; font-family:Verdana}
+#--------862
+line-through
+line-through
+#--------863
+underline
+underline
+#--------864
+medium
+medium
+#--------865
+thick
+thick
+#--------866
+thin
+thin
+#--------867
+/table
+/table
+#--------868
+table
+table
+#--------869
+speed
+speed
+#--------870
+height
+height
+#--------871
+width
+width
+#--------872
+style
+style
+#--------873
+mask
+mask
+#--------874
+file
+file
+#--------875
+handle
+handle
+#--------876
+index
+index
+#--------877
+noise
+noise
+#--------878
+transparent
+transparent
+#--------879
+padding
+padding
+#--------880
+margin
+margin
+#--------881
+border-style
+border-style
+#--------882
+size
+size
+#--------883
+border-width
+border-width
+#--------884
+border-color
+border-color
+#--------885
+vertical-align
+vertical-align
+#--------886
+text-decoration
+text-decoration
+#--------887
+background-color
+background-color
+#--------888
+color
+color
+#--------889
+text-transform
+text-transform
+#--------890
+text-align
+text-align
+#--------891
+font-weight
+font-weight
+#--------892
+font-style
+font-style
+#--------893
+font-family
+font-family
+#--------894
+font-size
+font-size
+#--------895
+align
+align
+#--------896
+bgcolor
+bgcolor
+#--------897
+border
+border
+#--------898
+background
+background
+#--------899
+cellspacing
+cellspacing
+#--------900
+cellpadding
+cellpadding
+#--------901
+&copy;
+&copy;
+#--------902
+link
+link
+#--------903
+pre
+pre
+#--------904
+body
+body
+#--------905
+string
+string
+#--------906
+icon
+icon
+#--------907
+bmp
+bmp
+#--------908
+justify
+justify
+#--------909
+strikeout
+strikeout
+#--------910
+indent
+indent
+#--------911
+window
+window
+#--------912
+scrollbar
+scrollbar
+#--------913
+menu
+menu
+#--------914
+highlight
+highlight
+#--------915
+yellow
+yellow
+#--------916
+white
+white
+#--------917
+violet
+violet
+#--------918
+red
+red
+#--------919
+purple
+purple
+#--------920
+orange
+orange
+#--------921
+olive
+olive
+#--------922
+navy
+navy
+#--------923
+magenta
+magenta
+#--------924
+green
+green
+#--------925
+gray
+gray
+#--------926
+gold
+gold
+#--------927
+cyan
+cyan
+#--------928
+brown
+brown
+#--------929
+blue
+blue
+#--------930
+black
+black
+#--------931
+a:link
+a:link
+#--------932
+class
+class
+#--------933
+weight
+weight
+#--------934
+face
+face
+#--------935
+<body>
+<body>
+#--------936
+bZipArchive library Copyright 2000 - 2006 Tadeusz Dracz
+bZipArchive 库 版权所有 2000 - 2006 Tadeusz Dracz
+#--------937
+dUnknown error
+d未知错误
+#--------938
+Zlib library error (version error)
+zlib库的错误(错误版)
+#--------939
+Zlib library error (buffer error)
+Zlib 库错误 (缓冲区错误)
+#--------940
+Not enough memory
+没有足够的内存
+#--------941
+Zlib library error (data error)
+zlib库错误(数据错误)
+#--------942
+Zlib library error (stream error)
+Zlib 库错误 (流错误)
+#--------943
+Zlib Library error (end of stream)
+Zlib 库错误 (流的末尾)
+#--------944
+The central directory was not found in the archive (or you were trying to open not the last disk of a multi-disk archive)
+在存档文件中找不到中央目录 (或你想要打开不多磁盘归档文件的最后一个磁盘)
+#--------945
+Cannot create the file for the specified platform
+无法创建指定的文件
+#--------946
+Error while renaming a file
+重命名文件时出错
+#--------947
+Error while removing a file
+在删除文件时出现错误
+#--------948
+During testing found the directory with the size greater than 0
+在测试过程中发现的目录大小大于 0
+#--------949
+Incorrect password set for the file being decrypted
+解密文件时设置的密码不正确
+#--------950
+The filename of the file being added to the archive is too long
+正在操作的文件名过长
+#--------951
+Limit of the maximum volumes reached
+达到最大容量的限制
+#--------952
+The device selected for the disk spanning archive is non removable
+选定的磁盘设备不能移除
+#--------953
+Action aborted safely
+操作安全已中止
+#--------954
+Action aborted
+操作已中止
+#--------955
+Disk change aborted
+磁盘更改已中止
+#--------956
+No disk-spanning callback object set
+未设置目录树回调对象
+#--------957
+Crc mismatched
+CRC效验错误
+#--------958
+Damaged or not a zip file
+损坏或不是 zip 文件
+#--------959
+Not super-user
+不是超级用户
+#--------960
+No such file or directory
+没有此类文件或目录
+#--------961
+Interrupted system call
+中断的系统调用
+#--------962
+I/O error
+I/O 错误
+#--------963
+No such device or address
+没有此类设备或地址
+#--------964
+Bad file number
+错误的文件号
+#--------965
+Not enough space
+没有足够的空间
+#--------966
+Permission denied
+权限被拒绝
+#--------967
+Bad address
+地址错误
+#--------968
+File exists
+文件已存在
+#--------969
+Cross-device link
+交叉设备链接
+#--------970
+No such device
+没有此设备
+#--------971
+Not a directory
+不是目录
+#--------972
+Is a directory
+是一个目录
+#--------973
+Invalid argument
+无效的参数
+#--------974
+File table overflow
+文件表溢出
+#--------975
+Too many open files
+打开了太多文件
+#--------976
+File too large
+文件太大
+#--------977
+No space left on device
+设备上没有剩余空间
+#--------978
+Illegal seek
+非法寻址
+#--------979
+Read-only file system
+只读文件系统
+#--------980
+cZipArchive Mapping File
+cZipArchive Mapping File
+#--------981
+Text#
+Text#
+#--------982
+Document#
+Document#
+#--------983
+CDATA Section End
+CDATA 节结束
+#--------984
+CDATA Section Start
+CDATA 节的起始
+#--------985
+DTD End
+DTD结束
+#--------986
+DTD Start
+DTD开始
+#--------987
+Tag End
+标记结束
+#--------988
+Double Quote
+双引号
+#--------989
+Single Quote
+单引号
+#--------990
+Processor Instruction Start
+处理器指令开始
+#--------991
+Processor Instruction End
+处理器指令结束
+#--------992
+Empty Element End
+空控件结尾
+#--------993
+Element Open Start
+控件打开开始
+#--------994
+Element Close Start
+元件关闭开始
+#--------995
+Document Type Start
+文档类型开始
+#--------996
+Assignment Operator
+赋值运算符
+#--------997
+LINE %d: More data expected
+ %d: 行数据超预计
+#--------998
+LINE %d: Expected a token
+%d 行预期记号
+#--------999
+LINE %d: Unexpected %s ("%s")
+行 %d: 意外的 %s ("%s")
+#--------1000
+Unknown Token
+未知令牌
+#--------1001
+LINE %d: Element tag mismatch '%s', expected '%s'
+%d 行控件标记不匹配 '%s', 预计为 '%s'
+#--------1002
+Failed to open memory buffer for reading
+无法读取打开内存缓冲区
+#--------1003
+Failed to read file: 
+无法读取文件: 
+#--------1004
+Failed to allocate memory for file: 
+为文件分配内存失败: 
+#--------1005
+Failed to open file: 
+无法打开文件: 
+#--------1006
+No root node set
+没有根节点
+#--------1007
+Failed to open string for reading
+未能读取字符串
+#--------1008
+All Files
+所有文件
+#--------1009
+DISPLAY
+DISPLAY
+#--------1010
+software
+software
+#--------1011
+STATIC
+STATIC
+#--------1012
+BUTTON
+BUTTON
+#--------1013
+SCROLLBAR
+SCROLLBAR
+#--------1014
+MS Shell Dlg
+MS Shell Dlg
+#--------1015
+MSH_SCROLL_LINES_MSG
+MSH_SCROLL_LINES_MSG
+#--------1016
+windows
+windows
+#--------1017
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+#--------1018
+Software\Microsoft\Windows\CurrentVersion\Policies\Network
+Software\Microsoft\Windows\CurrentVersion\Policies\Network
+#--------1019
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+#--------1020
+Control Panel\Desktop\ResourceLocale
+Control Panel\Desktop\ResourceLocale
+#--------1021
+system
+system
+#--------1022
+Software\
+Software\
+#--------1023
+hRichEdit Text and Objects
+h富文本对象
+#--------1024
+Rich Text Format
+富文本格式
+#--------1025
+Link Source Descriptor
+链接源描述符
+#--------1026
+Object Descriptor
+对象描述符
+#--------1027
+Link Source
+链接源
+#--------1028
+Embed Source
+嵌入源
+#--------1029
+Embedded Object
+嵌入对象
+#--------1030
+Native
+Native
+#--------1031
+Visible
+Visible
+#--------1032
+%s-Bar%d
+%s-Bar%d
+#--------1033
+%s-Summary
+%s-Summary
+#--------1034
+Docking
+Docking
+#--------1035
+Floating
+Floating
+#--------1036
+Bars
+Bars
+#--------1037
+Bar#%d
+Bar#%d
+#--------1038
+windows
+windows
+#--------1039
+commdlg_help
+commdlg_help
+#--------1040
+r%s\shell\open\%s
+r%s\shell\open\%s
+#--------1041
+%s\shell\print\%s
+%s\shell\print\%s
+#--------1042
+%s\shell\printto\%s
+%s\shell\printto\%s
+#--------1043
+command
+command
+#--------1044
+[open("%1")]
+[open("%1")]
+#--------1045
+[print("%1")]
+[print("%1")]
+#--------1046
+[print("
+[print("
+#--------1047
+[open("
+[open("
+#--------1048
+%2\protocol\StdFileEditing\verb\0
+%2\protocol\StdFileEditing\verb\0
+#--------1049
+&Edit
+编辑 &E
+#--------1050
+%2\protocol\StdFileEditing\server
+%2\protocol\StdFileEditing\server
+#--------1051
+CLSID\%1\Verb\0
+CLSID\%1\Verb\0
+#--------1052
+&Edit,0,2
+编辑(&E),0,2
+#--------1053
+CLSID\%1\Verb\1
+CLSID\%1\Verb\1
+#--------1054
+&Open,0,2
+打开 &O,0,2
+#--------1055
+CLSID\%1\Printable
+CLSID\%1\Printable
+#--------1056
+Embedding %lu
+嵌入 %lu
+#--------1057
+windows
+windows
+#--------1058
+E(null)
+E(null)
+#--------1059
+.com
+.com
+#--------1060
+.bat
+.bat
+#--------1061
+.exe
+.exe
+#--------1062
+Both
+Both
+#--------1063
+Free
+Free
+#--------1064
+VS_VERSION_INFO
+VS_VERSION_INFO
+#--------1065
+Comments
+Comments
+#--------1066
+User Interface Design and Prototyping Tool
+用户界面设计和原型设计工具
+#--------1067
+Caretta Software Ltd
+Caretta 软件有限公司
+#--------1068
+GUI Design Studio
+GUI Design Studio
+#--------1069
+Copyright (C) 2003-2009 Caretta Software Ltd
+版权所有 ? 2003年-2009 Caretta 软件有限公司
+#--------1070
+GUI Design Studio
+GUI Design Studio
+#--------1071
+Translation
+Translation
+#--------1072
+&Edit
+编辑 &E
+#--------1073
+&Undo
+撤消(&U)
+#--------1074
+Ctrl+Z
+Ctrl+Z
+#--------1075
+&Redo
+重做 &R
+#--------1076
+Ctrl+Y
+Ctrl+Y
+#--------1077
+Cu&t
+剪切&T
+#--------1078
+Ctrl+X
+Ctrl+X
+#--------1079
+&Copy
+复制(&C)
+#--------1080
+Ctrl+C
+Ctrl+C
+#--------1081
+&Paste
+粘贴(&P)
+#--------1082
+Ctrl+V
+Ctrl+V
+#--------1083
+&View
+视图 &V
+#--------1084
+&Toolbar
+工具栏(&T)
+#--------1085
+&Help
+帮助 &H
+#--------1086
+&Contents
+内容(&C)
+#--------1087
+&Index
+索引(&I)
+#--------1088
+&What's This?
+这是什么(&W)?
+#--------1089
+Shift+F1
+Shift+F1
+#--------1090
+Keyboard &Shortcuts
+键盘快捷键(&S)
+#--------1091
+&Mouse Controls
+鼠标控制(&M)
+#--------1092
+&Tutorials
+教程(&T)
+#--------1093
+Tips and Tric&ks
+提示和技巧(&K)
+#--------1094
+Web &Resources
+Web 资源(&R)
+#--------1095
+&License
+许可证(&L)
+#--------1096
+&Enter Key...
+输入密钥(&E)
+#--------1097
+&Buy Online
+在线购买(&B)
+#--------1098
+&About GUI Design Studio...
+关于 &GUI Design Studio...
+#--------1099
+&File
+文件 &F
+#--------1100
+&New
+新建&N
+#--------1101
+Ctrl+N
+Ctrl+N
+#--------1102
+&Open...
+打开(&O)
+#--------1103
+Ctrl+O
+Ctrl+O
+#--------1104
+&Close
+关闭(&C)
+#--------1105
+&Update
+更新(&U)
+#--------1106
+Ctrl+S
+Ctrl+S
+#--------1107
+Save Copy &As...
+另存为(&A)...
+#--------1108
+&Print...
+打印(&P)...
+#--------1109
+Ctrl+P
+Ctrl+P
+#--------1110
+Print Pre&view
+打印预览(&V)
+#--------1111
+P&rint Setup...
+打印设置(&R)...
+#--------1112
+Recent File
+最近的文件
+#--------1113
+E&xit
+退出(&X)
+#--------1114
+&Edit
+编辑 &E
+#--------1115
+&Undo
+撤消(&U)
+#--------1116
+Ctrl+Z
+Ctrl+Z
+#--------1117
+&Redo
+重做 &R
+#--------1118
+Ctrl+Y
+Ctrl+Y
+#--------1119
+Cu&t
+剪切&T
+#--------1120
+Ctrl+X
+Ctrl+X
+#--------1121
+&Copy
+复制(&C)
+#--------1122
+Ctrl+C
+Ctrl+C
+#--------1123
+&Paste
+粘贴(&P)
+#--------1124
+Ctrl+V
+Ctrl+V
+#--------1125
+&View
+视图 &V
+#--------1126
+&Toolbar
+工具栏(&T)
+#--------1127
+&Status Bar
+状态栏(&S)
+#--------1128
+&Window
+窗口(&W)
+#--------1129
+&New Window
+新窗口(&N)
+#--------1130
+&Cascade
+层叠(&C)
+#--------1131
+&Tile
+平铺(&T)
+#--------1132
+&Arrange Icons
+整理图标(&A)
+#--------1133
+&Help
+帮助 &H
+#--------1134
+&Contents
+内容(&C)
+#--------1135
+&Index
+索引(&I)
+#--------1136
+&What's This?
+这是什么(&W)?
+#--------1137
+Shift+F1
+Shift+F1
+#--------1138
+Keyboard &Shortcuts
+键盘快捷键(&S)
+#--------1139
+&Mouse Controls
+鼠标控制(&M)
+#--------1140
+&Tutorials
+教程(&T)
+#--------1141
+Tips and Tric&ks
+提示和技巧(&K)
+#--------1142
+Web &Resources
+Web 资源(&R)
+#--------1143
+&License
+许可证(&L)
+#--------1144
+&Enter Key...
+输入密钥(&E)
+#--------1145
+&Buy Online
+在线购买(&B)
+#--------1146
+&About GUI Design Studio...
+关于 &GUI Design Studio...
+#--------1147
+&File
+文件 &F
+#--------1148
+&New
+新建&N
+#--------1149
+Ctrl+N
+Ctrl+N
+#--------1150
+&Open...
+打开(&O)
+#--------1151
+Ctrl+O
+Ctrl+O
+#--------1152
+New Project...
+新建工程
+#--------1153
+Open Project...
+打开工程
+#--------1154
+Close Project
+关闭工程
+#--------1155
+Create &Distribution File...
+创建分发文件(&D)...
+#--------1156
+Create Te&mplate...
+创建模板(&M)...
+#--------1157
+&Generate Documentation...
+生成文档(&G)...
+#--------1158
+Genera&te Code...
+生成代码(&T)...
+#--------1159
+Pack Project for S&haring...
+项目打包(&H)...
+#--------1160
+P&rint Setup...
+打印设置(&R)...
+#--------1161
+Recent &Files
+最近的文件(&F)
+#--------1162
+Recent File
+最近的文件
+#--------1163
+Recent Projects
+最近工程
+#--------1164
+Recent Project
+最近工程
+#--------1165
+Preferen&ces...
+首选项(&C)...
+#--------1166
+E&xit
+退出(&X)
+#--------1167
+&View
+视图 &V
+#--------1168
+&Toolbar
+工具栏(&T)
+#--------1169
+&Status Bar
+状态栏(&S)
+#--------1170
+&Design Bar
+设计栏(&D)
+#--------1171
+Design Bar &Position
+设计栏位置(&P)
+#--------1172
+Dock &Left
+左停靠(&L)
+#--------1173
+Dock &Right
+右停靠(&R)
+#--------1174
+&Float
+浮动(&F)
+#--------1175
+&Project
+项目(&P)
+#--------1176
+Add Project Lin&k...
+添加项目链接(&K)...
+#--------1177
+Add &Folder Link...
+添加文件夹链接(&F)
+#--------1178
+&Remove Link
+删除链接(&R)
+#--------1179
+&New Folder...
+新建文件夹(&N)...
+#--------1180
+New De&sign...
+新设计(&S)...
+#--------1181
+New &Icon...
+新图标(&I)...
+#--------1182
+&Edit Icon...
+编辑图标(&E)
+#--------1183
+D&uplicate Design...
+复制设计(&U)...
+#--------1184
+&Paste Image to File...
+粘贴图像到文件(&P)...
+#--------1185
+Insert from &Template...
+从模板插入(&T)...
+#--------1186
+Ren&ame File/Folder
+重命名文件/文件夹(&A)
+#--------1187
+&Delete File/Folder
+删除文件/文件夹(&D)
+#--------1188
+De&lete Icon File
+删除图标文件(&L)
+#--------1189
+Set as Custom &Elements Folder
+设置为自定义控件文件夹(&E)
+#--------1190
+Set &Main Project Design To:
+设置主项目设计为(&M):
+#--------1191
+Clear Main Project Design
+清理主工程设计
+#--------1192
+Project &Options...
+项目选项(&O)...
+#--------1193
+Enable Move and Rename...
+启用移动和重命名...
+#--------1194
+&Help
+帮助 &H
+#--------1195
+&Contents
+内容(&C)
+#--------1196
+&Index
+索引(&I)
+#--------1197
+&What's This?
+这是什么(&W)?
+#--------1198
+Shift+F1
+Shift+F1
+#--------1199
+Keyboard &Shortcuts
+键盘快捷键(&S)
+#--------1200
+&Mouse Controls
+鼠标控制(&M)
+#--------1201
+&Tutorials
+教程(&T)
+#--------1202
+Tips and Tric&ks
+提示和技巧(&K)
+#--------1203
+Further &Help
+更多帮助(&H)
+#--------1204
+Web &Resources
+Web 资源(&R)
+#--------1205
+&License
+许可证(&L)
+#--------1206
+&Enter Key...
+输入密钥(&E)
+#--------1207
+&Buy Online
+在线购买(&B)
+#--------1208
+&About GUI Design Studio...
+关于 &GUI Design Studio...
+#--------1209
+&File
+文件 &F
+#--------1210
+&Open...
+打开(&O)
+#--------1211
+Ctrl+O
+Ctrl+O
+#--------1212
+Open Project...
+打开工程
+#--------1213
+Close Project
+关闭工程
+#--------1214
+P&rint Setup...
+打印设置(&R)...
+#--------1215
+Recent &Files
+最近的文件(&F)
+#--------1216
+Recent File
+最近的文件
+#--------1217
+Recent Projects
+最近工程
+#--------1218
+Recent Project
+最近工程
+#--------1219
+Preferen&ces...
+首选项(&C)...
+#--------1220
+E&xit
+退出(&X)
+#--------1221
+&View
+视图 &V
+#--------1222
+&Toolbar
+工具栏(&T)
+#--------1223
+&Status Bar
+状态栏(&S)
+#--------1224
+&Design Bar
+设计栏(&D)
+#--------1225
+Design Bar &Position
+设计栏位置(&P)
+#--------1226
+Dock &Left
+左停靠(&L)
+#--------1227
+Dock &Right
+右停靠(&R)
+#--------1228
+&Float
+浮动(&F)
+#--------1229
+&Help
+帮助 &H
+#--------1230
+&What's This?
+这是什么(&W)?
+#--------1231
+Shift+F1
+Shift+F1
+#--------1232
+Web &Resources
+Web 资源(&R)
+#--------1233
+&About GUI Design Viewer...
+关于 &GUI Design Viewer...
+#--------1234
+Hidden Commands
+隐藏命令
+#--------1235
+Add Image File
+添加图像文件
+#--------1236
+Add Icon File
+添加图标文件
+#--------1237
+Refresh Files
+刷新文件
+#--------1238
+Refresh Icon Folders
+刷新图标文件夹
+#--------1239
+Refresh Icons
+刷新图标
+#--------1240
+History Back
+历史返回
+#--------1241
+History Forward
+历史前进
+#--------1242
+Simulator Stop
+模拟器停止
+#--------1243
+Simulator Close Mode
+模拟器关闭模式
+#--------1244
+Design Bar Tab 1
+设计栏选项卡1
+#--------1245
+Design Bar Tab 2
+设计栏选项卡2
+#--------1246
+Design Bar Tab 3
+设计栏选项卡3
+#--------1247
+Design Bar Tab 4
+设计栏选项卡4
+#--------1248
+Design Bar Tab 5
+设计栏选项卡5
+#--------1249
+Design Bar Tab 6
+设计栏选项卡6
+#--------1250
+Design Bar Tab 7
+设计栏选项卡7
+#--------1251
+Design Bar Tab 8
+设计栏选项卡8
+#--------1252
+Design Bar Tab 9
+设计栏选项卡9
+#--------1253
+Design Bar Tab 10
+设计栏选项卡10
+#--------1254
+Documentation
+Documentation
+#--------1255
+Doc Bold
+文本粗体
+#--------1256
+Doc Italic
+文本斜体
+#--------1257
+Doc Underline
+文本下划线
+#--------1258
+Doc Heading
+文本标题
+#--------1259
+Doc Numbering
+文本编号
+#--------1260
+Doc Bullets
+文本项目符号
+#--------1261
+Doc Increase Indent
+文本增加缩进量
+#--------1262
+Doc Decrease Indent
+文本减少缩进量
+#--------1263
+Doc Spell Check
+文本拼写检查
+#--------1264
+Element Doc Bold
+控件文本粗体
+#--------1265
+Element Doc Italic
+控件文本斜体
+#--------1266
+Element Doc Underline
+控件文本下划线
+#--------1267
+Element Doc Heading
+控件文本标题
+#--------1268
+Element Doc Numbering
+控件文本序号
+#--------1269
+Element Doc Bullets
+控件文本着重号
+#--------1270
+Element Doc Increase Indent
+控件文本增加缩进量
+#--------1271
+Element Doc Decrease Indent
+控件文本减少缩进量
+#--------1272
+Element Doc Spell Check
+空间文本拼写检查
+#--------1273
+TX Text Test Dialog
+TX文本测试对话框
+#--------1274
+&File
+文件 &F
+#--------1275
+&New
+新建&N
+#--------1276
+Ctrl+N
+Ctrl+N
+#--------1277
+&Open...
+打开(&O)
+#--------1278
+Ctrl+O
+Ctrl+O
+#--------1279
+&Close
+关闭(&C)
+#--------1280
+&Save
+保存 &S
+#--------1281
+Ctrl+S
+Ctrl+S
+#--------1282
+Save &As...
+另存为(&A)
+#--------1283
+Save A&ll
+全部保存(&L)
+#--------1284
+Ctrl+Shift+S
+Ctrl+Shift+S
+#--------1285
+Create &Distribution File...
+创建分发文件(&D)...
+#--------1286
+Create Te&mplate...
+创建模板(&M)...
+#--------1287
+&Generate Documentation...
+生成文档(&G)...
+#--------1288
+Genera&te Code...
+生成代码(&T)...
+#--------1289
+Pack Project for S&haring...
+项目打包(&H)...
+#--------1290
+&Export...
+导出(&E)...
+#--------1291
+New Project...
+新建工程
+#--------1292
+Open Project...
+打开工程
+#--------1293
+Close Project
+关闭工程
+#--------1294
+&Print...
+打印(&P)...
+#--------1295
+Ctrl+P
+Ctrl+P
+#--------1296
+Print Pre&view
+打印预览(&V)
+#--------1297
+P&rint Setup...
+打印设置(&R)...
+#--------1298
+Recent &Files
+最近的文件(&F)
+#--------1299
+Recent File
+最近的文件
+#--------1300
+Recent Projects
+最近工程
+#--------1301
+Recent Project
+最近工程
+#--------1302
+Preferences...
+参数
+#--------1303
+E&xit
+退出(&X)
+#--------1304
+&Edit
+编辑 &E
+#--------1305
+&Undo
+撤消(&U)
+#--------1306
+Ctrl+Z
+Ctrl+Z
+#--------1307
+&Redo
+重做 &R
+#--------1308
+Ctrl+Y
+Ctrl+Y
+#--------1309
+Cu&t
+剪切&T
+#--------1310
+Ctrl+X
+Ctrl+X
+#--------1311
+&Copy
+复制(&C)
+#--------1312
+Ctrl+C
+Ctrl+C
+#--------1313
+&Duplicate
+复制(&D)
+#--------1314
+Ctrl+D
+Ctrl+D
+#--------1315
+&Paste
+粘贴(&P)
+#--------1316
+Ctrl+V
+Ctrl+V
+#--------1317
+D&elete
+删除&E
+#--------1318
+Delete
+Delete
+#--------1319
+Select A&ll
+全选(&L)
+#--------1320
+Ctrl+A
+Ctrl+A
+#--------1321
+Copy Design &Image
+复制设计图像(&I)
+#--------1322
+Ctrl+Shift+C
+Ctrl+Shift+C
+#--------1323
+Pr&operties...
+属性(&O)...
+#--------1324
+Alt+Enter
+Alt+Enter
+#--------1325
+&View
+视图 &V
+#--------1326
+&Toolbar
+工具栏(&T)
+#--------1327
+&Status Bar
+状态栏(&S)
+#--------1328
+&Design Bar
+设计栏(&D)
+#--------1329
+Design Bar &Position
+设计栏位置(&P)
+#--------1330
+Dock &Left
+左停靠(&L)
+#--------1331
+Dock &Right
+右停靠(&R)
+#--------1332
+&Float
+浮动(&F)
+#--------1333
+&Zoom...
+缩放(&Z)...
+#--------1334
+Zoom to &100%
+缩放到 &100%
+#--------1335
+Zoom &In
+放大(&I)
+#--------1336
+Zoom &Out
+缩小(&O)
+#--------1337
+&Fit Elements to View
+缩放控件至合适大小(&F)
+#--------1338
+Numpad /
+Numpad /
+#--------1339
+&Canvas
+画布(&C)
+#--------1340
+P&rototype Information
+原型信息(&R)
+#--------1341
+Ctrl+F8
+Ctrl+F8
+#--------1342
+Navigation O&verlays
+导航遮掩(&V)
+#--------1343
+High &Quality Display
+高质量的显示(&Q)
+#--------1344
+&Project
+项目(&P)
+#--------1345
+Add Project Lin&k...
+添加项目链接(&K)...
+#--------1346
+Add &Folder Link...
+添加文件夹链接(&F)
+#--------1347
+&Remove Link
+删除链接(&R)
+#--------1348
+&New Folder...
+新建文件夹(&N)...
+#--------1349
+New De&sign...
+新设计(&S)...
+#--------1350
+New &Icon...
+新图标(&I)...
+#--------1351
+&Edit Icon...
+编辑图标(&E)
+#--------1352
+D&uplicate Design...
+复制设计(&U)...
+#--------1353
+&Paste Image to File...
+粘贴图像到文件(&P)...
+#--------1354
+Insert from &Template...
+从模板插入(&T)...
+#--------1355
+Ren&ame File/Folder
+重命名文件/文件夹(&A)
+#--------1356
+&Delete File/Folder
+删除文件/文件夹(&D)
+#--------1357
+De&lete Icon File
+删除图标文件(&L)
+#--------1358
+Set as Custom &Elements Folder
+设置为自定义控件文件夹(&E)
+#--------1359
+Set &Main Project Design To:
+设置主项目设计为(&M):
+#--------1360
+Clear Main Project Design
+清理主工程设计
+#--------1361
+Project &Options...
+项目选项(&O)...
+#--------1362
+Enable Move and Rename...
+启用移动和重命名...
+#--------1363
+&Design
+设计(&D)
+#--------1364
+&Screen Canvas Size...
+屏幕画布大小(&S)...
+#--------1365
+&Fit Screen Canvas to Elements
+自适应屏幕变化的控件(&F)
+#--------1366
+Set Representati&ve Element
+设置代表控件(&V)
+#--------1367
+&Clear Representative Element
+清除代表控件(&R)
+#--------1368
+Use &Default Representative Element
+使用默认值代表控件(&D)
+#--------1369
+Go To Connection &Target
+转到连接目标(&T)
+#--------1370
+Ctrl+T
+Ctrl+T
+#--------1371
+&Go To Connection Source
+转到连接源(&G)
+#--------1372
+Ctrl+R
+Ctrl+R
+#--------1373
+Add &Bitmap...
+添加位图(&B)
+#--------1374
+Add &Icon...
+添加图标(&I)
+#--------1375
+Add Co&mponent Design...
+添加组件设计(&M)...
+#--------1376
+Ma&ke Connection
+新建连接(&K)
+#--------1377
+F4 / Shift+F4
+F4 / Shift+F4
+#--------1378
+&Refresh
+刷新(&R)
+#--------1379
+Refresh &All
+刷新所有(&A)
+#--------1380
+Ctrl+F5
+Ctrl+F5
+#--------1381
+&Layout
+布局(&L)
+#--------1382
+&Align
+排列(&A)
+#--------1383
+&Left
+左(&L)
+#--------1384
+Ctrl+Left Arrow
+Ctrl+左箭头
+#--------1385
+&Horizontal Centre
+水平中心(&H)
+#--------1386
+Ctrl+6
+Ctrl+6
+#--------1387
+&Right
+右边(&R)
+#--------1388
+Ctrl+Right Arrow
+Ctrl+右箭头
+#--------1389
+Left to Right &Edges
+左到右边缘(&E)
+#--------1390
+&Top
+顶部&T
+#--------1391
+Ctrl+Up Arrow
+Ctrl+上箭头
+#--------1392
+&Vertical Centre
+垂直中心(&V)
+#--------1393
+Ctrl+5
+Ctrl+5
+#--------1394
+&Bottom
+底部(&B)
+#--------1395
+Ctrl+Down Arrow
+Ctrl+向下箭头
+#--------1396
+Top to Bottom E&dges
+顶部到底部边缘(&D)
+#--------1397
+Ctrl+4
+Ctrl+4
+#--------1398
+Gro&up Align
+组对齐(&U)
+#--------1399
+&Left
+左(&L)
+#--------1400
+Ctrl+Shift+Left Arrow
+Ctrl+Shift+左箭头
+#--------1401
+&Horizontal Centre
+水平中心(&H)
+#--------1402
+Ctrl+Shift+6
+Ctrl+Shift+6
+#--------1403
+&Right
+右边(&R)
+#--------1404
+Ctrl+Shift+Right Arrow
+Ctrl+Shift+右箭头
+#--------1405
+Left to Right &Edges
+左到右边缘(&E)
+#--------1406
+&Top
+顶部&T
+#--------1407
+Ctrl+Shift+Up Arrow
+Ctrl+Shift+上箭头
+#--------1408
+&Vertical Centre
+垂直中心(&V)
+#--------1409
+Ctrl+Shift+5
+Ctrl+Shift+5
+#--------1410
+&Bottom
+底部(&B)
+#--------1411
+Ctrl+Shift+Down Arrow
+Ctrl+Shift+下箭头
+#--------1412
+Top to Bottom E&dges
+顶部到底部边缘(&D)
+#--------1413
+Ctrl+Shift+4
+Ctrl+Shift+4
+#--------1414
+&Space Evenly
+均匀间隔(&S)
+#--------1415
+&Horizontally
+水平(&H)
+#--------1416
+Ctrl+7
+Ctrl+7
+#--------1417
+&Vertically
+垂直(&V)
+#--------1418
+Ctrl+8
+Ctrl+8
+#--------1419
+&Make Same Size
+使大小相同(&M)
+#--------1420
+&Width
+宽度(&W)
+#--------1421
+Ctrl+9
+Ctrl+9
+#--------1422
+&Height
+高度(&H)
+#--------1423
+Ctrl+0
+Ctrl+0
+#--------1424
+&Both
+全部 &B
+#--------1425
+&Span Width
+跨度宽(&S)
+#--------1426
+Sp&an Height
+跨度高度(&A)
+#--------1427
+&Layer
+层(&L)
+#--------1428
+Send to Back
+设为背景
+#--------1429
+Bring to &Front
+置于顶层(&F)
+#--------1430
+Ba&ck One
+下一层(&C)
+#--------1431
+For&ward One
+上一层(&W)
+#--------1432
+Send to Back of &All
+设为背景(&A)
+#--------1433
+S&wap Element Positions
+交换元件的位置(&W)
+#--------1434
+Ctrl+W
+Ctrl+W
+#--------1435
+Snap to &Edges
+与边缘对齐(&E)
+#--------1436
+&Run
+运行&R
+#--------1437
+&Run Prototype
+运行原形(&R)
+#--------1438
+Run &Prototype from Main Design
+运行主设计中的原型(&P)
+#--------1439
+Ctrl+F9
+Ctrl+F9
+#--------1440
+Prototype &Options...
+原型选项(&O)...
+#--------1441
+&Window
+窗口(&W)
+#--------1442
+&New Window
+新窗口(&N)
+#--------1443
+Clo&se
+关闭(&S)
+#--------1444
+Close &All
+全部关闭(&A)
+#--------1445
+Close &Others
+关闭其他(&O)
+#--------1446
+&Cascade
+层叠(&C)
+#--------1447
+Tile &Horizontally
+横向平铺(&H)
+#--------1448
+Tile &Vertically
+纵向平铺(&V)
+#--------1449
+Arrange &Icons
+整理图标(&A)
+#--------1450
+&Help
+帮助 &H
+#--------1451
+&Contents
+内容(&C)
+#--------1452
+&Index
+索引(&I)
+#--------1453
+&What's This?
+这是什么(&W)?
+#--------1454
+Shift+F1
+Shift+F1
+#--------1455
+Keyboard &Shortcuts
+键盘快捷键(&S)
+#--------1456
+&Mouse Controls
+鼠标控制(&M)
+#--------1457
+&Tutorials
+教程(&T)
+#--------1458
+Tips and Tric&ks
+提示和技巧(&K)
+#--------1459
+Further &Help
+更多帮助(&H)
+#--------1460
+Web &Resources
+Web 资源(&R)
+#--------1461
+&License
+许可证(&L)
+#--------1462
+&Enter Key...
+输入密钥(&E)
+#--------1463
+&Buy Online
+在线购买(&B)
+#--------1464
+&About GUI Design Studio...
+关于 &GUI Design Studio...
+#--------1465
+&File
+文件 &F
+#--------1466
+&Open...
+打开(&O)
+#--------1467
+Ctrl+O
+Ctrl+O
+#--------1468
+&Close
+关闭(&C)
+#--------1469
+&Export...
+导出(&E)...
+#--------1470
+Open Project...
+打开工程
+#--------1471
+Close Project
+关闭工程
+#--------1472
+&Print...
+打印(&P)...
+#--------1473
+Ctrl+P
+Ctrl+P
+#--------1474
+Print Pre&view
+打印预览(&V)
+#--------1475
+P&rint Setup...
+打印设置(&R)...
+#--------1476
+Recent &Files
+最近的文件(&F)
+#--------1477
+Recent File
+最近的文件
+#--------1478
+Recent Projects
+最近工程
+#--------1479
+Recent Project
+最近工程
+#--------1480
+Preferences...
+参数
+#--------1481
+E&xit
+退出(&X)
+#--------1482
+&View
+视图 &V
+#--------1483
+&Toolbar
+工具栏(&T)
+#--------1484
+&Status Bar
+状态栏(&S)
+#--------1485
+&Design Bar
+设计栏(&D)
+#--------1486
+Design Bar &Position
+设计栏位置(&P)
+#--------1487
+Dock &Left
+左停靠(&L)
+#--------1488
+Dock &Right
+右停靠(&R)
+#--------1489
+&Float
+浮动(&F)
+#--------1490
+&Zoom...
+缩放(&Z)...
+#--------1491
+Zoom to &100%
+缩放到 &100%
+#--------1492
+Zoom &In
+放大(&I)
+#--------1493
+Zoom &Out
+缩小(&O)
+#--------1494
+&Canvas
+画布(&C)
+#--------1495
+Navigation O&verlays
+导航遮掩(&V)
+#--------1496
+&Simulator
+模拟器(&S)
+#--------1497
+Run Simulator
+运行模拟器
+#--------1498
+Run &Simulator on Main Design
+模拟器上运行主设计(&S)
+#--------1499
+Ctrl+F9
+Ctrl+F9
+#--------1500
+Simulator &Options...
+模拟器选项(&O)...
+#--------1501
+&Window
+窗口(&W)
+#--------1502
+&New Window
+新窗口(&N)
+#--------1503
+&Cascade
+层叠(&C)
+#--------1504
+Tile &Horizontally
+横向平铺(&H)
+#--------1505
+Tile &Vertically
+纵向平铺(&V)
+#--------1506
+&Arrange Icons
+整理图标(&A)
+#--------1507
+&Help
+帮助 &H
+#--------1508
+&What's This?
+这是什么(&W)?
+#--------1509
+Shift+F1
+Shift+F1
+#--------1510
+Web &Resources
+Web 资源(&R)
+#--------1511
+&About GUI Design Viewer...
+关于 &GUI Design Viewer...
+#--------1512
+Screen Editor
+屏幕编辑器
+#--------1513
+ELEMENT_CMD_START
+ELEMENT_CMD_START
+#--------1514
+Open Component Desi&gn
+打开组件设计(&G)
+#--------1515
+Ctrl+Shift+O
+Ctrl+Shift+O
+#--------1516
+Restore Component
+保存组件
+#--------1517
+Restore Component Item
+保存组件组
+#--------1518
+Go To Connection Target
+转到连接目标
+#--------1519
+Alt+T
+Alt+T
+#--------1520
+Go To Connection Source
+转到连接源
+#--------1521
+Alt+R
+Alt+R
+#--------1522
+ELEMENT_CMD_END
+ELEMENT_CMD_END
+#--------1523
+Group Elements
+组合控件
+#--------1524
+Ctrl+G
+Ctrl+G
+#--------1525
+Ungroup Elements
+拆解控件
+#--------1526
+Ctrl+Shift+G
+Ctrl+Shift+G
+#--------1527
+Create Selection Group
+创建选择组
+#--------1528
+Add to Selection Group
+添加到所选组
+#--------1529
+Remove from Selection Group
+从选择组中删除
+#--------1530
+Cu&t
+剪切&T
+#--------1531
+Ctrl+X
+Ctrl+X
+#--------1532
+&Copy
+复制(&C)
+#--------1533
+Ctrl+C
+Ctrl+C
+#--------1534
+&Duplicate
+复制(&D)
+#--------1535
+Ctrl+D
+Ctrl+D
+#--------1536
+&Paste
+粘贴(&P)
+#--------1537
+Ctrl+V
+Ctrl+V
+#--------1538
+D&elete
+删除&E
+#--------1539
+Delete
+Delete
+#--------1540
+&Align
+排列(&A)
+#--------1541
+&Left
+左(&L)
+#--------1542
+Ctrl+Left Arrow
+Ctrl+左箭头
+#--------1543
+&Horizontal Centre
+水平中心(&H)
+#--------1544
+Ctrl+6
+Ctrl+6
+#--------1545
+&Right
+右边(&R)
+#--------1546
+Ctrl+Right Arrow
+Ctrl+右箭头
+#--------1547
+Left to Right &Edges
+左到右边缘(&E)
+#--------1548
+&Top
+顶部&T
+#--------1549
+Ctrl+Up Arrow
+Ctrl+上箭头
+#--------1550
+&Vertical Centre
+垂直中心(&V)
+#--------1551
+Ctrl+5
+Ctrl+5
+#--------1552
+&Bottom
+底部(&B)
+#--------1553
+Ctrl+Down Arrow
+Ctrl+下箭头
+#--------1554
+Top to Bottom E&dges
+顶部到底部边缘(&D)
+#--------1555
+Ctrl+4
+Ctrl+4
+#--------1556
+Gro&up Align
+组对齐(&U)
+#--------1557
+&Left
+左(&L)
+#--------1558
+Ctrl+Shift+Left Arrow
+Ctrl+Shift+左箭头
+#--------1559
+&Horizontal Centre
+水平中心(&H)
+#--------1560
+Ctrl+Shift+6
+Ctrl+Shift+6
+#--------1561
+&Right
+右边(&R)
+#--------1562
+Ctrl+Shift+Right Arrow
+Ctrl+Shift+右箭头
+#--------1563
+Left to Right &Edges
+左到右边缘(&E)
+#--------1564
+&Top
+顶部&T
+#--------1565
+Ctrl+Shift+Up Arrow
+Ctrl+Shift+上箭头
+#--------1566
+&Vertical Centre
+垂直中心(&V)
+#--------1567
+Ctrl+Shift+5
+Ctrl+Shift+5
+#--------1568
+&Bottom
+底部(&B)
+#--------1569
+Ctrl+Shift+Down Arrow
+Ctrl+Shift+下箭头
+#--------1570
+Top to Bottom E&dges
+顶部到底部边缘(&D)
+#--------1571
+Ctrl+Shift+4
+Ctrl+Shift+4
+#--------1572
+Space Evenl&y
+均匀间隔(&S)
+#--------1573
+&Horizontally
+水平(&H)
+#--------1574
+Ctrl+7
+Ctrl+7
+#--------1575
+&Vertically
+垂直(&V)
+#--------1576
+Ctrl+8
+Ctrl+8
+#--------1577
+Make Same Si&ze
+使大小相同(&Z)
+#--------1578
+&Width
+宽度(&W)
+#--------1579
+Ctrl+9
+Ctrl+9
+#--------1580
+&Height
+高度(&H)
+#--------1581
+Ctrl+0
+Ctrl+0
+#--------1582
+&Both
+全部 &B
+#--------1583
+&Span Width
+跨度宽(&S)
+#--------1584
+Sp&an Height
+跨度高度(&A)
+#--------1585
+&Layer
+层(&L)
+#--------1586
+Send to Back
+设为背景
+#--------1587
+Bring to &Front
+置于顶层(&F)
+#--------1588
+Ba&ck One
+下一层(&C)
+#--------1589
+For&ward One
+上一层(&W)
+#--------1590
+Send to Back of &All
+设为背景(&A)
+#--------1591
+&Screen Canvas Size...
+屏幕画布大小(&S)...
+#--------1592
+&Fit Screen Canvas to Elements
+自适应屏幕变化的控件(&F)
+#--------1593
+Set Representati&ve Element
+设置代表控件(&V)
+#--------1594
+Clear &Representative Element
+清除代表控件(&R)
+#--------1595
+Add &Bitmap...
+添加位图(&B)
+#--------1596
+Add &Icon...
+添加图标(&I)
+#--------1597
+Add Co&mponent Screen...
+添加组件屏幕(&M)...
+#--------1598
+Add Eleme&nt
+添加控件(&N)
+#--------1599
+Pr&operties...
+属性(&O)...
+#--------1600
+Alt+Enter
+Alt+Enter
+#--------1601
+Simulator
+Simulator
+#--------1602
+&Back
+后退 &B
+#--------1603
+Alt+Left
+Alt+Left
+#--------1604
+&Forward
+前进(&F)
+#--------1605
+Alt+Right
+Alt+Right
+#--------1606
+&Annotation Tool Tips
+注释工具(&A)
+#--------1607
+Apply &Data Set
+应用数据集(&D)
+#--------1608
+Copy &Image
+复制图像(&I)
+#--------1609
+Ctrl+Shift+I
+Ctrl+Shift+I
+#--------1610
+&Export Image...
+导出图像(&E)...
+#--------1611
+Ctrl+Shift+E
+Ctrl+Shift+E
+#--------1612
+&Close Mode
+关闭模式(&C)
+#--------1613
+E&xit
+退出(&X)
+#--------1614
+Shift+Esc
+Shift+Esc
+#--------1615
+Full Simulator
+完整的模拟器
+#--------1616
+&Back
+后退 &B
+#--------1617
+Alt+Left
+Alt+Left
+#--------1618
+&Forward
+前进(&F)
+#--------1619
+Alt+Right
+Alt+Right
+#--------1620
+Full &Screen
+全屏显示(&S)
+#--------1621
+Browser Mode
+浏览器模式
+#--------1622
+&Annotation Tool Tips
+注释工具(&A)
+#--------1623
+Apply &Data Set
+应用数据集(&D)
+#--------1624
+Copy &Image
+复制图像(&I)
+#--------1625
+Ctrl+Shift+I
+Ctrl+Shift+I
+#--------1626
+&Export Image...
+导出图像(&E)...
+#--------1627
+Ctrl+Shift+E
+Ctrl+Shift+E
+#--------1628
+&Close Mode
+关闭模式(&C)
+#--------1629
+E&xit
+退出(&X)
+#--------1630
+Shift+Esc
+Shift+Esc
+#--------1631
+Viewer
+Viewer
+#--------1632
+ELEMENT_CMD_START
+ELEMENT_CMD_START
+#--------1633
+Open Component Desi&gn
+打开组件设计(&G)
+#--------1634
+Ctrl+Shift+O
+Ctrl+Shift+O
+#--------1635
+ELEMENT_CMD_END
+ELEMENT_CMD_END
+#--------1636
+File
+File
+#--------1637
+Create &Folder...
+创建文件夹(&F)...
+#--------1638
+&Create Design...
+创建设计(&C)...
+#--------1639
+D&uplicate Design...
+复制设计(&U)...
+#--------1640
+&Paste Image to File...
+粘贴图像到文件(&P)...
+#--------1641
+Insert from &Template...
+从模板插入(&T)...
+#--------1642
+&Rename
+重命名(&R)
+#--------1643
+&Delete
+删除&D
+#--------1644
+Set as Custom &Elements Folder
+设置为自定义控件文件夹(&E)
+#--------1645
+Set as &Main Project Design
+设置为主项目设计(&M)
+#--------1646
+&Open Folder in Explorer
+打开资源管理器中的文件夹(&O)
+#--------1647
+About GUI Design Studio
+About GUI Design Studio
+#--------1648
+MS Sans Serif
+MS Sans Serif
+#--------1649
+GUI Design Studio
+GUI Design Studio
+#--------1650
+Version
+Version
+#--------1651
+Copyright (C) 2003-2010 Caretta Software Ltd
+版权所有 ? 2003年-2010 Caretta 软件有限公司
+#--------1652
+All rights reserved.
+保留所有权利.
+#--------1653
+Licensed to:
+许可给:
+#--------1654
+Hardware ID:
+硬件 ID:
+#--------1655
+Trial Version
+试用版
+#--------1656
+Select Scenario
+选择方案
+#--------1657
+MS Sans Serif
+MS Sans Serif
+#--------1658
+Select
+Select
+#--------1659
+Cancel
+Cancel
+#--------1660
+Connection Properties
+连接属性
+#--------1661
+MS Sans Serif
+MS Sans Serif
+#--------1662
+Line &Colour
+线颜色(&C)
+#--------1663
+Line &Width
+线宽(&W)
+#--------1664
+&Event Trigger
+事件触发器(&E)
+#--------1665
+Navigation &Type
+导航类型(&T)
+#--------1666
+&Apply
+应用(&A)
+#--------1667
+Cancel
+Cancel
+#--------1668
+Enter Text
+输入文本
+#--------1669
+MS Sans Serif
+MS Sans Serif
+#--------1670
+Title
+Title
+#--------1671
+MS Sans Serif
+MS Sans Serif
+#--------1672
+Close
+Close
+#--------1673
+Enter New Icon Details
+输入新图标详细设置
+#--------1674
+MS Sans Serif
+MS Sans Serif
+#--------1675
+&Name
+名称(&N)
+#--------1676
+&Size
+字号(&S)
+#--------1677
+&Colours
+颜色(&C)
+#--------1678
+Cancel
+  取消
+#--------1679
+New Project
+新建工程
+#--------1680
+MS Sans Serif
+MS Sans Serif
+#--------1681
+&Name:
+名称(&N)
+#--------1682
+&Based on:
+基于(&B):
+#--------1683
+&Location
+位置(&L)
+#--------1684
+&Add links to library projects:
+添加链接到链接库(&A):
+#--------1685
+(you can add or remove these later from the Project panel)
+(你可以添加或删除这些从控制面板)
+#--------1686
+Cancel
+  取消
+#--------1687
+Find Libraries Online
+在线查找库
+#--------1688
+Preferences
+参数
+#--------1689
+MS Sans Serif
+MS Sans Serif
+#--------1690
+Startup
+启动
+#--------1691
+&Open most recently used project
+打开最近使用项目的(&O)
+#--------1692
+Visual &Style
+视觉样式(&S)
+#--------1693
+Colour Schemes
+色彩风格
+#--------1694
+Use alternative colour scheme when &designing
+在设计时使用的色彩方案(&D)
+#--------1695
+Use alternative colour scheme when running &prototype
+运行原型时使用的色彩方案(&P)
+#--------1696
+Default Font
+默认字体
+#--------1697
+S&cale
+比例(&C)
+#--------1698
+&Icon Editor
+图标编辑器(&I)
+#--------1699
+Magnetic Edge Snapping
+磁力边缘吸附
+#--------1700
+Snapping &Threshold (pixels):
+对齐阈值(像素)(&T):
+#--------1701
+Mouse Scroll Wheel (if present)
+鼠标滚轮 (如果存在)
+#--------1702
+Zoom (Scroll Vertically with Ctrl key)
+缩放 (垂直滚动与 Ctrl 键)
+#--------1703
+Scroll
+垂直滚动
+#--------1704
+&Vertically (Zoom with Ctrl key)
+(加Ctrl键缩放)(&V)
+#--------1705
+Right to Left Languages
+从左至右的语言
+#--------1706
+&Mirror elements by default for right to left layout
+默认右到左镜像控件(&M)
+#--------1707
+Spell Checker
+拼写检查
+#--------1708
+La&nguage
+语言(&N)
+#--------1709
+&Underline misspelled words while typing 
+在打字时提示拼写错误的单词(&U) 
+#--------1710
+Compatibility
+兼容
+#--------1711
+Disable File Dialog e&xtensions (if you experience Open/Save problems)
+禁用文件对话框扩展 (如果您遇到打开/保存问题)(&X)
+#--------1712
+Disable Su&bversion (SVN) support (if you don't use a version 1.6 client)
+禁用(SVN) 支持 (如果您不使用 1.6 版的客户端)(&B)
+#--------1713
+Cancel
+  取消
+#--------1714
+Prototype Options
+原形选项
+#--------1715
+MS Sans Serif
+MS Sans Serif
+#--------1716
+Screen Resolution
+屏幕分辨率
+#--------1717
+Emulate different screen &resolution:
+模拟不同屏幕分辨率(&R):
+#--------1718
+Display
+显示
+#--------1719
+&Show Annotation Tool Tips
+显示批注工具提示(&S)
+#--------1720
+Prototype Menu
+原形菜单
+#--------1721
+Prototype menu &transparency
+原型菜单透明度(&T)
+#--------1722
+Which scenario should run at a Condition Box?
+要运行那个方案?
+#--------1723
+Let the &User choose from a list
+让用户从列表中选择(&U)
+#--------1724
+The &Normal (first) scenario always
+正常(第一)方案为(&N)
+#--------1725
+The first &Alternative (second) scenario always
+替代方案(二)为(&A)
+#--------1726
+The ne&xt scenario (cycle sequentially)
+接下来的场景(循环顺序)(&X)
+#--------1727
+A Rando&m scenario
+一个随机方案(&M)
+#--------1728
+Cancel
+  取消
+#--------1729
+Screen Canvas Size
+屏幕画布尺寸
+#--------1730
+MS Sans Serif
+MS Sans Serif
+#--------1731
+&Width:
+宽度(&W)
+#--------1732
+&Height:
+高度(&H):
+#--------1733
+Display design screen &canvas
+显示设计屏幕画布(&C)
+#--------1734
+Set as &default
+设为默认值(&D)
+#--------1735
+Cancel
+  取消
+#--------1736
+MS Sans Serif
+MS Sans Serif
+#--------1737
+Set Zoom
+设置缩放
+#--------1738
+MS Sans Serif
+MS Sans Serif
+#--------1739
+Cancel
+Cancel
+#--------1740
+View &Scale
+视图比例(&S)
+#--------1741
+Position
+位置
+#--------1742
+MS Sans Serif
+MS Sans Serif
+#--------1743
+&Width
+宽度(&W)
+#--------1744
+&Height
+高度(&H)
+#--------1745
+Fixed W&idth
+固定宽度(&I)
+#--------1746
+Fixed H&eight
+固定高度(&E)
+#--------1747
+Fixed Aspect &Ratio
+固定长宽比(&R)
+#--------1748
+Set to Original Size
+恢复初始大小
+#--------1749
+Placement
+Placement
+#--------1750
+MS Sans Serif
+MS Sans Serif
+#--------1751
+&Placement
+位置(&P)
+#--------1752
+&Vertical Alignment
+垂直对齐(&V)
+#--------1753
+&Horizontal Alignment
+水平对齐(&H)
+#--------1754
+Image Area
+图像区域
+#--------1755
+MS Sans Serif
+MS Sans Serif
+#--------1756
+Clip &Left
+钳住左(&L)
+#--------1757
+Clip &Right
+钳住右(&R)
+#--------1758
+Clip &Top
+钳住顶部(&T)
+#--------1759
+Clip &Bottom
+钳住底部(&B)
+#--------1760
+Border
+Border
+#--------1761
+MS Sans Serif
+MS Sans Serif
+#--------1762
+S&tyle
+样式(&T)
+#--------1763
+&Width
+宽度(&W)
+#--------1764
+&Depth
+深度(&D)
+#--------1765
+&Colour
+颜色(&C)
+#--------1766
+&Highlight
+高亮(&H)
+#--------1767
+&Shadow
+阴影(&S)
+#--------1768
+Fill
+Fill
+#--------1769
+MS Sans Serif
+MS Sans Serif
+#--------1770
+S&tyle
+样式(&T)
+#--------1771
+&Colour
+颜色(&C)
+#--------1772
+&Gradient Colour
+渐变色(&G)
+#--------1773
+Button
+按钮
+#--------1774
+MS Sans Serif
+MS Sans Serif
+#--------1775
+&Label
+标签(&L)
+#--------1776
+Text &Colour
+文本颜色(&C)
+#--------1777
+D&efault Button
+默认按钮(&E)
+#--------1778
+Di&sabled
+禁用(&S)
+#--------1779
+Button &Depth
+按钮深度(&D)
+#--------1780
+Check Box
+复选框
+#--------1781
+MS Sans Serif
+MS Sans Serif
+#--------1782
+&Label
+标签(&L)
+#--------1783
+&3-State
+&3-态
+#--------1784
+Chec&ked
+检查(&K)
+#--------1785
+&Text Left
+文本靠左(&T)
+#--------1786
+Di&sabled
+禁用(&S)
+#--------1787
+Text &Colour
+文本颜色(&C)
+#--------1788
+&Box Alignment
+对象对齐(&B)
+#--------1789
+Title Bar
+标题栏
+#--------1790
+MS Sans Serif
+MS Sans Serif
+#--------1791
+&Title
+标题(&T)
+#--------1792
+Ic&on
+图标 &O
+#--------1793
+&Margin
+留边(&M)
+#--------1794
+pixels
+pixels
+#--------1795
+Bar &Height
+栏高度(&H)
+#--------1796
+pixels
+pixels
+#--------1797
+C&entre Text
+中心文字(&E)
+#--------1798
+&Close Button
+关闭按钮(&C)
+#--------1799
+Hel&p Button
+帮助按钮(&P)
+#--------1800
+Mi&nimise Button
+最小化按钮(&N)
+#--------1801
+&Restore Button
+还原按钮(&R)
+#--------1802
+Ma&ximise Button
+最大化按钮(&X)
+#--------1803
+Window
+Window
+#--------1804
+MS Sans Serif
+MS Sans Serif
+#--------1805
+S&unken Window
+凹陷窗口(&U)
+#--------1806
+&Document Window
+文档窗口(&D)
+#--------1807
+&Active Window
+激活窗口(&A)
+#--------1808
+&Mirror for Right to Left
+左右镜像(&M)
+#--------1809
+Border &Size
+边框大小(&S)
+#--------1810
+pixels
+pixels
+#--------1811
+Window &Colour
+窗口颜色(&C)
+#--------1812
+S&often Title Bar Colours
+柔和标题栏颜色(&O)
+#--------1813
+Edges
+边缘
+#--------1814
+MS Sans Serif
+MS Sans Serif
+#--------1815
+&Left
+左(&L)
+#--------1816
+&Top
+顶部&T
+#--------1817
+&Right
+右边(&R)
+#--------1818
+&Bottom
+底部(&B)
+#--------1819
+State
+State
+#--------1820
+MS Sans Serif
+MS Sans Serif
+#--------1821
+Di&sabled
+禁用(&S)
+#--------1822
+Scroll Bar
+滚动条
+#--------1823
+MS Sans Serif
+MS Sans Serif
+#--------1824
+&Range
+范围(&R)
+#--------1825
+&Page Size
+页面大小(&P)
+#--------1826
+&Slider Position
+滑块位置(&S)
+#--------1827
+&Disabled
+禁用(&D)
+#--------1828
+Sq&uare Buttons
+方形按钮(&U)
+#--------1829
+Button Si&ze
+按钮大小(&Z)
+#--------1830
+Text
+Text
+#--------1831
+MS Sans Serif
+MS Sans Serif
+#--------1832
+&Text
+文本(&T)
+#--------1833
+&Colour
+颜色(&C)
+#--------1834
+&Disabled
+禁用(&D)
+#--------1835
+&Vertical Alignment
+垂直对齐(&V)
+#--------1836
+&Horizontal Alignment
+水平对齐(&H)
+#--------1837
+Background
+Background
+#--------1838
+MS Sans Serif
+MS Sans Serif
+#--------1839
+&Style
+样式(&S)
+#--------1840
+&Colour
+颜色(&C)
+#--------1841
+Edit Box
+编辑框
+#--------1842
+MS Sans Serif
+MS Sans Serif
+#--------1843
+&Text
+文本(&T)
+#--------1844
+Align&ment
+对齐方式(&M)
+#--------1845
+&Read Only
+只读(&R)
+#--------1846
+&Disabled
+禁用(&D)
+#--------1847
+T&ype
+类型(&Y)
+#--------1848
+Edit Box
+编辑框
+#--------1849
+MS Sans Serif
+MS Sans Serif
+#--------1850
+&Text
+文本(&T)
+#--------1851
+&Disabled
+禁用(&D)
+#--------1852
+&Alignment
+排列(&A)
+#--------1853
+&Read Only
+只读(&R)
+#--------1854
+Scroll Bars
+滚动条
+#--------1855
+MS Sans Serif
+MS Sans Serif
+#--------1856
+&Horizontal Scroll Bar
+水平滚动条(&H)
+#--------1857
+&Vertical Scroll Bar
+垂直滚动条(&V)
+#--------1858
+&Mirror for Right to Left
+左右镜像(&M)
+#--------1859
+&Wrap words onto next line
+自动换行到下一行上的单词(&W)
+#--------1860
+Horizontal &Offset
+水平偏移量(&O)
+#--------1861
+First Visible &Line
+第一个可见行(&L)
+#--------1862
+Combo Box
+组合框
+#--------1863
+MS Sans Serif
+MS Sans Serif
+#--------1864
+&Text
+文本(&T)
+#--------1865
+Alignme&nt
+对齐方式(&N)
+#--------1866
+&Editable content
+可编辑内容(&E)
+#--------1867
+&Custom styling
+自定义样式(&C)
+#--------1868
+&Flat Style
+平板式(&F)
+#--------1869
+&Disabled
+禁用(&D)
+#--------1870
+&Mirror for Right to Left
+左右镜像(&M)
+#--------1871
+Data
+Data
+#--------1872
+MS Sans Serif
+MS Sans Serif
+#--------1873
+&Insert
+插入&I
+#--------1874
+&Set
+设置(&S)
+#--------1875
+&Delete
+删除&D
+#--------1876
+Move &Up
+ 上移(&U)
+#--------1877
+Move Do&wn
+  下移(&W)
+#--------1878
+&First Item
+第一项(&F)
+#--------1879
+S&elected
+所选(&E)
+#--------1880
+Style
+Style
+#--------1881
+MS Sans Serif
+MS Sans Serif
+#--------1882
+&Horizontal Scroll Bar
+水平滚动条(&H)
+#--------1883
+&Vertical Scroll Bar
+垂直滚动条(&V)
+#--------1884
+Mirror for &Right to Left
+右到左的镜像(&R)
+#--------1885
+&Wrap words
+换行字(&W)
+#--------1886
+&Disabled
+禁用(&D)
+#--------1887
+&Flat Style
+平板式(&F)
+#--------1888
+Horizontal &Offset
+水平偏移量(&O)
+#--------1889
+Horizontal &Margin
+水平边距(&M)
+#--------1890
+&Item Height
+项高度(&I)
+#--------1891
+Hori&zontal Alignment
+水平对齐(&H)
+#--------1892
+Ver&tical Alignment
+垂直对齐(&V)
+#--------1893
+A&utomatic Height
+自动高度(&U)
+#--------1894
+Max &Visible Items
+最大可见项(&V)
+#--------1895
+Data
+Data
+#--------1896
+MS Sans Serif
+MS Sans Serif
+#--------1897
+&Insert
+插入&I
+#--------1898
+&Set
+设置(&S)
+#--------1899
+&Delete
+删除&D
+#--------1900
+Move &Up
+ 上移(&U)
+#--------1901
+Move Do&wn
+  下移(&W)
+#--------1902
+&First Item
+第一项(&F)
+#--------1903
+S&elected
+所选(&E)
+#--------1904
+Radio Button
+单选按钮
+#--------1905
+MS Sans Serif
+MS Sans Serif
+#--------1906
+&Label
+标签(&L)
+#--------1907
+&Selected
+选择(&S)
+#--------1908
+&Text Left
+文本靠左(&T)
+#--------1909
+Di&sabled
+禁用(&S)
+#--------1910
+Text &Colour
+文本颜色(&C)
+#--------1911
+&Box Alignment
+对象对齐(&B)
+#--------1912
+Layout
+Layout
+#--------1913
+MS Sans Serif
+MS Sans Serif
+#--------1914
+Button Bar
+按钮栏
+#--------1915
+&None
+&None
+#--------1916
+&Right
+右边(&R)
+#--------1917
+&Bottom
+底部(&B)
+#--------1918
+Si&ze
+字号(&S)
+#--------1919
+(pixels)
+(pixels)
+#--------1920
+Grid
+Grid
+#--------1921
+&Columns
+列(&C)
+#--------1922
+R&ows
+行(&O)
+#--------1923
+&Spacing
+间距(&S)
+#--------1924
+Margins
+边缘
+#--------1925
+MS Sans Serif
+MS Sans Serif
+#--------1926
+&Left
+左(&L)
+#--------1927
+&Top
+顶部&T
+#--------1928
+&Right
+右边(&R)
+#--------1929
+&Bottom
+底部(&B)
+#--------1930
+Grid
+网格
+#--------1931
+MS Sans Serif
+MS Sans Serif
+#--------1932
+&Columns
+列(&C)
+#--------1933
+C&ount
+数量&O
+#--------1934
+&Every
+固定&E
+#--------1935
+&Spacing
+间距(&S)
+#--------1936
+&Rows
+行(&R)
+#--------1937
+Co&unt
+数量&U
+#--------1938
+E&very
+固定(&V)
+#--------1939
+Spaci&ng
+间距(&S)
+#--------1940
+Text
+Text
+#--------1941
+MS Sans Serif
+MS Sans Serif
+#--------1942
+&Text
+文本(&T)
+#--------1943
+&Colour
+颜色(&C)
+#--------1944
+&Placement
+位置(&P)
+#--------1945
+.)Am
+.)Am
+#--------1946
+&Horizontal Alignment
+水平对齐(&H)
+#--------1947
+&Ignore text for position and size 
+忽略文本的位置和大小(&I) 
+#--------1948
+Di&sabled
+禁用(&S)
+#--------1949
+Style
+Style
+#--------1950
+MS Sans Serif
+MS Sans Serif
+#--------1951
+&Style
+样式(&S)
+#--------1952
+Bar Si&ze
+条形图大小(&Z)
+#--------1953
+Aspect &Ratio
+纵横比(&R)
+#--------1954
+&Inner Border
+内部边框(&I)
+#--------1955
+&Background Colour
+背景色(&B)
+#--------1956
+Bar &Colour
+条形图的颜色(&C)
+#--------1957
+Progress
+Progress
+#--------1958
+MS Sans Serif
+MS Sans Serif
+#--------1959
+Full &Range
+全范围(&R)
+#--------1960
+&Progress
+进展(&P)
+#--------1961
+Tab
+Tab
+#--------1962
+MS Sans Serif
+MS Sans Serif
+#--------1963
+&Label
+标签(&L)
+#--------1964
+Text &Colour
+文本颜色(&C)
+#--------1965
+&Selected
+选择(&S)
+#--------1966
+&Reversed
+恢复(&R)
+#--------1967
+&Disabled
+禁用(&D)
+#--------1968
+Style
+Style
+#--------1969
+MS Sans Serif
+MS Sans Serif
+#--------1970
+&Background
+背景(&B)
+#--------1971
+Background &Colour
+背景颜色(&C)
+#--------1972
+&Vertical Alignment
+垂直对齐(&V)
+#--------1973
+&Horizontal Alignment
+水平对齐(&H)
+#--------1974
+Maintain size when component changes
+当控件变化时保持大小
+#--------1975
+Style
+Style
+#--------1976
+MS Sans Serif
+MS Sans Serif
+#--------1977
+Border &Margin
+边界边距(&M)
+#--------1978
+Border &Width
+边框宽度(&W)
+#--------1979
+Border &Colour
+边框颜色(&C)
+#--------1980
+&Fill Colour
+填充颜色(&F)
+#--------1981
+&Solid
+实心(&S)
+#--------1982
+Sq&uare
+方(&U)
+#--------1983
+Style
+Style
+#--------1984
+MS Sans Serif
+MS Sans Serif
+#--------1985
+Line &Width
+线宽(&W)
+#--------1986
+Line &Colour
+线颜色(&C)
+#--------1987
+Text
+Text
+#--------1988
+MS Sans Serif
+MS Sans Serif
+#--------1989
+&Title
+标题(&T)
+#--------1990
+Text Style
+文本样式
+#--------1991
+MS Sans Serif
+MS Sans Serif
+#--------1992
+&Title Text
+标题文本(&T)
+#--------1993
+A&nnotation Text
+注释文本(&N)
+#--------1994
+&Vert Alignment
+垂直对齐(&V)
+#--------1995
+&Horiz Alignment
+水平线对齐(&H)
+#--------1996
+Box Style
+框风格
+#--------1997
+MS Sans Serif
+MS Sans Serif
+#--------1998
+&Border
+加粗(&B)
+#--------1999
+&Colour
+颜色(&C)
+#--------2000
+&Width
+宽度(&W)
+#--------2001
+&Solid
+实心(&S)
+#--------2002
+&Fill Colour
+填充颜色(&F)
+#--------2003
+Shad&ow
+阴影(&O)
+#--------2004
+&Depth
+深度(&D)
+#--------2005
+Label
+Label
+#--------2006
+MS Sans Serif
+MS Sans Serif
+#--------2007
+&Label
+标签(&L)
+#--------2008
+&Colour
+颜色(&C)
+#--------2009
+Text
+Text
+#--------2010
+MS Sans Serif
+MS Sans Serif
+#--------2011
+&Text
+文本(&T)
+#--------2012
+Align&ment
+对齐方式(&M)
+#--------2013
+A&ctive
+活跃(&C)
+#--------2014
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2015
+Style
+Style
+#--------2016
+MS Sans Serif
+MS Sans Serif
+#--------2017
+&Flat Style
+平板式(&F)
+#--------2018
+&Pressed
+按下(&P)
+#--------2019
+Style
+Style
+#--------2020
+MS Sans Serif
+MS Sans Serif
+#--------2021
+&Flat Style
+平板式(&F)
+#--------2022
+Text
+Text
+#--------2023
+MS Sans Serif
+MS Sans Serif
+#--------2024
+&Status Message:
+状态消息(&S):
+#--------2025
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2026
+Text &Colour
+文本颜色(&C)
+#--------2027
+Bac&kground Colour
+背景颜色(&K)
+#--------2028
+Message
+Message
+#--------2029
+MS Sans Serif
+MS Sans Serif
+#--------2030
+&Title
+标题(&T)
+#--------2031
+&Message
+消息(&M)
+#--------2032
+MS Sans Serif
+MS Sans Serif
+#--------2033
+&Insert
+插入&I
+#--------2034
+&Replace
+替换(&R)
+#--------2035
+&Delete
+删除&D
+#--------2036
+Move &Up
+ 上移(&U)
+#--------2037
+Move Do&wn
+  下移(&W)
+#--------2038
+Style
+Style
+#--------2039
+MS Sans Serif
+MS Sans Serif
+#--------2040
+Line &Colour
+线颜色(&C)
+#--------2041
+Line &Width
+线宽(&W)
+#--------2042
+Type
+Type
+#--------2043
+MS Sans Serif
+MS Sans Serif
+#--------2044
+Navigation &Type
+导航类型(&T)
+#--------2045
+Alignment
+Alignment
+#--------2046
+MS Sans Serif
+MS Sans Serif
+#--------2047
+Target Align&ment
+目标对齐方式(&M)
+#--------2048
+Align &To
+与对齐(&T)
+#--------2049
+Items
+Items
+#--------2050
+MS Sans Serif
+MS Sans Serif
+#--------2051
+&Insert
+插入&I
+#--------2052
+&Set
+设置(&S)
+#--------2053
+&Delete
+删除&D
+#--------2054
+Move &Up
+ 上移(&U)
+#--------2055
+Move Do&wn
+  下移(&W)
+#--------2056
+&Left Margin
+左边距(&L)
+#--------2057
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2058
+Items
+Items
+#--------2059
+MS Sans Serif
+MS Sans Serif
+#--------2060
+&Hotkey
+热键(&H)
+#--------2061
+Disa&bled
+禁用(&D)
+#--------2062
+&Insert
+插入&I
+#--------2063
+&Set
+设置(&S)
+#--------2064
+&Delete
+删除&D
+#--------2065
+Move &Up
+ 上移(&U)
+#--------2066
+Move Do&wn
+  下移(&W)
+#--------2067
+&Left Margin
+左边距(&L)
+#--------2068
+&Right Margin
+右边距(&R)
+#--------2069
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2070
+Style
+Style
+#--------2071
+MS Sans Serif
+MS Sans Serif
+#--------2072
+&Flat Style
+平板式(&F)
+#--------2073
+Show
+显示
+#--------2074
+MS Sans Serif
+MS Sans Serif
+#--------2075
+&Horizontal Lines
+水平线(&H)
+#--------2076
+&Vertical Lines
+垂直线(&V)
+#--------2077
+&Cell Borders
+单元边界(&C)
+#--------2078
+&Fill Cells
+填充单元格(&F)
+#--------2079
+&Guide Lines
+参考线(&G)
+#--------2080
+(Simulation invisible)
+(仿真不可见)
+#--------2081
+Grid
+Grid
+#--------2082
+MS Sans Serif
+MS Sans Serif
+#--------2083
+&Columns
+列(&C)
+#--------2084
+R&ows
+行(&O)
+#--------2085
+Column &Spacing
+列间距(&S)
+#--------2086
+(pixels)
+(pixels)
+#--------2087
+Ro&w Spacing
+行间距(&W)
+#--------2088
+(pixels)
+(pixels)
+#--------2089
+Slider
+Slider
+#--------2090
+MS Sans Serif
+MS Sans Serif
+#--------2091
+&Range
+范围(&R)
+#--------2092
+Slider P&osition
+滑块位置(&S)
+#--------2093
+Selection &Start
+选择开始(&S)
+#--------2094
+Selection &End
+选择结束(&E)
+#--------2095
+&Disabled
+禁用(&D)
+#--------2096
+&Tick Marks
+刻度(&T)
+#--------2097
+Sele&ction Range
+选择范围(&C)
+#--------2098
+Re&verse Range
+反向范围(&V)
+#--------2099
+&Point
+刻线
+#--------2100
+Style
+Style
+#--------2101
+MS Sans Serif
+MS Sans Serif
+#--------2102
+Tab &Locations
+标签位置(&L)
+#--------2103
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2104
+Tab Si&zes
+标签尺寸(&Z)
+#--------2105
+&Full Width
+全宽(&F)
+#--------2106
+&Left Margin
+左边距(&L)
+#--------2107
+&Right Margin
+右边距(&R)
+#--------2108
+Enable &Selection In Simulator
+在模拟器中启用选择(&S)
+#--------2109
+Items
+Items
+#--------2110
+MS Sans Serif
+MS Sans Serif
+#--------2111
+Disa&bled
+禁用(&D)
+#--------2112
+&Insert
+插入&I
+#--------2113
+&Set
+设置(&S)
+#--------2114
+&Delete
+删除&D
+#--------2115
+Move &Up
+ 上移(&U)
+#--------2116
+Move Do&wn
+  下移(&W)
+#--------2117
+S&elected
+所选(&E)
+#--------2118
+Style
+Style
+#--------2119
+MS Sans Serif
+MS Sans Serif
+#--------2120
+Tab &Locations
+标签位置(&L)
+#--------2121
+Tab Si&zes
+标签尺寸(&Z)
+#--------2122
+&Full Height
+全高(&F)
+#--------2123
+&Top Margin
+上边距(&T)
+#--------2124
+&Bottom Margin
+底边(&B)
+#--------2125
+Enable &Selection In Simulator
+在模拟器中启用选择(&S)
+#--------2126
+Create Distribution File
+创建分发文件
+#--------2127
+MS Sans Serif
+MS Sans Serif
+#--------2128
+Fil&e:
+文件(&E):
+#--------2129
+Include
+包括
+#--------2130
+The whole &project:
+整个项目(&P):
+#--------2131
+Designs in the selected &folder only:
+选定文件夹中的设计(&F):
+#--------2132
+The current &design file only:
+当前设计文件只有(&D):
+#--------2133
+NOTE: Referenced design and image files will be included automatically
+注意： 将自动包括引用的设计和图像文件
+#--------2134
+Options
+Options
+#--------2135
+Include &linked projects
+包括链接项目(&L)
+#--------2136
+Include all &open design files
+包括所有打开的设计文件(&O)
+#--------2137
+&Automatically run the prototype when opened in the Viewer
+自动运行原形当打开查看器时(&A)
+#--------2138
+&Close the Viewer when the prototype completes
+原型完成后关闭查看器(&C)
+#--------2139
+Create
+创建
+#--------2140
+Cancel
+  取消
+#--------2141
+Distribution File Created
+创建分发文件
+#--------2142
+MS Sans Serif
+MS Sans Serif
+#--------2143
+Close
+Close
+#--------2144
+Open Containing &Folder
+打开所在的文件夹(&F)
+#--------2145
+Distribution file: %s
+分发文件: %s
+#--------2146
+has been created successfully!
+已成功创建!
+#--------2147
+Generate Documentation
+生成文档
+#--------2148
+MS Sans Serif
+MS Sans Serif
+#--------2149
+Output For&mat
+输出格式(&M)
+#--------2150
+&Options...
+选项(&O)
+#--------2151
+Output &Language
+输出语言(&L)
+#--------2152
+Output Folder
+输出文件夹
+#--------2153
+Add date-&stamp suffix
+添加日期戳后缀(&T)
+#--------2154
+Add &time-stamp suffix
+添加时间戳后缀(&T)
+#--------2155
+Remo&ve spaces in name
+删除名称中的空格(&V)
+#--------2156
+Include
+包括
+#--------2157
+The whole &project:
+整个项目(&P):
+#--------2158
+Designs in the selected &folder only:
+选定文件夹中的设计(&F):
+#--------2159
+The current &design file only:
+当前设计文件只有(&D):
+#--------2160
+Include referenced &component designs
+包括引用的组件设计(&C)
+#--------2161
+Include lin&ked projects
+包括链接项目(&L)
+#--------2162
+So&rt Designs By:
+排序依据(&R):
+#--------2163
+Content
+内容
+#--------2164
+&Generate full documentation
+生成完整的文档(&G)
+#--------2165
+Generate &update documentation only
+只生成更新文件(&U)
+#--------2166
+Modified &After
+修改后(&A)
+#--------2167
+Full
+Full
+#--------2168
+Update
+更新
+#--------2169
+Modified &Before
+修改前(&B)
+#--------2170
+Full
+Full
+#--------2171
+Update
+跟新
+#--------2172
+(last full documentation message)
+(所有文件最后一条消息)
+#--------2173
+(last update documentation message)
+(最后更新文档消息)
+#--------2174
+Sho&w component design notes in containing designs 
+显示元件设计说明含设计(&W) 
+#--------2175
+Please provide a before or after date and time, or both to select a range
+请提供之前或之后日期和时间,或两者都要选择范围
+#--------2176
+Generate
+  生成
+#--------2177
+Cancel
+  取消
+#--------2178
+Set to last doc...
+设置为最后一个文档...
+#--------2179
+MS Shell Dlg
+MS Shell Dlg
+#--------2180
+&Setup...
+设置(&S)
+#--------2181
+&Print...
+打印(&P)
+#--------2182
+&Close
+关闭(&C)
+#--------2183
+Pre&v Page
+前一页(&V)
+#--------2184
+&Next Page
+下一页(&N)
+#--------2185
+Zoom &In
+放大(&I)
+#--------2186
+Zoom &Out
+缩小(&O)
+#--------2187
+Data
+Data
+#--------2188
+MS Sans Serif
+MS Sans Serif
+#--------2189
+S&elected
+所选(&E)
+#--------2190
+&Bold
+加粗 &B
+#--------2191
+Icon
+Icon
+#--------2192
+&Insert
+插入&I
+#--------2193
+&Set
+设置(&S)
+#--------2194
+&Delete
+删除&D
+#--------2195
+Move &Up
+ 上移(&U)
+#--------2196
+Move Do&wn
+  下移(&W)
+#--------2197
+< Move &Out
+<移除(&O)
+#--------2198
+Move I&n >
+移动到(&N) >
+#--------2199
+Style
+Style
+#--------2200
+MS Sans Serif
+MS Sans Serif
+#--------2201
+Has &border
+有的边框(&B)
+#--------2202
+Has b&uttons
+有按钮(&U)
+#--------2203
+Has li&nes
+有线条(&N)
+#--------2204
+Has lines at &root
+在根有线条(&R)
+#--------2205
+&Horizontal scroll bar
+水平滚动条(&H)
+#--------2206
+&Vertical scroll bar
+垂直滚动条(&V)
+#--------2207
+&Wrap words
+换行字(&W)
+#--------2208
+&Disabled
+禁用(&D)
+#--------2209
+&Icons
+图标(&I)
+#--------2210
+Icon &Margin
+图标边距(&M)
+#--------2211
+Item H&eight
+项高度(&I)
+#--------2212
+&Mirror for right to left
+左右镜像(&M)
+#--------2213
+Ruler
+Ruler
+#--------2214
+MS Sans Serif
+MS Sans Serif
+#--------2215
+Range &Start
+范围开始(&S)
+#--------2216
+Range &End
+范围的结束(&E)
+#--------2217
+&Numbers
+数字(&N)
+#--------2218
+&Decimal Places
+小数位数(&D)
+#--------2219
+&Boundary Start
+分界线起点(&B)
+#--------2220
+B&oundary End
+边界结束(&O)
+#--------2221
+Major &Tick Marks
+主要刻度线(&T)
+#--------2222
+&Medium Divisions
+中间间隔(&M)
+#--------2223
+Small Di&visions
+小分隔(&V)
+#--------2224
+Style
+Style
+#--------2225
+MS Sans Serif
+MS Sans Serif
+#--------2226
+&Flat Style
+平板式(&F)
+#--------2227
+&Bold Text
+加粗文本(&B)
+#--------2228
+&Italic Text
+斜体文本(&I)
+#--------2229
+In&vert Text
+反转文本(&V)
+#--------2230
+Boun&dary Colour
+边界颜色(&D)
+#--------2231
+Bac&kground Colour
+背景颜色(&K)
+#--------2232
+&Text Colour
+文本颜色(&T)
+#--------2233
+Tick &Marks Colour
+刻度颜色(&M)
+#--------2234
+Text
+Text
+#--------2235
+MS Sans Serif
+MS Sans Serif
+#--------2236
+&Text
+文本(&T)
+#--------2237
+&Colour
+颜色(&C)
+#--------2238
+&Vertical Alignment
+垂直对齐(&V)
+#--------2239
+&Horizontal Alignment
+水平对齐(&H)
+#--------2240
+Style
+Style
+#--------2241
+MS Sans Serif
+MS Sans Serif
+#--------2242
+&Fill
+填充(&F)
+#--------2243
+&Style
+样式(&S)
+#--------2244
+&Colour
+颜色(&C)
+#--------2245
+&Border
+加粗(&B)
+#--------2246
+S&tyle
+样式(&T)
+#--------2247
+C&olour
+颜色(&C)
+#--------2248
+&Width
+宽度(&W)
+#--------2249
+Simulated Screen Size
+模拟屏幕尺寸
+#--------2250
+MS Sans Serif
+MS Sans Serif
+#--------2251
+&Width:
+宽度(&W)
+#--------2252
+&Height:
+高度(&H):
+#--------2253
+Cancel
+Cancel
+#--------2254
+About GUI Design Viewer
+About GUI Design Viewer
+#--------2255
+MS Sans Serif
+MS Sans Serif
+#--------2256
+GUI Design Viewer
+GUI Design Viewer
+#--------2257
+Version
+Version
+#--------2258
+Copyright (C) 2005-2010 Caretta Software Ltd
+版权所有 ? 2005年-2010 Caretta 软件有限公司
+#--------2259
+All rights reserved.
+保留所有权利.
+#--------2260
+Tab Panel
+选项卡面板
+#--------2261
+MS Sans Serif
+MS Sans Serif
+#--------2262
+Tab &Orientation:
+标签方向(&O):
+#--------2263
+Web Page
+Web 页
+#--------2264
+MS Sans Serif
+MS Sans Serif
+#--------2265
+&Background Colour
+背景色(&B)
+#--------2266
+Border &Colour
+边框颜色(&C)
+#--------2267
+Border &Width
+边框宽度(&W)
+#--------2268
+Page &Height
+页面高度(&H)
+#--------2269
+Heading
+Heading
+#--------2270
+MS Sans Serif
+MS Sans Serif
+#--------2271
+&Heading
+标题(&H)
+#--------2272
+&Style
+样式(&S)
+#--------2273
+Sort &Indicator
+排序指示符(&I)
+#--------2274
+Alig&nment
+排列(&A)
+#--------2275
+&Margin
+留边(&M)
+#--------2276
+&Background
+背景(&B)
+#--------2277
+Border &Colour
+边框颜色(&C)
+#--------2278
+&Text Colour
+文本颜色(&T)
+#--------2279
+Colours
+Colours
+#--------2280
+MS Sans Serif
+MS Sans Serif
+#--------2281
+&Background
+背景(&B)
+#--------2282
+Bo&rder
+加粗(&B)
+#--------2283
+&Grid Line
+网格线(&G)
+#--------2284
+Default &Odd Row
+默认为奇数行(&O)
+#--------2285
+Default &Even Row
+默认偶数行(&E)
+#--------2286
+Default Cell &Text
+默认单元格文本(&T)
+#--------2287
+&Header Background
+标题背景(&H)
+#--------2288
+Hea&der Border
+标题边框(&D)
+#--------2289
+Header Te&xt
+页眉文本(&X)
+#--------2290
+&Sorted Column
+排序列(&S)
+#--------2291
+Sorted Opa&city (%)
+排序不透明度(&C)(%)
+#--------2292
+Style
+Style
+#--------2293
+MS Sans Serif
+MS Sans Serif
+#--------2294
+Hea&der Style
+标题样式(&D)
+#--------2295
+Header &Space
+标题空间(&S)
+#--------2296
+H&eader Height
+标题的高度(&E)
+#--------2297
+&Minimum Row Height
+最小行高(&M)
+#--------2298
+Fixed C&olumn Style
+固定式栏(&O)
+#--------2299
+Fixed Col&umns
+固定列(&U)
+#--------2300
+Columns
+Columns
+#--------2301
+MS Sans Serif
+MS Sans Serif
+#--------2302
+Column &Width:
+列宽(&W):
+#--------2303
+Margin:
+Margin:
+#--------2304
+&Header:
+标题(&H):
+#--------2305
+Alignment:
+Alignment:
+#--------2306
+&Cells:
+单元(&C)
+#--------2307
+&Odd Row Colour
+奇数行颜色(&O)
+#--------2308
+&Even Row Colour
+偶数行的颜色(&E)
+#--------2309
+Cell &Text Colour
+单元格文本颜色(&T)
+#--------2310
+&Insert
+插入&I
+#--------2311
+&Set
+设置(&S)
+#--------2312
+&Delete
+删除&D
+#--------2313
+Move &Up
+ 上移(&U)
+#--------2314
+Move Do&wn
+  下移(&W)
+#--------2315
+Data
+Data
+#--------2316
+MS Sans Serif
+MS Sans Serif
+#--------2317
+&Insert Row
+插入行(&I)
+#--------2318
+&Delete Row
+删除行(&D)
+#--------2319
+Move &Up
+ 上移(&U)
+#--------2320
+Move Do&wn
+  下移(&W)
+#--------2321
+Sort &Col:
+列排序(&C)
+#--------2322
+&Remove Sort
+删除排序(&R)
+#--------2323
+&Selected
+选择(&S)
+#--------2324
+&Paste from Clipboard
+从剪贴板粘贴(&P)
+#--------2325
+I&mport...
+导入(&M)...
+#--------2326
+E&xport...
+输出(&X)
+#--------2327
+Options
+Options
+#--------2328
+MS Sans Serif
+MS Sans Serif
+#--------2329
+&Flat
+平板 &F
+#--------2330
+&Transparent
+透明(&T)
+#--------2331
+&Border
+加粗(&B)
+#--------2332
+Hori&zontal Scroll Bar
+水平滚动条(&H)
+#--------2333
+Vertica&l Scroll Bar
+垂直滚动条(&L)
+#--------2334
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2335
+Full Ro&w Selection
+整行选择(&W)
+#--------2336
+B&old Header Text
+粗体标题文本(&O)
+#--------2337
+&Horizontal Lines
+水平线(&H)
+#--------2338
+E&xtended
+扩展(&X)
+#--------2339
+&Vertical Lines
+垂直线(&V)
+#--------2340
+Exte&nded
+扩展(&X)
+#--------2341
+Extend &Rows
+扩展行(&R)
+#--------2342
+Extend &Columns
+扩展的列(&C)
+#--------2343
+&Extend Column Headers
+扩展列标题(&E)
+#--------2344
+Wrap Header Wor&ds
+换行标题字(&D)
+#--------2345
+Wra&p Words
+换行字(&P)
+#--------2346
+Var&iable Height Rows
+高度可变行(&I)
+#--------2347
+Style
+Style
+#--------2348
+MS Sans Serif
+MS Sans Serif
+#--------2349
+Hea&der Style
+标题样式(&D)
+#--------2350
+Header &Space
+标题空间(&S)
+#--------2351
+H&eader Height
+标题的高度(&E)
+#--------2352
+&Minimum Row Height
+最小行高(&M)
+#--------2353
+Fixed C&olumn Style
+固定式栏(&O)
+#--------2354
+Fixed Col&umns
+固定列(&U)
+#--------2355
+&Flat
+平板 &F
+#--------2356
+&Transparent
+透明(&T)
+#--------2357
+&Border
+加粗(&B)
+#--------2358
+&Horizontal Lines
+水平线(&H)
+#--------2359
+&Vertical Lines
+垂直线(&V)
+#--------2360
+Exte&nded
+扩展(&X)
+#--------2361
+Extent &Columns
+扩展列(&C)
+#--------2362
+Extend &Rows
+扩展行(&R)
+#--------2363
+Full Ro&w Selection
+整行选择(&W)
+#--------2364
+Creating Distribution File...
+创建分发文件...
+#--------2365
+MS Sans Serif
+MS Sans Serif
+#--------2366
+Folder:
+Folder:
+#--------2367
+File:
+File:
+#--------2368
+&Cancel
+取消(&C)
+#--------2369
+Font
+字体
+#--------2370
+MS Sans Serif
+MS Sans Serif
+#--------2371
+&Quick Pick
+选择(&Q)
+#--------2372
+&Size
+字号(&S)
+#--------2373
+&Bold
+加粗 &B
+#--------2374
+&Italic
+斜体&I
+#--------2375
+Simulator Options
+模拟器选项
+#--------2376
+MS Sans Serif
+MS Sans Serif
+#--------2377
+Screen Resolution
+屏幕分辨率
+#--------2378
+Simulate different screen &resolution:
+模拟不同的屏幕分辨率(&R):
+#--------2379
+Starting Point
+起始点
+#--------2380
+Start simulation from Main Project Design (if available)
+开始模拟从主要项目设计 (如果可用)
+#--------2381
+Which scenario should run at a Condition Box?
+要运行那个方案?
+#--------2382
+Let the &User choose from a list
+让用户从列表中选择(&U)
+#--------2383
+The &Normal (first) scenario always
+正常(第一)方案为(&N)
+#--------2384
+The first &Alternative (second) scenario always
+替代方案(二)为(&A)
+#--------2385
+The ne&xt scenario (cycle sequentially)
+接下来的场景(循环顺序)(&X)
+#--------2386
+A Rando&m scenario
+一个随机方案(&M)
+#--------2387
+Cancel
+Cancel
+#--------2388
+Placeholder
+Placeholder
+#--------2389
+MS Sans Serif
+MS Sans Serif
+#--------2390
+&Label
+标签(&L)
+#--------2391
+&Background
+背景(&B)
+#--------2392
+Line &Colour
+线颜色(&C)
+#--------2393
+Outer Border &Size
+外边框大小(&S)
+#--------2394
+Colours
+Colours
+#--------2395
+MS Sans Serif
+MS Sans Serif
+#--------2396
+&Text
+文本(&T)
+#--------2397
+&Disabled Text
+禁用的文本(&D)
+#--------2398
+Ba&ckground
+背景(&C)
+#--------2399
+Di&sabled Background
+禁用背景(&S)
+#--------2400
+&Border
+加粗(&B)
+#--------2401
+Items
+Items
+#--------2402
+MS Sans Serif
+MS Sans Serif
+#--------2403
+&Insert
+插入&I
+#--------2404
+&Set
+设置(&S)
+#--------2405
+&Delete
+删除&D
+#--------2406
+Move &Up
+ 上移(&U)
+#--------2407
+Move Do&wn
+  下移(&W)
+#--------2408
+Style
+Style
+#--------2409
+MS Sans Serif
+MS Sans Serif
+#--------2410
+Items
+Items
+#--------2411
+&Vertical
+垂直(&V)
+#--------2412
+&Horizontal
+水平(&H)
+#--------2413
+&Colour
+颜色(&C)
+#--------2414
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2415
+Separator
+Separator
+#--------2416
+&Text
+文本(&T)
+#--------2417
+&Left Space
+左侧空间(&L)
+#--------2418
+&Right Space
+合适的空间(&R)
+#--------2419
+C&olour
+颜色(&C)
+#--------2420
+Tab
+Tab
+#--------2421
+MS Sans Serif
+MS Sans Serif
+#--------2422
+&Label
+标签(&L)
+#--------2423
+&Tab Shape
+标签形状(&T)
+#--------2424
+Attach &Side
+附加侧(&S)
+#--------2425
+&Corner Style
+角样式(&C)
+#--------2426
+&H Alignment
+H 对齐方式(&H)
+#--------2427
+&V Alignment
+V 对齐方式(&V)
+#--------2428
+Corner Si&ze
+角大小(&Z)
+#--------2429
+Style
+Style
+#--------2430
+MS Sans Serif
+MS Sans Serif
+#--------2431
+Fill &Style
+填充样式(&F)
+#--------2432
+Line &Width
+线宽(&W)
+#--------2433
+&Closed Outline
+封闭的轮廓(&C)
+#--------2434
+&Fill Colour
+填充颜色(&F)
+#--------2435
+&Line Colour
+线颜色(&L)
+#--------2436
+&Text Colour
+文本颜色(&T)
+#--------2437
+Tab
+Tab
+#--------2438
+MS Sans Serif
+MS Sans Serif
+#--------2439
+&Label
+标签(&L)
+#--------2440
+&Tab Shape
+标签形状(&T)
+#--------2441
+Attach &Side
+附加侧(&S)
+#--------2442
+&Corner Style
+角样式(&C)
+#--------2443
+&H Spacing
+H 间距(&H)
+#--------2444
+&V Spacing
+V 间距(&V)
+#--------2445
+Corner Si&ze
+角大小(&Z)
+#--------2446
+Colours
+Colours
+#--------2447
+MS Sans Serif
+MS Sans Serif
+#--------2448
+&Background Colour
+背景色(&B)
+#--------2449
+&Grid Line Colour
+网格线颜色(&G)
+#--------2450
+&Sorted Column Colour
+排序列颜色(&S)
+#--------2451
+Opa&city (%)
+不透明度(&c)
+#--------2452
+Default &Odd Row Colour
+默认奇数行颜色(&O)
+#--------2453
+Default &Even Row Colour
+缺省偶数行颜色(&E)
+#--------2454
+Default Cell &Text Colour
+默认的单元格文本颜色(&T)
+#--------2455
+&Header Background Colour
+标题背景颜色(&H)
+#--------2456
+Hea&der Border Colour
+标题边框颜色(&D)
+#--------2457
+Header Te&xt Colour
+标题文本颜色(&X)
+#--------2458
+Button
+Button
+#--------2459
+MS Sans Serif
+MS Sans Serif
+#--------2460
+&Label
+标签(&L)
+#--------2461
+Button &Shape
+按钮形状(&S)
+#--------2462
+&Fill Colour
+填充颜色(&F)
+#--------2463
+Line &Colour
+线颜色(&C)
+#--------2464
+&Text Colour
+文本颜色(&T)
+#--------2465
+&H Alignment
+H 对齐方式(&H)
+#--------2466
+&V Alignment
+V 对齐方式(&V)
+#--------2467
+Button &Depth
+按钮深度(&D)
+#--------2468
+Line &Width
+线宽(&W)
+#--------2469
+Style
+Style
+#--------2470
+MS Sans Serif
+MS Sans Serif
+#--------2471
+Header
+Header
+#--------2472
+Box
+Box
+#--------2473
+Line &Width
+线宽(&W)
+#--------2474
+Fill &Style
+填充样式(&F)
+#--------2475
+Line &Colour
+线颜色(&C)
+#--------2476
+&Fill Colour
+填充颜色(&F)
+#--------2477
+&Gradient Colour
+渐变色(&G)
+#--------2478
+Shape
+Shape
+#--------2479
+MS Sans Serif
+MS Sans Serif
+#--------2480
+&Presets
+预设(&P)
+#--------2481
+Corner Shape
+角的形状
+#--------2482
+Corner Size
+角大小
+#--------2483
+&Top Left
+左上角(&T)
+#--------2484
+Top &Right
+右上方(&R)
+#--------2485
+Bottom &Left
+左下角(&L)
+#--------2486
+&Bottom Right
+左下角(&B)
+#--------2487
+Panel
+Panel
+#--------2488
+MS Sans Serif
+MS Sans Serif
+#--------2489
+Header &Text
+页眉文本(&T)
+#--------2490
+Text &Colour
+文本颜色(&C)
+#--------2491
+Text &Margin
+文本边距(&M)
+#--------2492
+Hea&der Height
+标题的高度(&D)
+#--------2493
+Sho&w Header
+显示页眉(&W)
+#--------2494
+&Separator Line
+分隔线(&S)
+#--------2495
+&Horizontal Alignment
+水平对齐(&H)
+#--------2496
+&Vertical Alignment
+垂直对齐(&V)
+#--------2497
+Data
+Data
+#--------2498
+MS Sans Serif
+MS Sans Serif
+#--------2499
+&Insert Row
+插入行(&I)
+#--------2500
+&Delete Row
+删除行(&D)
+#--------2501
+Move &Up
+ 上移(&U)
+#--------2502
+Move Do&wn
+  下移(&W)
+#--------2503
+Sort &Col:
+列排序(&C)
+#--------2504
+&Remove Sort
+删除排序(&R)
+#--------2505
+&Selected
+选择(&S)
+#--------2506
+Documentation Generated
+生成的文件
+#--------2507
+MS Sans Serif
+MS Sans Serif
+#--------2508
+&Close
+关闭(&C)
+#--------2509
+Open &Folder
+打开文件夹(&F)
+#--------2510
+has been created successfully!
+已成功创建!
+#--------2511
+&Open
+打开 &O
+#--------2512
+Preferences
+参数
+#--------2513
+MS Sans Serif
+MS Sans Serif
+#--------2514
+Startup
+Startup
+#--------2515
+&Open most recently used project
+打开最近使用项目的(&O)
+#--------2516
+&Look and Feel
+外观和感觉(&L)
+#--------2517
+Colour Schemes
+色彩风格
+#--------2518
+Use alternative colour scheme when &designing
+在设计时使用的色彩方案(&D)
+#--------2519
+Use alternative colour scheme when running &simulator
+运行模拟器时使用的色彩方案(&S)
+#--------2520
+Default Font
+默认字体
+#--------2521
+S&cale
+比例(&C)
+#--------2522
+Right to Left Languages
+从左至右的语言
+#--------2523
+&Mirror elements by default for right to left layout
+默认右到左镜像控件(&M)
+#--------2524
+Magnetic Edge Snapping
+磁力边缘吸附
+#--------2525
+Snapping &Threshold (pixels):
+对齐阈值(像素)(&T):
+#--------2526
+Mouse Scroll Wheel (if present)
+鼠标滚轮 (如果存在)
+#--------2527
+Zoom (Scroll Vertically with Ctrl key)
+缩放 (垂直滚动与 Ctrl 键)
+#--------2528
+Scroll
+垂直滚动
+#--------2529
+&Vertically (Zoom with Ctrl key)
+(加Ctrl键缩放)(&V)
+#--------2530
+&Icon Editor
+图标编辑器(&I)
+#--------2531
+Cancel
+Cancel
+#--------2532
+Documentation Generation
+文档生成
+#--------2533
+MS Sans Serif
+MS Sans Serif
+#--------2534
+&Stop
+停止 &S
+#--------2535
+{PROGRESS}
+{PROGRESS}
+#--------2536
+Documentation Generated
+生成的文件
+#--------2537
+MS Sans Serif
+MS Sans Serif
+#--------2538
+&Accept
+同意(&A)
+#--------2539
+Open &Folder
+打开文件夹(&F)
+#--------2540
+%s documentation
+%s 文件
+#--------2541
+has been created successfully!
+已成功创建!
+#--------2542
+&View
+视图 &V
+#--------2543
+&Reject
+拒绝(&R)
+#--------2544
+Preferences
+参数
+#--------2545
+MS Sans Serif
+MS Sans Serif
+#--------2546
+&Look and Feel
+外观和感觉(&L)
+#--------2547
+Colour Schemes
+色彩风格
+#--------2548
+Use alternative colour scheme when &designing
+在设计时使用的色彩方案(&D)
+#--------2549
+Use alternative colour scheme when running &simulator
+运行模拟器时使用的色彩方案(&S)
+#--------2550
+Default Font
+默认字体
+#--------2551
+S&cale
+比例(&C)
+#--------2552
+Mouse Scroll Wheel (if present)
+鼠标滚轮 (如果存在)
+#--------2553
+Zoom (Scroll Vertically with Ctrl key)
+缩放 (垂直滚动与 Ctrl 键)
+#--------2554
+Scroll
+垂直滚动
+#--------2555
+&Vertically (Zoom with Ctrl key)
+(加Ctrl键缩放)(&V)
+#--------2556
+Cancel
+Cancel
+#--------2557
+Compatibility
+Compatibility
+#--------2558
+Disable File Dialog e&xtensions
+禁用文件对话框扩展(&X)
+#--------2559
+(if you experience file Open problems)
+(如果您遇到文件打开问题)
+#--------2560
+Style
+Style
+#--------2561
+MS Sans Serif
+MS Sans Serif
+#--------2562
+Margi&n
+留边(&M)
+#--------2563
+&Fill Toolbar
+填充工具栏(&F)
+#--------2564
+&Drop-Down Customise Button
+下拉式自选配置按钮(&D)
+#--------2565
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2566
+Text
+Text
+#--------2567
+MS Sans Serif
+MS Sans Serif
+#--------2568
+&Text
+文本(&T)
+#--------2569
+Group
+Group
+#--------2570
+MS Sans Serif
+MS Sans Serif
+#--------2571
+&Text
+文本(&T)
+#--------2572
+Has &Options Dialog
+有选项对话框(&O)
+#--------2573
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2574
+Mirror
+Mirror
+#--------2575
+MS Sans Serif
+MS Sans Serif
+#--------2576
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2577
+Style
+Style
+#--------2578
+MS Sans Serif
+MS Sans Serif
+#--------2579
+&Left Margin
+左边距(&L)
+#--------2580
+&Right Margin
+右边距(&R)
+#--------2581
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2582
+Items
+Items
+#--------2583
+MS Sans Serif
+MS Sans Serif
+#--------2584
+&Context Colour
+背景颜色(&C)
+#--------2585
+&Insert
+插入&I
+#--------2586
+&Set
+设置(&S)
+#--------2587
+&Delete
+删除&D
+#--------2588
+Move &Up
+ 上移(&U)
+#--------2589
+Move Do&wn
+  下移(&W)
+#--------2590
+S&elected
+所选(&E)
+#--------2591
+Conte&xt Active
+上下文激活(&X)
+#--------2592
+Items
+Items
+#--------2593
+MS Sans Serif
+MS Sans Serif
+#--------2594
+&Context Colour
+背景颜色(&C)
+#--------2595
+&Insert
+插入&I
+#--------2596
+&Set
+设置(&S)
+#--------2597
+&Delete
+删除&D
+#--------2598
+Move &Up
+ 上移(&U)
+#--------2599
+Move Do&wn
+  下移(&W)
+#--------2600
+S&elected
+所选(&E)
+#--------2601
+Active Contexts
+活动上下文
+#--------2602
+A&ll Contexts Active
+所有上下文激活(&L)
+#--------2603
+Style
+Style
+#--------2604
+MS Sans Serif
+MS Sans Serif
+#--------2605
+&Left Margin
+左边距(&L)
+#--------2606
+&Right Margin
+右边距(&R)
+#--------2607
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2608
+All Conte&xts Active
+所有上下文激活(&X)
+#--------2609
+Enable &Selection In Simulator
+在模拟器中启用选择(&S)
+#--------2610
+Items
+Items
+#--------2611
+MS Sans Serif
+MS Sans Serif
+#--------2612
+Disa&bled
+禁用(&D)
+#--------2613
+&Insert
+插入&I
+#--------2614
+&Set
+设置(&S)
+#--------2615
+&Delete
+删除&D
+#--------2616
+Move &Up
+ 上移(&U)
+#--------2617
+Move Do&wn
+  下移(&W)
+#--------2618
+Style
+Style
+#--------2619
+MS Sans Serif
+MS Sans Serif
+#--------2620
+Panel &Title:
+面板标题(&T):
+#--------2621
+Resize &Bar
+调整大小栏(&B)
+#--------2622
+&Left Margin
+左边距(&L)
+#--------2623
+&Right Margin
+右边距(&R)
+#--------2624
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2625
+Heading
+Heading
+#--------2626
+MS Sans Serif
+MS Sans Serif
+#--------2627
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2628
+Text
+Text
+#--------2629
+Button
+Button
+#--------2630
+MS Sans Serif
+MS Sans Serif
+#--------2631
+Text Line &1
+文本行&1
+#--------2632
+Text Line &2
+文本行&2
+#--------2633
+&Disabled
+禁用(&D)
+#--------2634
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2635
+Has Drop-Down &Options
+有下拉选项(&O)
+#--------2636
+&Split Button
+拆分按钮(&S)
+#--------2637
+Menu Items
+菜单项
+#--------2638
+MS Sans Serif
+MS Sans Serif
+#--------2639
+Disa&bled
+禁用(&D)
+#--------2640
+Split &Popup
+拆分弹出式菜单(&P)
+#--------2641
+&Insert
+插入&I
+#--------2642
+&Set
+设置(&S)
+#--------2643
+&Delete
+删除&D
+#--------2644
+Move &Up
+ 上移(&U)
+#--------2645
+Move Do&wn
+  下移(&W)
+#--------2646
+Side Items
+Side Items
+#--------2647
+MS Sans Serif
+MS Sans Serif
+#--------2648
+&Has Pin Icon
+有固定图标(&H)
+#--------2649
+&Insert
+插入&I
+#--------2650
+&Set
+设置(&S)
+#--------2651
+&Delete
+删除&D
+#--------2652
+Move &Up
+ 上移(&U)
+#--------2653
+Move Do&wn
+  下移(&W)
+#--------2654
+Style
+Style
+#--------2655
+MS Sans Serif
+MS Sans Serif
+#--------2656
+Side &Title:
+侧标题(&T):
+#--------2657
+Menu &Width
+菜单宽度(&W)
+#--------2658
+&Left Margin
+左边距(&L)
+#--------2659
+&Right Margin
+右边距(&R)
+#--------2660
+&Mirror for Right to Left
+左右镜像(&M)
+#--------2661
+MS Sans Serif
+MS Sans Serif
+#--------2662
+&Variable Name
+变量名称(&V)
+#--------2663
+Alpha-numeric and underscore (_) only. Start with alpha.
+字母数字和下划线 (_).以字母开头.
+#--------2664
+&Enabled Condition
+启用的条件(&E)
+#--------2665
+Visible &Condition
+可见条件(&C)
+#--------2666
+Variables
+变量
+#--------2667
+MS Sans Serif
+MS Sans Serif
+#--------2668
+Set
+Set
+#--------2669
+&Insert
+插入&I
+#--------2670
+&Delete
+删除&D
+#--------2671
+Generate Code (Alpha)
+生成代码
+#--------2672
+MS Sans Serif
+MS Sans Serif
+#--------2673
+&Code Target
+目标代码(&C)
+#--------2674
+&Options...
+选项(&O)
+#--------2675
+Project &Label
+项目标签(&L)
+#--------2676
+Output Folde&r
+输出文件夹(&R)
+#--------2677
+Add date-&stamp sub-folder
+添加日期戳记子文件夹(&S)
+#--------2678
+Add
+Add
+#--------2679
+&time-stamp suffix to sub-folder
+文件夹后缀时间戳(&T)
+#--------2680
+&Backup Files to
+备份文件至(&B)
+#--------2681
+Include
+Include
+#--------2682
+The whole &project:
+整个项目(&P):
+#--------2683
+Designs in the selected &folder only:
+选定文件夹中的设计(&F):
+#--------2684
+The current &design file only:
+当前设计文件只有(&D):
+#--------2685
+The selected &element only:
+选定的控件只有(&E):
+#--------2686
+Generate
+Generate
+#--------2687
+Cancel
+Cancel
+#--------2688
+Generate Code
+生成代码
+#--------2689
+MS Sans Serif
+MS Sans Serif
+#--------2690
+&Code Target
+目标代码(&C)
+#--------2691
+&Options...
+选项(&O)
+#--------2692
+Output Folde&r
+输出文件夹(&R)
+#--------2693
+Add date-&stamp suffix
+添加日期戳后缀(&T)
+#--------2694
+Add &time-stamp suffix
+添加时间戳后缀(&T)
+#--------2695
+Include
+Include
+#--------2696
+The whole &project:
+整个项目(&P):
+#--------2697
+Designs in the selected &folder only:
+选定文件夹中的设计(&F):
+#--------2698
+The current &design file only:
+当前设计文件只有(&D):
+#--------2699
+The selected &element only:
+选定的控件只有(&E):
+#--------2700
+Content
+Content
+#--------2701
+&Generate code for all included design files
+生成的代码包含的所有设计文件(&G)
+#--------2702
+Generate code for &updated design files only:
+仅为更新的设计文件生成的代码(&U):
+#--------2703
+Modified &After
+修改后(&A)
+#--------2704
+Full
+Full
+#--------2705
+Update
+Update
+#--------2706
+Modified &Before
+修改前(&B)
+#--------2707
+Full
+Full
+#--------2708
+Update
+Update
+#--------2709
+(last full code message)
+(最后一个完整的代码消息)
+#--------2710
+(last update code message)
+(最后更新消息代码)
+#--------2711
+Please provide a before or after date and time, or both to select a range
+请提供之前或之后日期和时间,或两者都要选择范围
+#--------2712
+Generate
+Generate
+#--------2713
+Cancel
+Cancel
+#--------2714
+Set to last doc...
+设置为最后一个文档...
+#--------2715
+Code Generated
+代码生成
+#--------2716
+MS Sans Serif
+MS Sans Serif
+#--------2717
+&Close
+关闭(&C)
+#--------2718
+Open &Folder
+打开文件夹(&F)
+#--------2719
+Code has been created successfully!
+已成功创建代码！
+#--------2720
+Description
+描述
+#--------2721
+MS Sans Serif
+MS Sans Serif
+#--------2722
+A&uthor
+作者(&U)
+#--------2723
+&Organization
+组织(&O)
+#--------2724
+&Website URL
+网站URL(&W)
+#--------2725
+&Version
+版本(&V)
+#--------2726
+&Keywords
+关键字(&K)
+#--------2727
+(comma separated)
+逗号    分隔
+#--------2728
+Project &Description:
+项目说明(&D):
+#--------2729
+Visual Style
+视觉样式
+#--------2730
+MS Sans Serif
+MS Sans Serif
+#--------2731
+Use the &visual style from the preference settings
+使用视觉样式从首选项设置(&V)
+#--------2732
+Use this &Project visual style
+使用此项目的视觉样式(&P)
+#--------2733
+Design Viewer and Editor:
+设计查看及编辑:
+#--------2734
+Visual &Style
+视觉样式(&S)
+#--------2735
+&Colour Scheme
+色彩方案(&C)
+#--------2736
+Default &Typeface
+默认字体(&T)
+#--------2737
+Default &Font Scale
+默认字体缩放(&F)
+#--------2738
+dpi
+dpi
+#--------2739
+Sa&me as Prototype
+     同样作为原型(&M)
+#--------2740
+<--  S&wap  Styles -->
+<--  交换样式(&W) -->
+#--------2741
+Same as &Design
+设计相同(&D)
+#--------2742
+MS Sans Serif
+MS Sans Serif
+#--------2743
+Browser Bar
+浏览条
+#--------2744
+Show &Bar
+显示栏(&B)
+#--------2745
+Background Colour
+背景色
+#--------2746
+&Fill Style
+填充样式(&F)
+#--------2747
+Colour &1
+颜色&1
+#--------2748
+Colour &2
+颜色&2
+#--------2749
+Background Text
+背景文本
+#--------2750
+&Text
+文本(&T)
+#--------2751
+&Display start design name
+显示开始设计名称(&D)
+#--------2752
+&Colour
+颜色(&C)
+#--------2753
+&Placement
+位置(&P)
+#--------2754
+Enable File and Folder Move, Copy  and Rename
+启用文件和文件夹移动,复制和重命名
+#--------2755
+MS Sans Serif
+MS Sans Serif
+#--------2756
+Projects created in earlier versions of GUI Design Studio can be updated to enable file and folder move, copy and rename operations from the Project file tree.
+跟新 GUI 设计工作室的早期版本中创建的项目,以完成文件和文件夹移动、 复制和重命名操作.
+#--------2757
+Before enabling this feature on the current project, please select  from the following options to verify that it is safe to proceed:
+在当前项目上启用此功能前,请选择下面的选项以验证它安全然后继续:
+#--------2758
+I am the only person working on this project and this is the master copy.
+我是在这个项目上工作的唯一的人,这是主副本.
+#--------2759
+I share this project with others. My copy is the latest version and everyone else will synchonise to this copy.
+与他人共享此项目.我的副本是最新的版本和其他人分享此副本.
+#--------2760
+I share this project with others but we might not be fully synchronised yet and my copy may not contain the latest versions of all files.
+我与其他人共享这一项目,我们同步可能不完全,我的副本可能不是新版的所有文件.
+#--------2761
+Enable Feature
+启用功能
+#--------2762
+Cancel
+Cancel
+#--------2763
+(Get everyone fully synchronised first before enabling this feature then re-synchronise everyone else to this copy, including the new .gcat file.)
+(让每个人都完全同步之前启用此功能后第一次然后重新同步别人对此副本,其中包括新的.gcat 文件).
+#--------2764
+File
+文件
+#--------2765
+MS Sans Serif
+MS Sans Serif
+#--------2766
+File path name:
+文件路径:
+#--------2767
+MS Sans Serif
+MS Sans Serif
+#--------2768
+Name:
+Name:
+#--------2769
+&Condition:
+条件(&C):
+#--------2770
+&Insert
+插入&I
+#--------2771
+&Replace
+替换(&R)
+#--------2772
+&Delete
+删除&D
+#--------2773
+Move &Up
+ 上移(&U)
+#--------2774
+Move Do&wn
+  下移(&W)
+#--------2775
+Variables
+变量
+#--------2776
+MS Sans Serif
+MS Sans Serif
+#--------2777
+Data Set:
+数据集:
+#--------2778
+Use as initial &prototype values
+作为最初的原型值使用(&P)
+#--------2779
+&New...
+新建(&N)...
+#--------2780
+D&uplicate...
+  复制(&U)
+#--------2781
+&Rename...
+重命名(&R)
+#--------2782
+D&elete
+删除&E
+#--------2783
+&Variable:
+变量(&V):
+#--------2784
+Va&lue:
+值(&L):
+#--------2785
+&Set
+设置(&S)
+#--------2786
+&Delete
+删除&D
+#--------2787
+MS Sans Serif
+MS Sans Serif
+#--------2788
+&Variable Name
+变量名称(&V)
+#--------2789
+Alpha-numeric and underscore (_) only.
+字母数字和下划线 (_).
+#--------2790
+Start with alpha.
+启动alpha版.
+#--------2791
+Select Icon
+选择图标
+#--------2792
+MS Sans Serif
+MS Sans Serif
+#--------2793
+Recent Icons:
+最近图标:
+#--------2794
+Cancel
+Cancel
+#--------2795
+MS Sans Serif
+MS Sans Serif
+#--------2796
+Di&sabled
+禁用(&S)
+#--------2797
+Mi&nimum Value
+最小值(&N)
+#--------2798
+Ma&ximum Value
+最大值(&X)
+#--------2799
+&Step Size
+步长(&S)
+#--------2800
+Create Template
+创建模板
+#--------2801
+MS Sans Serif
+MS Sans Serif
+#--------2802
+&Name
+名称(&N)
+#--------2803
+&Category
+类型(&C)
+#--------2804
+NOTE: If not provided, a screenhot will be automatically generated
+注意： 如果没有提供,主屏幕将会自动生成
+#--------2805
+Include
+包括
+#--------2806
+The whole &project:
+整个项目(&P):
+#--------2807
+Designs in the selected &folder only:
+选定文件夹中的设计(&F):
+#--------2808
+The current &design file only:
+当前设计文件只有(&D):
+#--------2809
+&Exclude referenced files
+排除引用的文件(&E)
+#--------2810
+Create
+创建
+#--------2811
+Cancel
+  取消
+#--------2812
+Create Template
+创建模板
+#--------2813
+MS Sans Serif
+MS Sans Serif
+#--------2814
+Fil&e:
+文件(&E):
+#--------2815
+NOTE: If not provided, a screenhot will be generated
+注意： 如果没有提供,主屏幕将会自动生成
+#--------2816
+Include
+Include
+#--------2817
+The whole &project:
+整个项目(&P):
+#--------2818
+Designs in the selected &folder only:
+选定文件夹中的设计(&F):
+#--------2819
+The current &design file only:
+当前设计文件只有(&D):
+#--------2820
+Create
+Create
+#--------2821
+Cancel
+Cancel
+#--------2822
+New Project
+新建工程
+#--------2823
+MS Sans Serif
+MS Sans Serif
+#--------2824
+&Name:
+名称(&N)
+#--------2825
+&Location
+位置(&L)
+#--------2826
+&Add links to sample projects:
+添加链接到类似工程(&A):
+#--------2827
+(you can add or remove these later from the Project panel)
+(你可以添加或删除这些从控制面板)
+#--------2828
+Cancel
+Cancel
+#--------2829
+New Project
+新建工程
+#--------2830
+MS Sans Serif
+MS Sans Serif
+#--------2831
+&Name:
+名称(&N)
+#--------2832
+&Location
+位置(&L)
+#--------2833
+&Add links to library projects:
+添加链接到链接库(&A):
+#--------2834
+(you can add or remove these later from the Project panel)
+(你可以添加或删除这些从控制面板)
+#--------2835
+Cancel
+Cancel
+#--------2836
+&Based on:
+基于(&B):
+#--------2837
+Select Template
+选择模板
+#--------2838
+MS Sans Serif
+MS Sans Serif
+#--------2839
+Cancel
+  取消
+#--------2840
+&New Category...
+  新类别(&N)
+#--------2841
+Delete &Category
+   删除类别(&C)
+#--------2842
+&Import...
+导入(&I)...
+#--------2843
+&Delete
+删除&D
+#--------2844
+Find Templates Online
+在线查找模板
+#--------2845
+Preferences
+参数
+#--------2846
+MS Sans Serif
+MS Sans Serif
+#--------2847
+Startup
+Startup
+#--------2848
+&Open most recently used project
+打开最近使用项目的(&O)
+#--------2849
+Visual &Style
+视觉样式(&S)
+#--------2850
+Colour Schemes
+色彩风格
+#--------2851
+Use alternative colour scheme when &designing
+在设计时使用的色彩方案(&D)
+#--------2852
+Use alternative colour scheme when running &prototype
+运行原型时使用的色彩方案(&P)
+#--------2853
+Default Font
+默认字体
+#--------2854
+S&cale
+比例(&C)
+#--------2855
+Right to Left Languages
+从左至右的语言
+#--------2856
+&Mirror elements by default for right to left layout
+改默认为右到左(&M)
+#--------2857
+Magnetic Edge Snapping
+磁力边缘吸附
+#--------2858
+Snapping &Threshold (pixels):
+对齐阈值(像素)(&T):
+#--------2859
+Mouse Scroll Wheel (if present)
+鼠标滚轮 (如果存在)
+#--------2860
+Zoom (Scroll Vertically with Ctrl key)
+缩放 (垂直滚动与 Ctrl 键)
+#--------2861
+Scroll
+垂直滚动
+#--------2862
+&Vertically (Zoom with Ctrl key)
+(加Ctrl键缩放)(&V)
+#--------2863
+&Icon Editor
+图标编辑器(&I)
+#--------2864
+Cancel
+Cancel
+#--------2865
+Spell Checker
+拼写检查
+#--------2866
+La&nguage
+语言(&N)
+#--------2867
+&Underline misspelled words while typing 
+在打字时提示拼写错误的单词(&U) 
+#--------2868
+Colours
+Colours
+#--------2869
+MS Sans Serif
+MS Sans Serif
+#--------2870
+Fill
+Fill
+#--------2871
+Border
+Border
+#--------2872
+Text
+Text
+#--------2873
+&Main Control
+主控制(&M)
+#--------2874
+Title &Box
+标题框(&B)
+#--------2875
+Week &Numbers
+周数(&N)
+#--------2876
+Week Day N&ames
+星期名称(&A)
+#--------2877
+Week&end Names
+周末名称(&E)
+#--------2878
+Week &Days
+工作日(&D)
+#--------2879
+&Trailing Days
+后续天(&T)
+#--------2880
+&Selected Days
+所选的天数(&S)
+#--------2881
+Sele&cted Trailing
+选定追踪(&C)
+#--------2882
+Today &Highlight
+今日高亮(&H)
+#--------2883
+Calendar
+Calendar
+#--------2884
+MS Sans Serif
+MS Sans Serif
+#--------2885
+Start &Month:
+开始月份(&M):
+#--------2886
+Selected &Date:
+选定的日期(&D):
+#--------2887
+Days
+Days
+#--------2888
+&Week Starts On
+周始于(&W)
+#--------2889
+Week&end Starts On
+周末开始在(&E)
+#--------2890
+Weekend &Length
+周末长度(&L)
+#--------2891
+Day &Names Length
+一天的名称长度(&N)
+#--------2892
+Calendar &Rows
+日历行(&R)
+#--------2893
+Calendar &Columns
+日历栏(&C)
+#--------2894
+&Highlight Today
+高亮显示今天(&H)
+#--------2895
+Show &Today
+显示今天(&T)
+#--------2896
+Show Week Num&bers
+显示周数(&B)
+#--------2897
+Show Wee&ks Line
+显示周线(&K)
+#--------2898
+&Underline Days
+下划线天(&U)
+#--------2899
+&Show Trailing Days
+显示尾随天(&S)
+#--------2900
+Sh&ow Between Days
+显示之间的天数(&O)
+#--------2901
+Style
+Style
+#--------2902
+MS Sans Serif
+MS Sans Serif
+#--------2903
+&Border Size
+加粗大小(&B)
+#--------2904
+&Title Border Size
+标题边框大小(&T)
+#--------2905
+Title H&eight
+标题高度(&E)
+#--------2906
+Horizontal &Month Spacing
+水平月间距(&M)
+#--------2907
+Vertical M&onth Spacing
+垂直月间距(&O)
+#--------2908
+Scroll to &Previous Icon:
+滚动到上一个图标(&P):
+#--------2909
+Icon
+Icon
+#--------2910
+Scroll to &Next Icon:
+滚动到下一个图标(&N):
+#--------2911
+Icon
+Icon
+#--------2912
+&Cell Border Size
+单元边界尺寸(&C)
+#--------2913
+Cell &Width
+单元格宽度(&W)
+#--------2914
+Cell &Height
+单元格高度(&H)
+#--------2915
+Horizontal Cell &Spacing
+水平单元格间距(&S)
+#--------2916
+Vertical Cell Spacin&g
+垂直单元格间距(&G)
+#--------2917
+&Vertical Alignment
+垂直对齐(&V)
+#--------2918
+Hori&zontal Alignment
+水平对齐(&H)
+#--------2919
+Help Topic Editor
+帮助主题编辑器
+#--------2920
+MS Sans Serif
+MS Sans Serif
+#--------2921
+&Title
+标题(&T)
+#--------2922
+&Description
+说明(&D)
+#--------2923
+&Swap...
+交换(&S)...
+#--------2924
+&Alias for
+别名(&A)
+#--------2925
+&Links
+链接(&L)
+#--------2926
+Topi&c...
+主题(&C)...
+#--------2927
+Co&mmand...
+命令(&M)...
+#--------2928
+&Other...
+其他(&O)
+#--------2929
+&Remove
+删除(&R)
+#--------2930
+Cancel
+Cancel
+#--------2931
+Context ID
+上下文 ID
+#--------2932
+&Files...
+文件(&F)
+#--------2933
+Select Topic
+选择主题
+#--------2934
+MS Sans Serif
+MS Sans Serif
+#--------2935
+Cancel
+Cancel
+#--------2936
+Select New Link Type
+选择新的链接类型
+#--------2937
+MS Sans Serif
+MS Sans Serif
+#--------2938
+Cancel
+Cancel
+#--------2939
+File Reference
+文件引用
+#--------2940
+MS Sans Serif
+MS Sans Serif
+#--------2941
+&Description
+说明(&D)
+#--------2942
+&File Name
+文件名(&F)
+#--------2943
+&Icon
+图标 &I
+#--------2944
+Cancel
+Cancel
+#--------2945
+Command Link
+命令链接
+#--------2946
+MS Sans Serif
+MS Sans Serif
+#--------2947
+&Description
+说明(&D)
+#--------2948
+Command &File
+命令文件(&F)
+#--------2949
+&New...
+新建(&N)...
+#--------2950
+&Arguments
+主题(&A)
+#--------2951
+Cancel
+Cancel
+#--------2952
+Help Link
+帮助链接
+#--------2953
+MS Sans Serif
+MS Sans Serif
+#--------2954
+&Description
+说明(&D)
+#--------2955
+Help &File
+帮助文件(&F)
+#--------2956
+&New...
+新建(&N)...
+#--------2957
+&Topic ID
+主题ID(&T)
+#--------2958
+&Keyword
+关键字(&K)
+#--------2959
+&Context ID
+上下文 ID(&C)
+#--------2960
+Cancel
+Cancel
+#--------2961
+Help Topics
+帮助主题
+#--------2962
+MS Sans Serif
+MS Sans Serif
+#--------2963
+Delete Topic
+删除主题
+#--------2964
+Edit Topic...
+编辑主题...
+#--------2965
+New Topic...
+新主题...
+#--------2966
+Command Link
+命令链接
+#--------2967
+MS Sans Serif
+MS Sans Serif
+#--------2968
+&Description
+说明(&D)
+#--------2969
+&Command Line
+命令行(&C)
+#--------2970
+&File...
+文件(&F)
+#--------2971
+&Arguments
+主题(&A)
+#--------2972
+&Icon
+图标 &I
+#--------2973
+Cancel
+Cancel
+#--------2974
+Files
+Files
+#--------2975
+MS Sans Serif
+MS Sans Serif
+#--------2976
+&New...
+新建(&N)...
+#--------2977
+&Edit...
+编辑(&E)
+#--------2978
+Close
+Close
+#--------2979
+Uncheck files do disable/hide them in the popup help
+弹出帮助中未选中的文件禁用/隐藏它们
+#--------2980
+New
+New
+#--------2981
+MS Shell Dlg
+MS Shell Dlg
+#--------2982
+&New 
+新建(&N) 
+#--------2983
+Cancel
+Cancel
+#--------2984
+&Help
+帮助 &H
+#--------2985
+MS Shell Dlg
+MS Shell Dlg
+#--------2986
+Printing
+Printing
+#--------2987
+Document :
+文档:
+#--------2988
+Page :
+页:
+#--------2989
+Printer :
+打印机:
+#--------2990
+Port :
+端口:
+#--------2991
+Cancel
+Cancel
+#--------2992
+MS Shell Dlg
+MS Shell Dlg
+#--------2993
+&Print...
+打印(&P)...
+#--------2994
+&Next Page
+下一页(&N)
+#--------2995
+Pre&v Page
+前一页(&V)
+#--------2996
+Zoom &In
+放大(&I)
+#--------2997
+Zoom &Out
+缩小(&O)
+#--------2998
+&Close
+关闭(&C)
+#--------2999
+MS Shell Dlg
+MS Shell Dlg
+#--------3000
+Version 
+版本 
+#--------3001
+non-commercial use
+非商业用途
+#--------3002
+OLE initialization failed.  Make sure that the OLE libraries are the correct version.
+OLE 初始化失败.请确保 OLE 库是正确的版本.
+#--------3003
+Sorry, no help available.
+抱歉,没有可用的帮助.
+#--------3004
+This file already exists.
+此文件已经存在.
+#--------3005
+Replace existing file?
+替换现有文件?
+#--------3006
+This folder already exists.
+此文件夹已存在.
+#--------3007
+Replace existing contents?
+替换现有的内容吗?
+#--------3008
+There is nothing to generate within the project or the update range you have selected!
+所选的更新范围内没有可以生成项目！
+#--------3009
+Unable to create document: %s
+无法创建文件: %s
+#--------3010
+If this file is currently in use, please close the document and hit Retry, otherwise Cancel.
+如果此文件正在使用,请关闭该文档并打重试,否则取消.
+#--------3011
+The file you are saving to has modified versions open:
+将已修改版本保存到文件:
+#--------3012
+Continuing will close those files and lose any changes made.
+继续关闭文件不保存所做的更改.
+#--------3013
+Unable to run this design. It may contain an automatic navigation that causes the prototype to stop immediately.
+无法运行这种设计.包含某种原型立即停止的自动过程.
+#--------3014
+There is nothing that can be used to generate code within the project or range that you have selected!
+所选的范围内没有可生成代码的项目！
+#--------3015
+Are you sure you want to delete '%s'?
+是否确实要删除 '%s'?
+#--------3016
+Are you sure you want to delete folder '%s' and all of its contents?
+确实要删除文件夹 %s 及其所有内容吗?
+#--------3017
+Are you sure you want to delete '%s'?
+是否确实要删除 '%s'?
+#--------3018
+This cannot be undone.
+这不能撤消.
+#--------3019
+Template file created successfully:
+已成功创建模板文件:
+#--------3020
+Template:  %s
+模板: %s
+#--------3021
+Category:  %s
+类别： %s
+#--------3022
+This template already exists.
+此模板已存在.
+#--------3023
+Replace existing template?
+替换现有模板?
+#--------3024
+The following %1 will be created:
+将创建下列 %1:
+#--------3025
+Are you sure you want to continue?
+确实要继续吗?
+#--------3026
+Save modified design '%s' before duplicating?
+在复制之前保存修改的设计 '%s'?
+#--------3027
+GUI Design Studio
+GUI Design Studio
+#--------3028
+GUI Design Viewer
+GUI Design Viewer
+#--------3029
+Project
+Project
+#--------3030
+Project
+Project
+#--------3031
+Projects (*.gd
+      项目 (*.gd
+#--------3032
+Design
+Design
+#--------3033
+Design
+Design
+#--------3034
+GUI Design
+GUI Design
+#--------3035
+GUI Design Studio Prototype~
+GUI 设计工作室原型 ~
+#--------3036
+Project Distribution
+项目分布
+#--------3037
+Project Distribution
+项目分布
+#--------3038
+GUI Design Distributions (*.gdd)
+GUI 设计分布 (*.gdd)
+#--------3039
+Design
+Design
+#--------3040
+Design
+Design
+#--------3041
+GUI Design
+GUI Design
+#--------3042
+(Custom Size)
+(自定义大小)
+#--------3043
+All Sizes
+所有大小
+#--------3044
+All Colour Depths
+所有颜色深度
+#--------3045
+Loading Component: %s
+加载组件: %s
+#--------3046
+(none)
+(none)
+#--------3047
+LICENSED ---0You have %u day remaining from your %u day trial1You have %u days
+LICENSED ---0You have %u day remaining from your %u day trial1You have %u days
+#--------3048
+remaining from your %u day trial
+您的试用剩余 %u 天
+#--------3049
+Expires end of:  %s (%u day left)
+过期的结尾： %s (%u 天离开)
+#--------3050
+Expires end of:  %s (%u days left)
+到期结束：%s (%u 天剩余)
+#--------3051
+Your key expired on %s
+您的密钥过期在 %s 
+#--------3052
+(no message provided)
+(没有提供的消息)
+#--------3053
+Evaluation Copy5produced with an
+Evaluation Copy5produced with an
+#--------3054
+evaluation copy of
+评估版副本
+#--------3055
+GUI Design Studio
+GUI Design Studio
+#--------3056
+Hardware ID:
+硬件 ID:
+#--------3057
+License Key:
+许可证密钥:
+#--------3058
+Set '%1' to '%2'
+设 '%1' 为 '%2'
+#--------3059
+auto
+auto
+#--------3060
+%1!d! new file%2 found
+%1!d! 新建文件    %2 找到
+#--------3061
+%1!d! file%2 removed
+%1!d! 文件  %2 已删除
+#--------3062
+No new files found
+未找到新文件
+#--------3063
+Icon
+Icon
+#--------3064
+file
+file
+#--------3065
+%d files
+%d 文件
+#--------3066
+Recently Used
+最近使用
+#--------3067
+Today: %s
+今天：%s
+#--------3068
+Label
+Label
+#--------3069
+Text
+Text
+#--------3070
+Saving all...
+保存所有...
+#--------3071
+All saved!
+所有已保存的！
+#--------3072
+The whole &project:  %s
+整个项目(&P): %s
+#--------3073
+Designs in the selected &folder only:  %s
+选定文件夹中的设计(&F): %s
+#--------3074
+The current &design file only:  %s
+只有当前的设计文件(&D): %s
+#--------3075
+The selected &element only:  %s
+选定的控件只有(&E): %s
+#--------3076
+&Output File
+输出文件(&O)
+#--------3077
+&Output Folder
+输出文件夹(&O)
+#--------3078
+No previous full documentation has been generated.
+已生成当前完整文档.
+#--------3079
+No previous update documentation has been generated.
+已生成跟新文档.
+#--------3080
+Full documentation was last generated on %1 at %2
+完整文档最后一次生成在 %2 的 %1 上
+#--------3081
+Update documentation was last generated on %1 at %2
+更新文档最后一次生成在 %2 的 %1 上
+#--------3082
+System
+System
+#--------3083
+Palette
+Palette
+#--------3084
+System
+System
+#--------3085
+More Colours...
+更多颜色...
+#--------3086
+Scroll Bars
+滚动条
+#--------3087
+Desktop
+Desktop
+#--------3088
+Active Title Bar
+活动的标题栏
+#--------3089
+Inactive Title Bar
+非活动标题栏
+#--------3090
+Menu Bar
+菜单栏
+#--------3091
+Window Background
+窗口背景
+#--------3092
+Window Frame
+窗口框架
+#--------3093
+Menu Text
+菜单文本
+#--------3094
+Window Text
+窗口文本
+#--------3095
+Active Title Bar Text
+活动的标题栏文本
+#--------3096
+Active Border
+活动边框
+#--------3097
+Inactive Border
+非活动边框
+#--------3098
+Application Workspace
+应用程序工作区
+#--------3099
+Selection Highlight
+高亮选择
+#--------3100
+Selection Text
+选择文本
+#--------3101
+3-D Face
+3-D 平坦
+#--------3102
+3-D Shadow
+3-D阴影
+#--------3103
+Disabled Text
+禁用文本
+#--------3104
+Button Text
+按钮文本
+#--------3105
+Inactive Title Bar Text
+非活动标题栏文本
+#--------3106
+3-D Bright Highlight
+3-D明亮
+#--------3107
+3-D Dark Shadow
+3-D深色阴影
+#--------3108
+3-D Highlight
+3-D高亮
+#--------3109
+Tool Tip Text
+提示文本
+#--------3110
+Tool Tip Background
+提示背景
+#--------3111
+Scroll Bars Dither
+滚动条抖动
+#--------3112
+Hot Track
+热点追踪
+#--------3113
+Active Title Bar Gradient
+活动标题栏渐变
+#--------3114
+Inactive Title Bar Gradient
+非活动标题栏渐变
+#--------3115
+Box Gradient Light
+框渐变亮
+#--------3116
+Box Gradient Dark
+框渐变暗
+#--------3117
+Box Legend
+框图例
+#--------3118
+Progress Bar
+进度栏
+#--------3119
+Group Text
+组文本
+#--------3120
+Default Button Light
+默认亮按钮
+#--------3121
+Default Button Dark
+默认暗按钮
+#--------3122
+Ribbon Window
+功能区窗口
+#--------3123
+Ribbon Window Border
+功能区的窗口边框
+#--------3124
+Ribbon Text
+功能区文本
+#--------3125
+Ribbon Disabled Text
+禁用的文本的功能区
+#--------3126
+Ribbon Selection
+功能区选择
+#--------3127
+Ribbon Transform Red
+功能区变红
+#--------3128
+Ribbon Transform Green
+功能区变绿
+#--------3129
+Ribbon Transform Blue
+功能区变蓝
+#--------3130
+Ribbon Workspace
+功能区工作区
+#--------3131
+Monochrome (1-bit)
+黑白(1位)
+#--------3132
+4 Colours (2-bit)
+4 颜色 (2 位)
+#--------3133
+16 Colours (4-bit)
+16 颜色 (4 位)
+#--------3134
+256 Colours (8-bit)
+256 色 (8 位)
+#--------3135
+64K Colours (16-bit)
+64 K 色 (16 位)
+#--------3136
+True Colour (24-bit)
+真彩色 (24 位)
+#--------3137
+True Colour with Alpha (32-bit)
+真彩与 α (32 位)
+#--------3138
+EXIT
+EXIT
+#--------3139
+Close and Cancel
+Close and Cancel
+#--------3140
+Close and Accept
+Close and Accept
+#--------3141
+Close
+Close
+#--------3142
+Back
+Back
+#--------3143
+Forward
+Forward
+#--------3144
+Set Data
+Set Data
+#--------3145
+Conditional Content
+Conditional Content
+#--------3146
+Project
+工程
+#--------3147
+Elements
+控件
+#--------3148
+Icons
+图标
+#--------3149
+Notes
+注释
+#--------3150
+Standard
+Standard
+#--------3151
+Outline Charcoal
+Outline Charcoal
+#--------3152
+Outline Blue
+Outline Blue
+#--------3153
+Outline Green
+Outline Green
+#--------3154
+Outline Red
+Outline Red
+#--------3155
+XP Blue
+XP Blue
+#--------3156
+XP Green
+XP Green
+#--------3157
+Vista Default
+Vista Default
+#--------3158
+Vista Blue
+Vista Blue
+#--------3159
+Vista Green
+Vista Green
+#--------3160
+Vista Orange
+Vista Orange
+#--------3161
+Vista Red
+Vista Red
+#--------3162
+&Full Width
+全宽(&F)
+#--------3163
+&Full Height
+全高(&F)
+#--------3164
+Set Data
+Set Data
+#--------3165
+Conditions
+Conditions
+#--------3166
+All Files (*.*)
+所有文件(*.*)
+#--------3167
+GUI Design Projects (*.gdp)
+GUI 设计项目 (*.gdp)
+#--------3168
+GUI Design Files (*.gui)
+GUI 设计文件 (*.gui)
+#--------3169
+All Graphic Files
+所有图形文件
+#--------3170
+*.bmp;*.gif;*.jpg;*.jpeg;*.png
+*.bmp;*.gif;*.jpg;*.jpeg;*.png
+#--------3171
+Bitmap Files (*.bmp)
+位图文件 (*.bmp)
+#--------3172
+*.bmp
+*.bmp
+#--------3173
+GIF Files (*.gif)
+GIF 文件 (*.gif)
+#--------3174
+*.gif
+*.gif
+#--------3175
+JPEG Files (*.jpg;*.jpeg)
+JPEG 文件 (*.jpg;*.jpeg)
+#--------3176
+*.jpg;*.jpeg
+*.jpg;*.jpeg
+#--------3177
+PNG Files (*.png)
+PNG 文件 (*.png)
+#--------3178
+Bitmap File (*.bmp)
+位图文件 (*.bmp)
+#--------3179
+*.bmp
+*.bmp
+#--------3180
+GIF File (*.gif)
+GIF 文件 (*.gif)
+#--------3181
+*.gif
+*.gif
+#--------3182
+JPEG File (*.jpg)
+JPEG 文件 (*.jpg)
+#--------3183
+*.jpg
+*.jpg
+#--------3184
+PNG File (*.png)
+PNG 文件 (*.png)
+#--------3185
+Icon Files (*.ico)
+图标文件 (*.ico)
+#--------3186
+Bitmap File (*.bmp)
+位图文件 (*.bmp)
+#--------3187
+*.bmp
+*.bmp
+#--------3188
+GIF File (*.gif)
+GIF 文件 (*.gif)
+#--------3189
+*.gif
+*.gif
+#--------3190
+JPEG File (*.jpg)
+JPEG 文件(*.jpg)
+#--------3191
+*.jpg
+*.jpg
+#--------3192
+PNG File (*.png)
+PNG 文件 (*.png)
+#--------3193
+Enhanced Metafile (*.emf)
+增强型图元文件 (*.emf)
+#--------3194
+GUI Design Distributions (*.gdd)
+GUI 设计分布 (*.gdd)
+#--------3195
+All GUI Design Project Files (*.gdp;*.gdd)
+所有的 GUI 设计项目文件(*.gdp;*.gdd)
+#--------3196
+GUI Design Projects (*.gdp)
+GUI 设计项目 (*.gdp)
+#--------3197
+GUI Design Distributions (*.gdd)
+GUI 设计分布 (*.gdd)
+#--------3198
+GUI Design Templates (*.gdt)
+GUI 设计模板 (*.gdt)
+#--------3199
+Packed Projects (*.zip)
+打包项目 (*.zip)
+#--------3200
+*.zip
+*.zip
+#--------3201
+All Graphic Files
+所有图形文件
+#--------3202
+*.bmp;*.gif;*.ico;*.jpg;*.jpeg;*.png
+*.bmp;*.gif;*.ico;*.jpg;*.jpeg;*.png
+#--------3203
+Bitmap Files (*.bmp)
+位图文件 (*.bmp)
+#--------3204
+*.bmp
+*.bmp
+#--------3205
+GIF Files (*.gif)
+GIF 文件 (*.gif)
+#--------3206
+*.gif
+*.gif
+#--------3207
+Icon Files (*.ico)
+图标文件 (*.ico)
+#--------3208
+JPEG Files (*.jpg;*.jpeg)
+JPEG 文件 (*.jpg;*.jpeg)
+#--------3209
+*.jpg;*.jpeg
+*.jpg;*.jpeg
+#--------3210
+PNG Files (*.png)
+PNG 文件 (*.png)
+#--------3211
+Image Properties
+图像属性
+#--------3212
+Rectangle Properties
+矩形框属性
+#--------3213
+Text Button Properties
+文本按钮属性
+#--------3214
+Check Box Properties
+选择框属性
+#--------3215
+Radio Button Properties
+单选按钮属性
+#--------3216
+Frame Window Properties
+框架窗口属性
+#--------3217
+Control Bar Properties
+控制条属性
+#--------3218
+Vertical Spinner Properties
+垂直选择条属性
+#--------3219
+Horizontal Spinner Properties
+水平选择条属性
+#--------3220
+Vertical Slider Properties
+水平标尺属性
+#--------3221
+Horizontal Slider Properties
+垂直标尺属性
+#--------3222
+Vertical Scroll Bar Properties
+垂直滚动条属性
+#--------3223
+Horizontal Scroll Bar Properties
+水平滚动条属性
+#--------3224
+Scroll Bar Blank Properties
+滚动条空白属性
+#--------3225
+Text Properties
+文本属性
+#--------3226
+Edit Box Properties
+编辑框属性
+#--------3227
+Combo Box Properties
+组合框属性
+#--------3228
+List Box Properties
+列表框属性
+#--------3229
+Check List Box Properties
+组合列表框属性
+#--------3230
+Design Grid Properties
+设计网格属性
+#--------3231
+Vertical Progress Bar Properties
+垂直进度栏属性
+#--------3232
+Horizontal Progress Bar Properties
+水平进度栏属性
+#--------3233
+Vertical Tab Properties
+垂直分页属性
+#--------3234
+Horizontal Tab Properties
+水平分页属性
+#--------3235
+Component Properties
+控件属性
+#--------3236
+Annotation Target Properties
+目标注释属性
+#--------3237
+Annotation Target Properties
+目标注释属性
+#--------3238
+Icon Properties
+图标属性
+#--------3239
+Status Bar Properties
+状态条属性
+#--------3240
+Toolbar Gripper Properties
+Gripper工具栏属性
+#--------3241
+Toolbar Spacer Properties
+Spacer工具栏属性
+#--------3242
+Toolbar Button Properties
+按钮工具栏属性
+#--------3243
+Status Bar Indicator Properties
+状态条指示器属性
+#--------3244
+Annotation Properties
+注释属性
+#--------3245
+Message Box Properties
+消息框属性
+#--------3246
+Condition Box Properties
+状态框属性
+#--------3247
+Anchor Properties
+锚点属性
+#--------3248
+Menu Bar Properties
+菜单条属性
+#--------3249
+Popup Menu Properties
+弹出菜单属性
+#--------3250
+Toolbar Drop-Down Button Properties
+工具栏下拉按钮属性
+#--------3251
+Vertical Tab Bar Properties
+垂直分页条属性
+#--------3252
+Horizontal Tab Bar Properties
+水平分页条属性
+#--------3253
+Tree Properties
+选择树属性
+#--------3254
+Check Tree Properties
+选择树属性
+#--------3255
+Vertical Ruler Properties
+垂直标尺属性
+#--------3256
+Horizontal Ruler Properties
+水平标尺的属性
+#--------3257
+Divider Properties
+分隔线属性
+#--------3258
+Rectangle Shape Properties
+矩形形状属性
+#--------3259
+Rounded Rectangle Shape Properties
+圆角矩形形状属性
+#--------3260
+Circular Shape Properties
+圆形属性
+#--------3261
+Elliptical Shape Properties
+椭圆属性
+#--------3262
+Tab Panel Properties
+选项卡面板属性
+#--------3263
+Group Box Properties
+分组框属性
+#--------3264
+Table Properties
+表属性
+#--------3265
+Web Page Properties
+Web 页属性
+#--------3266
+Table Heading Properties
+表标题内容
+#--------3267
+Image Placeholder Properties
+图像占位符属性
+#--------3268
+Text Link List Properties
+文本链接列表属性
+#--------3269
+Web Tab Properties
+Web 选项卡属性
+#--------3270
+Web Tab Bar Properties
+Web 选项卡栏属性
+#--------3271
+Web Button Properties
+Web 按钮属性
+#--------3272
+Web Panel Properties
+Web 面板属性
+#--------3273
+Activity Panel Properties
+活动面板属性
+#--------3274
+Web Page Part Properties
+Web 页属性
+#--------3275
+Caption Toolbar Properties
+标题工具栏属性
+#--------3276
+Ribbon Bar Properties
+功能区栏属性
+#--------3277
+Ribbon Bar Panel Properties
+功能区栏面板属性
+#--------3278
+Ribbon Bar Group Properties
+功能区栏组属性
+#--------3279
+Menu Panel Properties
+菜单面板属性
+#--------3280
+Application Menu Panel Properties
+应用程序菜单面板属性
+#--------3281
+Ribbon Bar Button Properties
+功能区栏按钮属性
+#--------3282
+Ribbon Bar Drop-Down Button Properties
+功能区栏下拉按钮属性
+#--------3283
+Ribbon Bar Gallery Box Properties
+功能区边框属性
+#--------3284
+Ribbon Bar Icon Buttton Properties
+功能区图标按钮属性
+#--------3285
+Menu Panel Heading Properties
+菜单面板标题属性
+#--------3286
+Ribbon Bar Button Group Properties
+功能区栏按钮组属性
+#--------3287
+Set Data Properties
+设置数据属性
+#--------3288
+Project Options
+工程选项
+#--------3289
+Conditional Panel Properties
+条件面板属性
+#--------3290
+Calendar Properties
+日历属性
+#--------3291
+Buttons
+按钮
+#--------3292
+Frames and Dividers
+帧和分隔线
+#--------3293
+Grids
+Grids
+#--------3294
+Lists, Trees and Tables
+列表、 树和表
+#--------3295
+Shapes
+Shapes
+#--------3296
+Windows and Dialogs
+窗口和对话框
+#--------3297
+Toolbars and Menus
+工具栏和菜单
+#--------3298
+Indicators and Rulers
+指标和标尺
+#--------3299
+Text and Edit Boxes
+文本和编辑框
+#--------3300
+Design Grids
+设计网格
+#--------3301
+Options
+选项
+#--------3302
+Tabs
+选项页
+#--------3303
+Web
+Web
+#--------3304
+Ribbon Bar
+功能区栏
+#--------3305
+Rectangle
+Rectangle
+#--------3306
+Filled Rectangle
+实心矩形
+#--------3307
+Solid Border
+实线边框
+#--------3308
+Filled Bordered Rectangle
+充满矩形
+#--------3309
+Sunken Border
+凹陷边框
+#--------3310
+Raised Border
+凸起边框
+#--------3311
+Etched Border
+蚀刻边框
+#--------3312
+Embossed Border
+浮雕边框
+#--------3313
+Group Box Rectangle
+组框矩形
+#--------3314
+Group Box
+分组框
+#--------3315
+Button
+Button
+#--------3316
+Check Box
+复选框
+#--------3317
+Unchecked Box
+未选框
+#--------3318
+Checked Box
+已选框
+#--------3319
+Indeterminate Box
+不确定框
+#--------3320
+Radio Button
+单选按钮
+#--------3321
+Unselected Radio Button
+未选定的单选按钮
+#--------3322
+Selected Radio Button
+已选定的单选按钮
+#--------3323
+Vertical Tab
+垂直选项卡
+#--------3324
+Horizontal Tab
+水平选项卡
+#--------3325
+Vertical Tab Bar
+垂直选项卡栏
+#--------3326
+Horizontal Tab Bar
+水平选项卡栏
+#--------3327
+Vertical Tab - Selected
+垂直选项卡-已选
+#--------3328
+Horizontal Tab - Selected
+水平选项卡-已选
+#--------3329
+Frame Window
+框架窗口
+#--------3330
+Mini Frame Window
+迷你框架窗口
+#--------3331
+Dialog
+Dialog
+#--------3332
+Mini Frame Dialog
+迷你框架对话框
+#--------3333
+Application
+Application
+#--------3334
+Minimised Window
+最小化窗口
+#--------3335
+Maximised Application
+最大化程序
+#--------3336
+Document
+Document
+#--------3337
+Web Page
+Web 页
+#--------3338
+Tab Panel
+选项卡面板
+#--------3339
+Control Bar
+控制栏
+#--------3340
+Top Control Bar
+顶端控制栏
+#--------3341
+Bottom Control Bar
+底部控制栏
+#--------3342
+Left Control Bar
+左控制栏
+#--------3343
+Right Control Bar
+右控制栏
+#--------3344
+Status Bar
+状态栏
+#--------3345
+Status Indicator
+状态指示器
+#--------3346
+Docked Toolbar
+停靠工具栏
+#--------3347
+Toolbar Gripper - Horizontal
+工具栏拾取 - 水平
+#--------3348
+Toolbar Spacer - Horizontal
+工具栏间隔-水平
+#--------3349
+Toolbar Button
+工具栏按钮
+#--------3350
+Menu Bar
+菜单栏
+#--------3351
+Popup Menu
+弹出菜单
+#--------3352
+Toolbar Button Drop-Down
+工具栏按钮下拉
+#--------3353
+Toolbar Gripper - Vertical
+垂直工具栏-拾取
+#--------3354
+Toolbar Spacer - Vertical
+工具栏间隔-垂直
+#--------3355
+Vertical Spinner
+垂直微调框
+#--------3356
+Horizontal Spinner
+水平微调框
+#--------3357
+Vertical Slider
+垂直滑块
+#--------3358
+Horizontal Slider
+水平滑块
+#--------3359
+Vertical Scroll Bar
+垂直滚动条
+#--------3360
+Horizontal Scroll Bar
+水平滚动条
+#--------3361
+Scroll Bar Blank
+滚动条空白
+#--------3362
+Vertical Ruler
+垂直标尺
+#--------3363
+Left Vertical Ruler
+左侧垂直标尺
+#--------3364
+Right Vertical Ruler
+右垂直标尺
+#--------3365
+Horizontal Ruler
+水平标尺
+#--------3366
+Top Horizontal Ruler
+顶部水平标尺
+#--------3367
+Bottom Horizontal Ruler
+底部水平标尺
+#--------3368
+Window Resize Gripper
+窗口大小调整
+#--------3369
+Small Window Resize Gripper
+小窗口调整大小调整
+#--------3370
+Text - Left Aligned
+文本-左对齐
+#--------3371
+Edit Box - Left Aligned
+编辑框-左对齐
+#--------3372
+Combo Box
+组合框
+#--------3373
+List Box
+列表框
+#--------3374
+Check List Box
+复选列表框
+#--------3375
+Tree
+Tree
+#--------3376
+Check Tree
+选择树
+#--------3377
+Combo Box Drop List
+组合框下拉列表
+#--------3378
+Edit Box - Right Aligned
+编辑框-右对齐
+#--------3379
+Multiple Line Edit Box
+多行编辑框
+#--------3380
+Text - Right Aligned
+文本-右对齐
+#--------3381
+Text - Centred
+文本-中心
+#--------3382
+Multiple Line Text - Left Aligned
+多行文本-左对齐
+#--------3383
+Multiple Line Text - Right Aligned
+多行文本-右对齐
+#--------3384
+Multiple Line Text - Centred
+多行文本-为中心
+#--------3385
+Table
+Tabl1
+#--------3386
+Design Grid
+设计网格
+#--------3387
+Design
+Design
+#--------3388
+Icon
+Icon
+#--------3389
+Margins Design Grid
+边距设计网格
+#--------3390
+Dialog Design Grid - Right Buttons
+对话框设计网格-右按钮
+#--------3391
+Dialog Design Grid - Bottom Buttons
+对话框设计网格-底部按钮
+#--------3392
+Table Design Grid
+表设计网格
+#--------3393
+Visible Grid
+可见网格
+#--------3394
+Heading
+标题
+#--------3395
+Window Resize Gripper 
+窗口调整大小
+#--------3396
+Left)"Small Window Resize Gripper (Left)
+Left)"小窗口大小调整 （左）
+#--------3397
+Web Table
+Web 表
+#--------3398
+Web Calendar
+Web 日历
+#--------3399
+Vertical Progress Bar
+垂直进度栏
+#--------3400
+Horizontal Progress Bar
+水平进度栏
+#--------3401
+Horizontal Divider
+水平分隔线
+#--------3402
+Vertical Divider
+垂直分隔线
+#--------3403
+Caption Toolbar
+标题工具栏
+#--------3404
+Ribbon Bar
+功能区栏
+#--------3405
+Ribbon Bar Panel
+功能区栏面板
+#--------3406
+Ribbon Bar Group
+功能区栏组
+#--------3407
+Menu Panel
+菜单面板
+#--------3408
+Application Menu Panel
+应用程序菜单面板
+#--------3409
+Ribbon Bar Button Group
+功能区栏按钮组
+#--------3410
+Ribbon Bar Button With Spacer
+功能区栏按钮插入分隔
+#--------3411
+Ribbon Bar Button
+功能区栏按钮
+#--------3412
+Ribbon Bar Drop-Down Button
+功能区栏下拉按钮
+#--------3413
+Ribbon Bar Gallery Box
+功能区栏库框
+#--------3414
+Menu Panel Heading
+菜单面板标题
+#--------3415
+Rectangular Text Shape
+矩形文本形状
+#--------3416
+Rounded Rectangle Text Shape
+圆角的矩形文本形状
+#--------3417
+Circular Text Shape
+圆形文本形状
+#--------3418
+Elliptical Text Shape
+椭圆文本形状
+#--------3419
+Text Shape
+文本形状
+#--------3420
+Ribbon Bar Icon Button (Small)
+Ribbon Bar Icon Button (Small)
+#--------3421
+Ribbon Bar Icon Button (Large)
+Ribbon Bar Icon Button (Large)
+#--------3422
+Calendar
+Calendar
+#--------3423
+Image Placeholder
+图像占位符
+#--------3424
+Heading Level 1 Text 
+标题 1 级文字 
+#--------3425
+Heading Level 2 Text 
+标题 2 级文本 
+#--------3426
+Heading Level 3 Text 
+标题 3 级文本 
+#--------3427
+Greeked Text (Short)
+灰度条文字（短）
+#--------3428
+Greeked Text (Long)
+灰度条文字（长）
+#--------3429
+Text Link List
+文本链接列表
+#--------3430
+Web Tab
+Web 选项卡
+#--------3431
+Web Tab Bar
+Web 选项卡栏
+#--------3432
+Web Button
+Web 按钮
+#--------3433
+Web Panel
+Web 面板
+#--------3434
+Web Page Part
+Web 部件页
+#--------3435
+Small Dot Target
+小圆点对象
+#--------3436
+Large Dot Target
+大圆点对象
+#--------3437
+Small Square Target
+小方框对象
+#--------3438
+Large Square Target
+大方框对象
+#--------3439
+Large Hollow Dot Target
+大空圆点对象
+#--------3440
+Elliptical Target
+椭圆对象
+#--------3441
+Rectangular Target
+矩形对象
+#--------3442
+Sequenced Dot Target
+顺序点对象
+#--------3443
+Sequenced Square Target
+顺序方对象
+#--------3444
+Annotation Target
+注释对象
+#--------3445
+Left Curly
+左大括号
+#--------3446
+Right Curly
+右大括号
+#--------3447
+Up Curly
+向上大括号
+#--------3448
+Down Curly
+向下大括号
+#--------3449
+Annotation Curly
+注释括号
+#--------3450
+Exit Box
+退出框
+#--------3451
+Cancel Box
+取消框
+#--------3452
+Accept Box
+接受框
+#--------3453
+Message Box
+消息框
+#--------3454
+Condition Box
+条件框
+#--------3455
+Navigation Overlay
+导航覆盖
+#--------3456
+Window Placeholder
+窗口占位符
+#--------3457
+Window Position Anchor
+窗口位置锚
+#--------3458
+Close Box
+关闭框
+#--------3459
+Back Box
+返回框
+#--------3460
+Forward Box
+向前框
+#--------3461
+Set Data
+设置数据
+#--------3462
+Conditional Panel
+条件面板
+#--------3463
+Outer Margins
+外边
+#--------3464
+Inner Margins
+内边
+#--------3465
+Export As
+导出为
+#--------3466
+Enter Folder Name
+输入文件夹名称
+#--------3467
+Enter Design Document Name
+输入设计文件名
+#--------3468
+Save Clipboard Image As
+保存剪贴板图像为
+#--------3469
+Margins
+边缘
+#--------3470
+Tab Margins
+标签页边
+#--------3471
+Choose Distribution File
+选择分发文件
+#--------3472
+Title Font
+标题字体
+#--------3473
+Annotation Font
+注释字体
+#--------3474
+Header
+Header
+#--------3475
+Box
+Box
+#--------3476
+Choose Output File
+选择输出文件
+#--------3477
+Code Generation
+代码生成
+#--------3478
+Enter Data Set Name
+输入数据集名称
+#--------3479
+Choose Template File
+选择模板文件
+#--------3480
+Choose Screenshot
+选择截图
+#--------3481
+Creating Distribution File...
+创建分发文件...
+#--------3482
+Creating Template File...
+创建模板文件...
+#--------3483
+Enter Template Category Name
+输入模板类别名称
+#--------3484
+Save Packed Project As
+保存打包项目为
+#--------3485
+Creating Packed Project File...
+创建打包项目文件...
+#--------3486
+Failed to create new project:
+无法创建新的项目:
+#--------3487
+Failed to open project:
+无法打开项目:
+#--------3488
+Please exlude the following characters from project names:
+请从项目名称排除下列字符:
+#--------3489
+Project %1 already exists.
+项目 %1 已经存在.
+#--------3490
+Please enter a new name or select an alternative location.
+请输入一个新名称,或选择另一个位置.
+#--------3491
+Failed to save currently open project file:
+无法保存当前打开的项目文件:
+#--------3492
+Continue closing anyway?
+继续关闭吗?
+#--------3493
+Failed to create the design image on the Clipboard.
+无法在剪贴板上创建设计镜像.
+#--------3494
+Unknown or unsupported image format:%s
+未知或不受支持的图像格式： %s
+#--------3495
+Please choose a format from the "Save as type" list only.
+请从"保存类型"列表中选择一种格式.
+#--------3496
+Failed to save the image file:
+无法保存图像文件:
+#--------3497
+Failed to create the design image.
+无法创建设计镜像.
+#--------3498
+Probably due to insufficient memory.
+可能是由于内存不足.
+#--------3499
+%s already exists.
+%s 已存在.
+#--------3500
+Please choose another name.
+请选择其他名称.
+#--------3501
+Folder '%s' already exists.
+'%s' 的文件夹已经存在.
+#--------3502
+Please choose another name.
+请选择其他名称.
+#--------3503
+Failed to create new document:
+未能创建新文档:
+#--------3504
+Failed to create new folder:
+无法新建文件夹:
+#--------3505
+Failed to get the image from the clipboard.
+无法从剪贴板中获取图像.
+#--------3506
+Failed to save the clipboard image to file:
+无法保存剪贴板图像文件:
+#--------3507
+Failed to create new icon.
+无法创建新图标.
+#--------3508
+Failed to duplicate document:
+无法复制文件:
+#--------3509
+From: %s
+来自: %s
+#--------3510
+To: %s
+To: %s
+#--------3511
+Please enter or browse for a valid file name to save to.
+请输入或浏览一个有效的文件名用于保存.
+#--------3512
+Failed to create distribution file
+无法创建分发文件
+#--------3513
+Failed to generate documentation
+无法生成文档
+#--------3514
+Failed to generate code
+无法生成代码
+#--------3515
+Failed to save the file catalogue
+未能保存文件目录
+#--------3516
+A data set named '%s' already exists.
+已存在名为 '%s'的数据集.
+#--------3517
+Please choose a different name.
+请选择一个不同的名称.
+#--------3518
+Please enter a valid name
+请输入一个有效的名称
+#--------3519
+&Undo: %1
+撤消(&U)%1
+#--------3520
+Ctrl+Z
+Ctrl+Z
+#--------3521
+&Redo: %1
+重做(&R): %1
+#--------3522
+Ctrl+Y
+Ctrl+Y
+#--------3523
+&Tutorials
+教程(&T)
+#--------3524
+Tips and Tric&ks
+提示和技巧(&K)
+#--------3525
+Web &Resources
+Web 资源(&R)
+#--------3526
+Set &Main Project Design To: %s
+设置主项目设计为(&M):%s
+#--------3527
+Ctrl+F10
+Ctrl+F10
+#--------3528
+Further &Help
+更多帮助(&H)
+#--------3529
+Help
+Help
+#--------3530
+Sorry, no help available for this item.
+对不起,没有用于此项目的帮助.
+#--------3531
+See Also:
+请参见:
+#--------3532
+Please enter a title for this help topic
+请输入帮助主题
+#--------3533
+Please enter a description for this help topic
+请输入此帮助主题描述
+#--------3534
+Please enter a description for this file
+请输入此文件的说明
+#--------3535
+The context help file (%1) was created for a newer version of this application. Consequently, some or all of its contents may not be accessible.
+上下文帮助文件 (%1) 是为此应用程序的较新版本创建的.因此,某些或所有它的内容可能不能访问.
+#--------3536
+Please replace the file with the correct version as supplied with the application and restart.
+请提供与应用程序并重新启动,与正确的版本替换的文件.
+#--------3537
+Please enter a number between %ld and %ld
+请输入一个介于之间 %ld 和 %ld
+#--------3538
+Please enter a number between %.3lf and %.3lf
+请输入一个数字,%.3lf 和 %.3lf 之间
+#--------3539
+Select %s File
+选择 %s 文件
+#--------3540
+All Files (*.*)
+所有文件(*.*)
+#--------3541
+Help Files (*.hlp;*.chm)
+帮助文件(*.hlp;*.chm)
+#--------3542
+WinHelp Files (*.hlp)
+WinHelp 文件 (*.hlp)
+#--------3543
+HtmlHelp Files (*.chm)
+HtmlHelp 文件 (*.chm)
+#--------3544
+All Files (*.*)
+所有文件(*.*)
+#--------3545
+WinHelp Files (*.hlp)
+WinHelp 文件 (*.hlp)
+#--------3546
+HtmlHelp Files (*.chm)
+HtmlHelp 文件 (*.chm)
+#--------3547
+Link to another popup topic
+链接到另一个弹出主题
+#--------3548
+Link to an external WinHelp file referenced by context identifier
+上下文标识符链接到外部的 WinHelp 文件
+#--------3549
+Link to an external WinHelp file referenced by keyword
+关键字引用链接到外部的 WinHelp 文件
+#--------3550
+Link to an external application
+链接到外部应用程序
+#--------3551
+Link to an external HTML Help file referenced by context identifier
+上下文标识符链接到外部 HTML 帮助文件
+#--------3552
+Link to an external HTML Help file referenced by topic identifier
+主题标识符链接到外部 HTML 帮助文件
+#--------3553
+Link to an external HTML Help file referenced by keyword
+关键字链接到外部 HTML 帮助文件
+#--------3554
+Link to an external application, document or web page
+链接到外部应用程序、 文档或 web 页
+#--------3555
+WinHelp Link
+WinHelp 链接
+#--------3556
+HtmlHelp Link
+HtmlHelp 链接
+#--------3557
+Sets the canvas size of the screen
+设置屏幕的画布大小
+#--------3558
+Size
+Size
+#--------3559
+Fits the screen canvas to the bounds of all the elements
+所有控件适应屏幕画布的边界
+#--------3560
+Fit to Elements
+适应控件
+#--------3561
+Add a bitmap element to the design
+添加一个位图到设计
+#--------3562
+Add Bitmap
+添加位图
+#--------3563
+Align the left edges of the selected items with the primary selected item
+主项目的左边对齐
+#--------3564
+Align Left (Ctrl+Left Arrow)
+左对齐(Ctrl+Left Arrow)
+#--------3565
+Align the right edges of the selected items with the primary selected item
+与选择的主项目右边缘对齐
+#--------3566
+Align Right (Ctrl+Right Arrow)
+右对齐(Ctrl+Right Arrow)
+#--------3567
+Align the top edges of the selected items with the primary selected item
+与选择的主项目的顶边对齐
+#--------3568
+Align Top (Ctrl+Up Arrow)
+顶部对齐(Ctrl+Up Arrow)
+#--------3569
+Align the bottom edges of the selected items with the primary selected item
+与选择的主项目的下边缘对齐
+#--------3570
+Align Bottom (Ctrl+Down Arrow)
+对齐底部 (Ctrl+Down Arrow)
+#--------3571
+Align the best top or bottom edges of the selected items with the bottom or top edges of the primary selected item
+所选的项目底或顶与主选项的顶或底边对齐
+#--------3572
+Align Top to Bottom Edges
+水平中线对齐
+#--------3573
+Align the best left or right edges of the selected items with the right or left edges of the primary selected item
+所选项目左或右边与主项目右或左边对齐
+#--------3574
+Align Left to Right Edges
+垂直中线对齐
+#--------3575
+Align the horizontal centres of the selected items with the primary selected item
+所选项目与主项目的水平中心对齐
+#--------3576
+Align Horizontal Centres (Ctrl+6)
+对齐水平中心 (Ctrl+6)
+#--------3577
+Align the vertical centres of the selected items with the primary selected item
+所选项目与主项目的垂直中心对齐
+#--------3578
+Align Vertical Centres (Ctrl+5)
+对齐垂直中心 (Ctrl+5)
+#--------3579
+Delete the selection
+删除选择
+#--------3580
+Delete
+删除
+#--------3581
+Evenly space the selected items horizontally
+水平均匀分布所选项目
+#--------3582
+Space Horizontally (Ctrl+7)
+水平间隔 (Ctrl+7)
+#--------3583
+Evenly space the selected items Vertically
+垂直均匀分布所选项目
+#--------3584
+Space Vertically (Ctrl+8)
+垂直间隔(Ctrl+8)
+#--------3585
+Make selected items the same width as the primary selected item
+选定的项与主项目的宽度相同
+#--------3586
+Same Width (Ctrl+9)
+相同的宽度 (Ctrl+9)
+#--------3587
+Make selected items the same height as the primary selected item
+所选的项目与主项目高度相同
+#--------3588
+Same Height (Ctrl+0)
+相同的高度(Ctrl+0)
+#--------3589
+Make the primary selection the same width as the span of the other selected items
+其他选定项的跨度与主项目跨度相同
+#--------3590
+Span Width
+锁定宽度
+#--------3591
+Make the primary selection the same height as the span of the other selected items
+使其他项的高度跨度与主项目高度跨度相同
+#--------3592
+Span Height
+锁定高度
+#--------3593
+Make selected items the same size (width and height) as the primary selected item
+使选定的项目相同的大小 (宽度和高度) 作为选择的主要项目
+#--------3594
+Same Size
+相同大小
+#--------3595
+Set the zoom level of the view
+设置视图的缩放级别
+#--------3596
+Set Zoom
+设置缩放
+#--------3597
+Set the zoom level of the view to normal 100%
+将视图的缩放级别设置为正常 100%
+#--------3598
+Zoom 100% (Numpad *)
+缩放 100%(Numpad *)
+#--------3599
+Create a new project
+创建新项目
+#--------3600
+New Project
+新建工程
+#--------3601
+Open an existing project
+打开现有项目
+#--------3602
+Open Project
+打开工程
+#--------3603
+Close the open project
+关闭打开的项目
+#--------3604
+Close Project
+关闭工程
+#--------3605
+Add a link to another project or library
+将链接添加到另一个项目或库
+#--------3606
+Add Project Link
+添加项目链接
+#--------3607
+Add a link to a folder
+将链接添加到文件夹
+#--------3608
+Add Folder Link
+添加文件夹链接
+#--------3609
+Remove the selected link
+删除选定的链接
+#--------3610
+Remove Link
+删除链接
+#--------3611
+Dock the Activity Bar to the left side of the application main window
+活动栏停靠应用程序主窗口的左侧
+#--------3612
+Dock Activity Bar Left
+左边停靠活动栏
+#--------3613
+Dock the Activity Bar to the right side of the application main window
+活动栏停靠应用程序主窗口的右侧
+#--------3614
+Dock Activity Bar Right
+右边停靠活动栏
+#--------3615
+Float the Activity Bar on top of the application main window
+活动栏在应用程序主窗口上浮动
+#--------3616
+Float Activity Bar
+浮动工具栏
+#--------3617
+Show or hide the Design Bar
+显示或隐藏设计栏
+#--------3618
+Edit the properties of the selection
+编辑选择的属性
+#--------3619
+Properties
+Properties
+#--------3620
+Change user preferences for application operation
+更改应用程序操作的用户首选项
+#--------3621
+Preferences
+参数
+#--------3622
+Enables or disables snapping of design element edges
+启用或禁用的设计控件边缘对齐
+#--------3623
+Edge Snapping
+边缘吸附
+#--------3624
+Add another design component to the design
+添加另一个设计组件
+#--------3625
+Add Component
+添加组件
+#--------3626
+Send item to back, behind other items with the same parent
+设置对象为背景,后面的其他项目具有相同位置
+#--------3627
+Send to Back
+设为背景
+#--------3628
+Bring item to the front, covering other items
+把对象提前,覆盖其他对象
+#--------3629
+Bring to Front
+移至顶层
+#--------3630
+Send item back one, behind the previous ordered item
+设置向后一层,放到预定对象后
+#--------3631
+Back One
+向后一层
+#--------3632
+Bring item forward one, covering the ordered item above
+向前设置对象一层,覆盖预定对象
+#--------3633
+Forward One
+向上一层
+#--------3634
+Send item to the very back, behind all items regardless of parent
+将对象发送到很后面,忽略所有对象
+#--------3635
+Send to Back of All
+设为背景
+#--------3636
+Show or hide the design screen canvas and border
+显示或隐藏的设计屏幕画布和边框
+#--------3637
+Toggle Canvas
+切换画布
+#--------3638
+Show or hide the design annotations
+显示或隐藏设计注释
+#--------3639
+Toggle Annotations (F8)
+切换注释 (F8)
+#--------3640
+Make a connection between annotation or storyboard elements (use the Shift key to make the command sticky)
+使注释或演示图板控件 (使用 Shift 键以使该命令粘) 之间的连接
+#--------3641
+Make Connection Mode (F4 / Shift+F4 to make sticky)
+粘滞模式(F4 / Shift+F4）
+#--------3642
+Export the active document to an external format
+活动文档导出到外部格式
+#--------3643
+Export
+Export
+#--------3644
+Copies the entire design to the clipboard as a bitmap image
+拷贝整个设计到剪贴板作为位图图像
+#--------3645
+Copy Design Image
+复制设计图
+#--------3646
+Add an icon element to the design
+将图标控件添加到设计
+#--------3647
+Add Icon
+添加图标
+#--------3648
+Add a link to a folder
+将链接添加到文件夹
+#--------3649
+Add Folder Link
+添加文件夹链接
+#--------3650
+Create a new folder in the current project folder
+在当前的项目文件夹中创建一个新的文件夹
+#--------3651
+New Folder
+新建文件夹
+#--------3652
+Create a new design document in the current project folder
+在当前的项目文件夹中创建一个新的设计文档
+#--------3653
+New Design
+新设计
+#--------3654
+Paste an image from the clipboard into a new file
+将图像从剪贴板粘贴到一个新的文件
+#--------3655
+Paste Image to File
+粘贴图像到文件
+#--------3656
+Deletes the selected file or folder to the Recycle Bin (where it may be recovered)
+删除选定的文件或文件夹到回收站 (可以恢复)
+#--------3657
+Delete File/Folder
+删除文件/文件夹
+#--------3658
+Create a new icon in the current folder
+在当前文件夹中创建一个新的图标
+#--------3659
+New Icon
+新图标
+#--------3660
+Open the selected icon for editing
+打开所选的图标进行编辑
+#--------3661
+Edit Icon
+编辑图标
+#--------3662
+Deletes the selected icon file to the Recycle Bin (where it may be recovered)
+删除选定的图标文件到回收站 (可以恢复)
+#--------3663
+Delete Icon File
+删除图标文件
+#--------3664
+Saves all the open files
+保存所有打开的文件
+#--------3665
+Save All (Ctrl+Shift+S)
+保存所有 (Ctrl+Shift+S)
+#--------3666
+Run the prototype from the current GUI design
+从当前的 GUI 设计运行原型
+#--------3667
+Run Prototype (F9)
+运行原型 (F9)
+#--------3668
+Refreshes the current design by reloading any referenced files
+通过重新加载任何引用文件刷新当前设计
+#--------3669
+Refresh Design (F5)
+刷新设计 (F5)
+#--------3670
+Refreshes all open documents by reloading any referenced files
+通过重新加载任何引用文件刷新所有打开的文档
+#--------3671
+Refresh All (Ctrl+F5)
+刷新所有 (Ctrl+F5)
+#--------3672
+Zoom in to the view to see more detail (use Alt + Right button drag for interactive zoom)
+放大到视图以查看更多详细信息 (使用 Alt 右按钮拖动为交互缩放)
+#--------3673
+Zoom In (Numpad +)
+放大(Numpad +)
+#--------3674
+Zoom out of the view to see more of the document (use Alt + Right button drag for interactive zoom)
+缩小视图以查看更多的文档 (使用 Alt 右按钮拖动为交互缩放)
+#--------3675
+Zoom Out (Numpad -)
+缩小 (Numpad -)
+#--------3676
+Show or hide the storyboard navigation overlays
+显示或隐藏情节提要导航贴
+#--------3677
+Toggle Navigation Overlays
+切换导航覆盖
+#--------3678
+Makes the selected element the one that represents the design (on a Storyboard)
+使选定的控件表示 (对演示图板) 设计的那个
+#--------3679
+Set Representative Element (F10)
+集的代表控件 (F10)
+#--------3680
+Clears the setting of the element that represents the design (on a Storyboard)
+清除设置表示 (对演示图板) 设计的控件
+#--------3681
+Clear Representative Element
+清除代表控件
+#--------3682
+Insert Clipboard contents
+插入剪贴板内容
+#--------3683
+Paste
+Paste
+#--------3684
+Change the way the Prototype runs
+改变原型的运行方式
+#--------3685
+Prototype Options
+原形选项
+#--------3686
+Create a new design document
+创建一个新的设计文档
+#--------3687
+New (Ctrl+N)
+新 (Ctrl+N)
+#--------3688
+Opens a web browser to allow you to buy licenses over the Internet
+打开Web浏览器,可让你在互联网上购买许可证
+#--------3689
+Buy Online
+在线购买
+#--------3690
+Enter a license key to unlock this copy of the software
+输入许可证密钥来解锁此软件
+#--------3691
+Enter License Key
+输入授权码
+#--------3692
+Opens the Mouse Controls Help topic
+打开鼠标控制帮助主题
+#--------3693
+Mouse Controls Help
+鼠标控制帮助
+#--------3694
+Opens the Keyboard Shortcuts Help topic
+打开键盘快捷键帮助主题
+#--------3695
+Keyboard Shortcuts Help
+键盘快捷键帮助
+#--------3696
+Refreshes the current icons
+刷新当前图标
+#--------3697
+Refresh Icons
+刷新图标
+#--------3698
+Refreshes the current project file tree
+刷新当前项目文件树
+#--------3699
+Refresh Files
+刷新文件
+#--------3700
+Refreshes the current icon folders after external changes
+在外部更改后刷新当前图标文件夹
+#--------3701
+Refresh Icon Folders
+刷新图标文件夹
+#--------3702
+Create a copy of the selected design document in the current project folder
+在当前项目文件夹中创建选定的设计文件的副本
+#--------3703
+Duplicate Design
+复制设计
+#--------3704
+Duplicate the selection and put it on the Clipboard
+复制所选对象并把它放在剪贴板上
+#--------3705
+Duplicate (Ctrl+D)
+重复 (Ctrl+D)
+#--------3706
+Creates a single project file for distribution to other people for viewing
+创建一个项目文件,分发给其他人查看
+#--------3707
+Create Distribution File
+创建分发文件
+#--------3708
+Sets the main, representative design for this project for prototyping purposes
+设置此项目为原型设计目的的主要的、 有代表性设计
+#--------3709
+Set Main Project Design
+设置主项目设计
+#--------3710
+Clears the main, representative design setting for this project
+清除这个项目的主设计设定
+#--------3711
+Clear Main Project Design
+清理主工程设计
+#--------3712
+Open the design file for the selected component
+打开设计文件所选组件
+#--------3713
+Open Component (Ctrl+Shift+O)
+打开组件 (Ctrl+Shift+O)
+#--------3714
+Run the Prototype project from the main GUI design
+运行主 GUI 设计原型项目
+#--------3715
+Run Prototype from Main Design (Ctrl+F9)
+运行主设计原型 (Ctrl+F9) 
+#--------3716
+Go to the previous screen
+转到上一屏
+#--------3717
+Back
+Back
+#--------3718
+Go to the next screen
+转到下一屏
+#--------3719
+Forward
+Forward
+#--------3720
+Stop the prototype
+停止原型
+#--------3721
+Stop Prototype
+停止原型
+#--------3722
+Close the current mode in the Prototype
+在原型中关闭当前模式
+#--------3723
+Close Mode
+关闭模式
+#--------3724
+Restore the selected component to its original state
+将所选的组件还原到其原始状态
+#--------3725
+Restore Component
+保存组件
+#--------3726
+Restore the selected component sub-item or element to its original state
+将所选的组件分项或控件还原到其原始状态
+#--------3727
+Restore Component Item
+保存组件组
+#--------3728
+Normal selection mode
+正常选择模式
+#--------3729
+Selection Mode
+选择模式
+#--------3730
+Mode to select items within components to override properties
+组件内的项目要修改属性的模式
+#--------3731
+Component Item Selection Mode
+控件选择模式
+#--------3732
+Toggles Full Screen mode
+切换全屏模式
+#--------3733
+Full Screen
+全屏显示
+#--------3734
+Toggles 
+Toggles 
+#--------3735
+Toggles Browser mode
+切换浏览模式
+#--------3736
+Browser Mode
+浏览器模式
+#--------3737
+Generates project documentation according to the chosen type and options
+生成的项目文件按所选择的类型和选项
+#--------3738
+Generate Documentation
+生成文档
+#--------3739
+Make selected text bold or remove bold formatting
+将所选的文本加粗或取消加粗格式
+#--------3740
+Bold
+加粗
+#--------3741
+Make selected text italic or remove italic formatting
+将选定的文本设为斜体或删除斜体格式
+#--------3742
+Italic
+斜体
+#--------3743
+Make selected text underlined or remove underline formatting
+使所选的文本加下划线或删除下划线格式
+#--------3744
+Underline
+下划线
+#--------3745
+Make the current paragraph a heading
+添加当前段落标题
+#--------3746
+Heading
+标题
+#--------3747
+Make the current paragraph part of a numbered list
+添加段落编号
+#--------3748
+Make the current paragraph part of a bulleted list
+添加段落重点号
+#--------3749
+Increase indentation on the current paragraph
+当前段落增加缩进
+#--------3750
+Increase Indent
+增加缩进量
+#--------3751
+Decrease indentation on the current paragraph
+减少当前段落缩进
+#--------3752
+Decrease Indent
+减少缩进量
+#--------3753
+Check spelling
+检查拼写
+#--------3754
+Spell Check
+拼写检查
+#--------3755
+Make selected text bold or remove bold formatting
+将所选的文本加粗或取消加粗格式
+#--------3756
+Bold
+加粗
+#--------3757
+Make selected text italic or remove italic formatting
+将选定的文本设为斜体或删除斜体格式
+#--------3758
+Italic
+斜体
+#--------3759
+Make selected text underlined or remove underline formatting
+使所选的文本加下划线或删除下划线格式
+#--------3760
+Underline
+下划线
+#--------3761
+Make the current paragraph a heading
+添加当前段落标题
+#--------3762
+Heading
+Heading
+#--------3763
+Make the current paragraph part of a numbered list
+添加段落编号
+#--------3764
+Make the current paragraph part of a bulleted list
+添加段落重点号
+#--------3765
+Increase indentation on the current paragraph
+当前段落增加缩进
+#--------3766
+Increase Indent
+增加缩进量
+#--------3767
+Decrease indentation on the current paragraph
+减少当前段落缩进
+#--------3768
+Decrease Indent
+减少缩进量
+#--------3769
+Check spelling
+检查拼写
+#--------3770
+Spell Check
+拼写检查
+#--------3771
+Show Annotation Tool Tips for elements that have documentation
+显示注释工具提示为文档控件
+#--------3772
+Annotation Tool Tips
+注释工具提示
+#--------3773
+Use a default representative element if no other element has been explicitly set
+使用默认的代表控件,如果没有设定其他的控件
+#--------3774
+Default Representative Element
+默认代表控件
+#--------3775
+Click on elements and connections to paint properties from the selected item (use the Shift key to make the command sticky)
+单击控件和连接来绘制属性从所选项目 (使用 Shift 键可使该命令粘)
+#--------3776
+Paint Properties Mode (hold Shift key to make sticky)
+属性刷模式 (长按 Shift 键)
+#--------3777
+Create a new selection group from the selected elements
+从所选的控件创建一个新的选择组
+#--------3778
+Add the selected elements to an existing selection group
+将所选的控件添加到现有的选择组
+#--------3779
+Remove the selected elements from their selection group(s)
+从他们选择的组中删除所选的控件
+#--------3780
+Default Navigation Type
+默认导航类型
+#--------3781
+Swap the positions of two selected elements
+交换两个所选控件的位置
+#--------3782
+Swap Positions (Ctrl+W)
+交换位置 (Ctrl+W)
+#--------3783
+Centre the selected (or all) elements within the view and scale to fit if necessary
+中心选定 (或所有) 内的视图和规模以适应如果必要控件
+#--------3784
+Fit Elements in View (Numpad /)
+在视图适合控件 (Numpad /)
+#--------3785
+Make the target of the selected connection visible
+使所选连接的目标可见
+#--------3786
+Go To Target (Ctrl+T)
+转到目标 (Ctrl T)
+#--------3787
+Make the source of the selected connection visible
+使所选连接的源的可见
+#--------3788
+Go To Source (Ctrl+R)
+转到源  (Ctrl+R)
+#--------3789
+Generates code according to the chosen language and options
+根据所选择的语言和选项生成的代码
+#--------3790
+Generate Code
+生成代码
+#--------3791
+Change options associated with the open project
+更改关联的打开的项目的选项
+#--------3792
+Project Options
+工程选项
+#--------3793
+Opens the selected folder or the folder containing the selected file in Windows Explorer
+打开选定的文件夹或在 Windows 资源管理器中选定的文件的文件夹
+#--------3794
+Rename the selected item
+重命名所选项目
+#--------3795
+Rename
+重命名
+#--------3796
+Enable file and folder move and rename features in projects created with earlier versions of the software
+启用早期版本的软件创建的项目中的文件和文件夹移动和重命名功能
+#--------3797
+Opens the selected folder or the folder containing the selected file in Windows Explorer
+打开选定的文件夹或在 Windows 资源管理器中选定的文件的文件夹
+#--------3798
+Open Folder
+打开文件夹
+#--------3799
+Sets the main, representative design for this project for prototyping purposes
+设置此项目为原型设计目的的主要的、 有代表性设计
+#--------3800
+Set As Main Design
+设为主设计
+#--------3801
+Apply data values from the selected data set
+从选定的数据集应用数据值
+#--------3802
+Specifies that the folder and all sub-folders contain custom element components to copy rather than link to
+指定文件夹和所有子文件夹包含自定义控件的组件来复制,而不是链接
+#--------3803
+Inserts design items from a template file
+从模板文件中插入设计项目
+#--------3804
+Insert from Template
+从模板中插入
+#--------3805
+Creates a template design for inserting into other projects or creating new projects
+创建用于插入到其他项目中或创建新的项目的设计模板
+#--------3806
+Create Template
+创建模板
+#--------3807
+Closes the window/nClose
+Closes the window/nClose
+#--------3808
+Closes all open windows/nClose All
+Closes all open windows/nClose All
+#--------3809
+Closes all other open windows/nClose Others
+Closes all other open windows/nClose Others
+#--------3810
+Align the horizontal and vertical centres of the selected items with the primary selected item
+被选项与主项目的水平和垂直中心对齐
+#--------3811
+Align Centres (Ctrl+4)
+对齐中心 (Ctrl+4)
+#--------3812
+Align the horizontal and vertical centre of the selected items as a group with the primary selected item
+选定项与主项目组水平和垂直中心对齐
+#--------3813
+Group Align Centres (Ctrl+Shift+4)
+组对齐中心 (Ctrl+Shift+4)
+#--------3814
+Align the left edge of the selected items as a group with the primary selected item
+选定项的左边对齐主项目组
+#--------3815
+Group Align Left (Ctrl+Shift+Left Arrow)
+组左对齐(Ctrl+Shift+Left Arrow)
+#--------3816
+Align the horizontal centre of the selected items as a group with the primary selected item
+选定项水平中心对齐主项目组
+#--------3817
+Group Align
+组对齐
+#--------3818
+Horizontal Centre (Ctrl+Shift+6)
+水平中心 (Ctrl+Shift+6)
+#--------3819
+Align the right edge of the selected items as a group with the primary selected item
+选定项的右边对齐主项目组
+#--------3820
+Group Align Right (Ctrl+Shift+Right Arrow)
+组向右对齐(Ctrl+Shift+Right Arrow)
+#--------3821
+Align the best left or right edge of the selected items as a group with the primary selected item
+所选项目左或右边缘对齐主项目组
+#--------3822
+Group Align Left to Right Edges
+组向左对齐
+#--------3823
+Align the top edge of the selected items as a group with the primary selected item
+选定项的上边缘对齐主项目组
+#--------3824
+Group Align Top (Ctrl+Shift+Up Arrow)
+组顶部对齐 (Ctrl+Shift+Up Arrow) 
+#--------3825
+Align the bottom edge of the selected items as a group with the primary selected item
+选定项的下边缘对齐主项目组
+#--------3826
+Group Align Bottom (Ctrl+Shift+Down Arrow)
+底端对齐 (Ctrl+Shift+Down Arrow)
+#--------3827
+Align the vertical centre of the selected items as a group with the primary selected item
+将选定项垂直中心对齐主要项目组
+#--------3828
+Group Align Vertical Centre (Ctrl+Shift+5)
+组对齐垂直中心 (Ctrl+Shift+5)
+#--------3829
+Align the best top or bottom edge of the selected items as a group with the primary selected item
+选定项的顶部或底部边缘对齐主项目组
+#--------3830
+Group Align Top to Bottom Edges
+组顶部和底部边缘对齐
+#--------3831
+Copies the current prototype state to the clipboard as a bitmap image
+原型的当前状态作为位图图像复制到剪贴板
+#--------3832
+Copy Image
+复制图像
+#--------3833
+Export the current prototype state to an image file
+导出当前的原型状态到图像文件
+#--------3834
+Export Image
+导出图像
+#--------3835
+Creates a copy of the project in a ZIP file that may be sent to others for sharing
+创建项目的副本为可发送给其他人共享的ZIP文件
+#--------3836
+Pack Project
+打包项目
+#--------3837
+Show or hide the prototype variable and state condition markers
+显示或隐藏该原型变量和状态条件标记
+#--------3838
+Toggle Prototype Info (Ctrl+F8)
+切换原型信息 (Ctrl+F8)
+#--------3839
+Smoother lines but lower performance
+流畅的线条,但性能较低
+#--------3840
+High Quality
+高质量
+#--------3841
+Group selected elements so that they move as one
+选择组的控件,他们作为一个整体移动
+#--------3842
+Group
+Group
+#--------3843
+Revove selected elements from groups so they move independently
+移除从组中所选控件,使他们独立移动
+#--------3844
+Ungroup
+Ungroup
+#--------3845
+Open this project
+打开此项目
+#--------3846
+Open this project
+打开此项目
+#--------3847
+Open this project
+打开此项目
+#--------3848
+Open this project
+打开此项目
+#--------3849
+Open this project
+打开此项目
+#--------3850
+Open this project
+打开此项目
+#--------3851
+Open this project
+打开此项目
+#--------3852
+Open this project
+打开此项目
+#--------3853
+Open this project
+打开此项目
+#--------3854
+Open this project
+打开此项目
+#--------3855
+Open this project
+打开此项目
+#--------3856
+Open this project
+打开此项目
+#--------3857
+Open this project
+打开此项目
+#--------3858
+Open this project
+打开此项目
+#--------3859
+Open this project
+打开此项目
+#--------3860
+Open this project
+打开此项目
+#--------3861
+Start of element context commands
+开始控件文本控制
+#--------3862
+End of element context commands
+结束控件文本控制
+#--------3863
+Start of element selection group context commands
+开始控件选择组文本控制
+#--------3864
+End of element selection group context commands
+结束控件选择组文本控制
+#--------3865
+Open tutorial on how to use this application
+有关如何使用此应用程序的教程
+#--------3866
+Open tip or trick on how to use this application
+关于如何使用这个应用程序打开的技巧和窍门
+#--------3867
+Access Internet resources
+访问互联网资源
+#--------3868
+Open a further help topic
+打开进一步帮助主题
+#--------3869
+READ
+READ
+#--------3870
+MODIFIED
+MODIFIED
+#--------3871
+Licensed to: %s  
+许可给: %s  
+#--------3872
+  UNLICENSED TRIAL: 1 day remaining  
+  UNLICENSED TRIAL: 1 day remaining  
+#--------3873
+  UNLICENSED TRIAL: %d days remaining  
+  UNLICENSED TRIAL: %d days remaining  
+#--------3874
+  LIMITED LICENSE: 1 day remaining  
+  LIMITED LICENSE: 1 day remaining  
+#--------3875
+  LIMITED LICENSE: %d days remaining  
+  LIMITED LICENSE: %d days remaining  
+#--------3876
+  - - - - LICENSE EXPIRED - - - -  
+  - - - - LICENSE EXPIRED - - - -  
+#--------3877
+  - - - NOT FOR DISTRIBUTION - - -  
+  - - - NOT FOR DISTRIBUTION - - -  
+#--------3878
+Licensed
+Licensed
+#--------3879
+GUI Design Studio
+GUI Design Studio
+#--------3880
+For Help, press F1
+要打开帮助,请按F1
+#--------3881
+Select an object on which to get Help
+选择要获取其帮助的对象
+#--------3882
+%1 in %2
+%1 在 %2 中
+#--------3883
+Create a new document
+创建一个新文档
+#--------3884
+New
+New
+#--------3885
+Open an existing document
+打开一个现有文档
+#--------3886
+Open (Ctrl+O)
+打开(Ctrl+O)
+#--------3887
+Close the active document
+关闭活动文档
+#--------3888
+Close
+Close
+#--------3889
+Save the active document
+保存活动文档
+#--------3890
+Save (Ctrl+S)
+保存 (Ctrl+S)
+#--------3891
+Save the active document with a new name
+用新名称保存活动文档
+#--------3892
+Save As
+另存为
+#--------3893
+Change the printing options
+更改打印选项
+#--------3894
+Page Setup
+页面设置
+#--------3895
+Change the printer and printing options
+更改打印机和打印选项
+#--------3896
+Print Setup
+打印设置
+#--------3897
+Print the active document
+打印活动文档
+#--------3898
+Print (Ctrl+P)
+打印 (Ctrl+P)
+#--------3899
+Display full pages
+显示完整的页面
+#--------3900
+Print Preview
+打印预览
+#--------3901
+Update the container to show any changes
+更新显示变化
+#--------3902
+Update
+Update
+#--------3903
+Save a copy of the active document with a new name
+用新名称保存当前文档的副本
+#--------3904
+Save Copy
+保存副本
+#--------3905
+Open this document
+打开此文档
+#--------3906
+Open this document
+打开此文档
+#--------3907
+Open this document
+打开此文档
+#--------3908
+Open this document
+打开此文档
+#--------3909
+Open this document
+打开此文档
+#--------3910
+Open this document
+打开此文档
+#--------3911
+Open this document
+打开此文档
+#--------3912
+Open this document
+打开此文档
+#--------3913
+Open this document
+打开此文档
+#--------3914
+Open this document
+打开此文档
+#--------3915
+Open this document
+打开此文档
+#--------3916
+Open this document
+打开此文档
+#--------3917
+Open this document
+打开此文档
+#--------3918
+Open this document
+打开此文档
+#--------3919
+Open this document
+打开此文档
+#--------3920
+Open this document
+打开此文档
+#--------3921
+Erase the selection
+删除选择
+#--------3922
+Erase
+Erase
+#--------3923
+Erase everything
+全部擦除
+#--------3924
+Erase All
+全部清除
+#--------3925
+Copy the selection and put it on the Clipboard
+复制所选内容并把它放在剪贴板上
+#--------3926
+Copy (Ctrl+C)
+复制 (Ctrl+C)
+#--------3927
+Cut the selection and put it on the Clipboard
+剪切所选内容并把它放在剪贴板上
+#--------3928
+Cut (Ctrl+X)
+剪切(Ctrl+X)
+#--------3929
+Find the specified text
+查找指定的文本
+#--------3930
+Find
+Find
+#--------3931
+Insert Clipboard contents
+插入剪贴板内容
+#--------3932
+Paste (Ctrl+V)
+粘贴 (Ctrl+V)
+#--------3933
+Repeat the last action
+重复上次操作
+#--------3934
+Repeat
+重做
+#--------3935
+Replace specific text with different text
+用不同的文本替换特定的文本
+#--------3936
+Replace
+替换
+#--------3937
+Select the entire document
+选择整个文档
+#--------3938
+Select All
+全选
+#--------3939
+Undo the last action
+撤消上次操作
+#--------3940
+Undo (Ctrl+Z)
+撤消 (Ctrl+Z)
+#--------3941
+Redo the previously undone action
+恢复以前撤消的操作
+#--------3942
+Redo (Ctrl+Y)
+重做(Ctrl+Y)
+#--------3943
+Open another window for the active document
+打开另一个文档窗口
+#--------3944
+New Window
+新窗口
+#--------3945
+Arrange icons at the bottom of the window
+图标排列在窗口的底部
+#--------3946
+Arrange Icons
+排列图标
+#--------3947
+Arrange windows so they overlap
+排列窗口,使它们重叠
+#--------3948
+Cascade Windows
+层叠窗口
+#--------3949
+Arrange windows horizontally as non-overlapping tiles
+作为非重叠水平排列窗口
+#--------3950
+Tile Horizontally
+横向平铺(&H)
+#--------3951
+Arrange windows vertically as non-overlapping tiles
+以非重叠垂直排列窗口
+#--------3952
+Tile Vertically
+纵向平铺(&V)
+#--------3953
+Split the active window into panes
+将活动窗口拆分成多个窗格
+#--------3954
+Split
+Split
+#--------3955
+Display program information, version number and copyright
+显示程序信息、 版本号和版权
+#--------3956
+About
+关于
+#--------3957
+Quit the application; prompts to save documents
+退出应用程序 ；提示保存文档
+#--------3958
+Exit
+Exit
+#--------3959
+Opens Help Index
+打开帮助索引
+#--------3960
+Help Index
+帮助索引
+#--------3961
+Opens Help Contents
+打开帮助内容
+#--------3962
+Help Contents
+帮助内容
+#--------3963
+Display instructions about how to use help
+显示如何使用帮助
+#--------3964
+Help
+Help
+#--------3965
+Display help for clicked on buttons, menus and windows
+显示单击的按钮、 菜单和窗口的帮助
+#--------3966
+What's This? (Shift+F1)
+这是怎麽?(Shift+F1)
+#--------3967
+Display help for current task or command
+显示当前任务或命令的帮助
+#--------3968
+Help
+Help
+#--------3969
+Switch to the next window pane
+切换到下一个窗格.
+#--------3970
+Next Pane
+下一个窗格
+#--------3971
+Switch back to the previous window pane
+切换到上一个窗口窗格
+#--------3972
+Previous Pane
+上一个窗格
+#--------3973
+CAP
+CAP
+#--------3974
+Show or hide the toolbar
+显示或隐藏工具栏
+#--------3975
+Toggle Toolbar
+切换工具栏
+#--------3976
+Show or hide the status bar
+显示或隐藏状态栏
+#--------3977
+Toggle Status Bar
+切换状态栏
+#--------3978
+Change the window size
+改变窗口大小
+#--------3979
+Change the window position
+改变窗口位置
+#--------3980
+Reduce the window to an icon
+将窗口缩小为一个图标
+#--------3981
+Enlarge the window to full size
+将窗口放大到最大尺寸
+#--------3982
+Switch to the next document window
+切换到下一文档窗口
+#--------3983
+Switch to the previous document window
+切换到上一个文档窗口
+#--------3984
+Close the active window and prompts to save the documents
+关闭活动窗口并提示保存文档
+#--------3985
+Restore the window to normal size
+窗口还原到正常大小
+#--------3986
+Activate Task List
+激活任务列表
+#--------3987
+Activate this window
+激活此窗口
+#--------3988
+Open
+打开
+#--------3989
+Save As
+另存为
+#--------3990
+All Files (*.*)
+所有文件(*.*)
+#--------3991
+Untitled
+Untitled
+#--------3992
+Save Copy As
+另存为
+#--------3993
+Close print preview mode
+关闭打印预览模式
+#--------3994
+Cancel Preview
+取消预览
+#--------3995
+an unnamed file
+未命名的文件
+#--------3996
+&Hide
+隐藏 &H
+#--------3997
+No error message is available.
+无法获取错误信息.
+#--------3998
+An unsupported operation was attempted.
+试图进行不支持的操作.
+#--------3999
+A required resource was unavailable.
+所需资源不可用.
+#--------4000
+Out of memory.
+内存不足
+#--------4001
+An unknown error has occurred.
+发生未知错误
+#--------4002
+An invalid argument was encountered.
+遇到了无效的参数.
+#--------4003
+on %1
+on %1
+#--------4004
+&One Page
+一页(&O)
+#--------4005
+&Two Page
+两页(&T)
+#--------4006
+Page %u
+页 %u
+#--------4007
+Page %u
+页 %u
+#--------4008
+Pages %u-%u
+页 %u-%u
+#--------4009
+prn
+prn
+#--------4010
+Printer Files (*.prn)
+打印机文件 (*.prn)
+#--------4011
+*.prn
+*.prn
+#--------4012
+All Files (*.*)
+所有文件(*.*)
+#--------4013
+Print to File
+打印到文件
+#--------4014
+to %1
+to %1
+#--------4015
+&Update %1
+更新 %1(&U)
+#--------4016
+E&xit && Return to %1
+退出并回到 %1(&X)
+#--------4017
+Linked %s
+链接的 %s
+#--------4018
+Unknown Type
+未知类型
+#--------4019
+Invalid filename.
+无效的文件名.
+#--------4020
+Failed to open document.
+打开文档失败.
+#--------4021
+Failed to save document.
+无法保存文档.
+#--------4022
+Save changes to %1?
+保存修改至 %1?
+#--------4023
+Failed to create empty document.
+建立空文档失败.
+#--------4024
+The file is too large to open.
+该文件太大,无法打开.
+#--------4025
+Could not start print job.
+无法启动打印作业.
+#--------4026
+Failed to launch help.
+启动帮助失败.
+#--------4027
+Internal application error.
+内部应用程序出错.
+#--------4028
+Command failed.
+命令失败.
+#--------4029
+Insufficient memory to perform operation.
+没有足够的内存执行操作.
+#--------4030
+System registry entries have been removed and the INI file (if any) was deleted.
+系统注册项已被移除并且相应的 INI 文件(如存在)也被删除.
+#--------4031
+Not all of the system registry entries (or INI file) were removed.
+不是所有的系统注册项(或 INI 文件)都被移除.
+#--------4032
+This program requires the file %s, which was not found on this system.
+在系统中没有找到该程序所需的文件 %s.
+#--------4033
+This program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+该程序连接到丢失的输出 %s (在文件 %s 中).该计算机上安装的可能是不兼容的 %s 版本.
+#--------4034
+Please enter an integer.
+请输入一个整数.
+#--------4035
+Please enter a number.
+请输入一个数字.
+#--------4036
+Please enter an integer between %1 and %2.
+请输入介于 %1 和 %2 之间的一个整数.
+#--------4037
+Please enter a number between %1 and %2.
+请输入介于 %1 和 %2 之间的一个数字.
+#--------4038
+Please enter no more than %1 characters.
+请输入不超过 %1 个字符.
+#--------4039
+Please select a button.
+请选择一个按钮.
+#--------4040
+Please enter an integer between 0 and 255.
+请输入介于 0 和 255 之间的整数.
+#--------4041
+Please enter a positive integer.
+请输入一个正整数.
+#--------4042
+Please enter a date and/or time.
+请输入一个日期 / 时间.
+#--------4043
+Please enter a currency.
+请输入一种货币.
+#--------4044
+Please enter a GUID.
+请输入一个 GUID.
+#--------4045
+Please enter a time.
+请输入一个时间.
+#--------4046
+Please enter a date.
+请输入一个日期.
+#--------4047
+Unexpected file format.
+意外的文件格式.
+#--------4048
+Cannot find this file.
+找不到此文件.
+#--------4049
+Please verify that the correct path and file name are given.
+请确认正确的路径和文件名称.
+#--------4050
+Destination disk drive is full.
+目标磁盘驱动器已满.
+#--------4051
+Unable to read from %1, it is opened by someone else.
+无法对 %1 进行读操作,它已经被打开.
+#--------4052
+Unable to write to %1, it is read-only or opened by someone else.
+无法对 %1 进行写操作,因为它是只读文件或已经被打开.
+#--------4053
+An unexpected error occurred while reading %1.
+在读取 %1 时发生意外的错误.
+#--------4054
+An unexpected error occurred while writing %1.
+写入 %1 时发生意外的错误.
+#--------4055
+Continue running script?
+继续运行脚本?
+#--------4056
+Dispatch exception: %1
+调度异常: %1
+#--------4057
+The file is not supported by a Document Object server.
+文档对象服务器不支持这个文件.
+#--------4058
+Unable to register document.
+无法注册文档.
+#--------4059
+The document may already be open.
+该文档可能已经打开.
+#--------4060
+Update %1 before proceeding?
+在继续运行前对 %1 进行更新?
+#--------4061
+Save of OLE embedded object in OLE container failed.
+保存的 OLE 对象中嵌入 OLE 容器失败.
+#--------4062
+Failed to register. ActiveX features may not work properly.
+注册失败.ActiveX 功能可能无法正确运行.
+#--------4063
+Failed to update the system registry.
+更新系统注册表失败.
+#--------4064
+Please try using REGEDIT.
+请尝试使用REGEDIT.
+#--------4065
+Unable to read write-only property.
+无法读取只写属性.
+#--------4066
+Unable to write read-only property.
+无法写入只读属性.
+#--------4067
+Unable to load mail system support.
+无法加载邮件系统支持.
+#--------4068
+Mail system DLL is invalid.
+邮件系统 DLL 无效.
+#--------4069
+Send Mail failed to send message.
+发送邮件失败的消息.
+#--------4070
+No error occurred.
+未发生错误.
+#--------4071
+An unknown error occurred while accessing %1.
+访问 %1 时发生未知错误.
+#--------4072
+%1 was not found.
+没有找到 %1.
+#--------4073
+%1 contains an invalid path.
+%1 包含一个无效路径.
+#--------4074
+%1 could not be opened because there are too many open files.
+无法打开 %1,因为有打开的文件太多.
+#--------4075
+Access to %1 was denied.
+对 %1 的访问被拒绝.
+#--------4076
+An invalid file handle was associated with %1.
+一个无效的文件句柄是与 %1 关联.
+#--------4077
+%1 could not be removed because it is the current directory.
+无法删除 %1,因为它是当前目录.
+#--------4078
+%1 could not be created because the directory is full.
+无法创建 %1,因为目录已满.
+#--------4079
+Seek failed on %1
+搜索 %1失败
+#--------4080
+A hardware I/O error was reported while accessing %1.
+访问 %1 时报告硬件 I/O 错误.
+#--------4081
+A sharing violation occurred while accessing %1.
+访问 %1 时发生共享冲突.
+#--------4082
+A locking violation occurred while accessing %1.
+访问 %1 时发生锁定冲突.
+#--------4083
+Disk full while accessing %1.
+访问 %1 时磁盘已满.
+#--------4084
+An attempt was made to access %1 past its end.
+试图访问 %1 时超过它的结尾.
+#--------4085
+No error occurred.
+未发生错误.
+#--------4086
+An unknown error occurred while accessing %1.
+访问 %1 时发生未知错误.
+#--------4087
+An attempt was made to write to the reading %1.
+试图写入正在读取的 %1.
+#--------4088
+An attempt was made to access %1 past its end.
+试图访问 %1 时超过它的结尾.
+#--------4089
+An attempt was made to read from the writing %1.
+试图从正在写入的 %1 中读取.
+#--------4090
+%1 has a bad format.
+%1 格式错误.
+#--------4091
+%1 contained an unexpected object.
+%1 包含意外的对象.
+#--------4092
+%1 contains an incorrect schema.
+%1 包含错误的架构.
+#--------4093
+pixels
+pixels
+#--------4094
+Uncheck
+Uncheck
+#--------4095
+Check
+Check
+#--------4096
+Mixed
+Mixed
+#--------4097
+iNViSiBLE TEAM
+lainline
+#--------4098
+FULL
+FULL
+### ETOC END ###

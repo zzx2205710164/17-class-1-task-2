@@ -1,0 +1,149 @@
+/* Default styleheet */
+.hide
+{
+  display: none;
+}
+body
+{
+  color: #000;
+  background: #fff;
+  margin: 10 20;
+  padding: 0
+}
+img
+{
+  border: none;
+}
+body, p, th, td, li, ul, ol, h1, h2, h3, h4, h5, h6
+{
+  font-family: tahoma, verdana, geneva, arial, helvetica, helve, sans-serif;
+}
+h1
+{
+  font-size: 24pt;
+}
+h2
+{
+  font-size: 18pt;
+  margin-bottom: 4;
+  text-decoration: underline;
+}
+h3
+{
+  font-size: 12pt;
+  margin-bottom: 4;
+}
+p, th, td, li, ul, ol, h4, h5, h6
+{
+  font-size: 10pt;
+}
+p
+{
+  /*margin: 0 400 8 0;*/
+  /*width: 400;*/
+}
+ol, ul
+{
+  margin-top: 0;
+  margin-bottom: 12;
+}
+
+.annotations p
+{
+  margin-left: 20;
+}
+
+.elements p
+{
+  /*font-size: 100%;*/
+  margin-right: 8;
+}
+
+.attribs table
+{
+  border: 1px solid #606080;
+  text-align: left;
+  margin-bottom: 30;
+}
+.attribs th
+{
+  background-color: #ccffdd;
+  border: 1px solid #D0D0E0;
+  padding: 2 5;
+  vertical-align: top;
+  /*width: 100;*/
+}
+.attribs td
+{
+  border: 1px solid #D0E0D0;
+  padding: 2 5;
+  /*width: 250;*/
+}
+
+.data table
+{
+  border: 1px solid #608060;
+  text-align: left;
+  margin-bottom: 10;
+}
+.data th
+{
+  background-color: #ccffdd;
+  border: 1px solid #D0E0D0;
+  padding: 2 5 2 5;
+}
+.data td
+{
+  border: 1px solid #D0E0D0;
+  padding: 2 20 2 5;
+}
+.elements.data td
+{
+  padding: 2 5 2 5;
+}
+
+.thumbs table
+{
+  display: inline;
+  margin: 10;
+  text-align: center;
+}
+.thumbs td
+{
+  border: 1px solid #cccccc;
+  background-color: #f8f8f8; 
+  /*width: 126;*/ /* This won't work in IE with long labels; the image will appear to the left instead of centered. OK in Firefox. */
+  height: 126;
+  padding: 2;
+  text-align: center;
+  vertical-align: middle;
+}
+.thumbs th
+{
+  font-weight: normal;
+}
+
+#footer
+{
+  margin-top: 50px;
+}
+#footer p
+{
+  font-size: 0.75em;
+  margin: 0;
+  text-align: center;
+}
+
+.tree ul
+{
+  margin-left:20;
+}
+.tree li.folder
+{
+  list-style:square;
+}
+.tree li.file
+{
+  list-style:circle;
+}
+
